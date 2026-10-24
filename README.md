@@ -40,5 +40,8 @@ python -m http.server 8777 --directory archive
 
 ## Credits
 
+Item extraction: the English subjects and decisions, topic tags, facts and
+quotes were produced by GLM-5.3-Flash (run locally) from the German source
+text, then checked literally against that text by `tools/verify.py`.
 Coat of arms: Wikimedia Commons, "DEU Aldersbach COA.svg" (public domain).
 Maps: Leaflet, basemap.de / OpenStreetMap contributors, BayernAtlas (ALKIS).
