@@ -1,0 +1,2756 @@
+             Geotechnischer Bericht
+                      Nr. B2208450
+
+
+Erschließung Baugebiet Schwaig X in Aldersbach
+
+
+                     Osterhofen, den 24.11.2022
+                                         Geotechnischer Bericht
+
+                                                    Nr. B2208450
+
+
+
+Auftraggeber:                    Gemeinde Aldersbach
+                                 Klosterplatz 1
+                                 94501 Aldersbach
+
+
+
+
+Planung:                         Arc Architekten Partnerschaft mbB
+                                 Alfons-Hundsrucker-Str. 11
+                                 84364 Bad Birnbach
+
+
+
+Gegenstand:                      Erschließung Baugebiet Schwaig X,
+                                 Gemeinde Aldersbach
+                                 - Geotechnische Untersuchungen -
+
+
+
+
+Datum:                           Osterhofen, den 24.11.2022
+
+
+
+
+Dieser Bericht umfasst 24 Textseiten und 5 Anlagen.
+Die Veröffentlichung, auch auszugsweise, ist ohne unsere Zustimmung nicht zulässig.
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+Inhaltsverzeichnis
+
+
+1.       Allgemeine Angaben ......................................................................................... 1
+     1.1     Vorgang .......................................................................................................... 1
+     1.2     Verwendete Unterlagen ................................................................................... 1
+     1.3     Angaben zum Bauvorhaben ............................................................................ 1
+2.       Durchgeführte Untersuchungen ....................................................................... 2
+     2.1     Felderkundung ................................................................................................ 2
+     2.2     Bodenmechanische Laborversuche ................................................................ 3
+3.       Beschreibung der Untergrundverhältnisse...................................................... 5
+     3.1     Geologischer Überblick ................................................................................... 5
+     3.2     Beschreibung der Bodenschichten und qualitative Wertung ............................ 5
+     3.3     Grundwasserverhältnisse ................................................................................ 7
+4.       Bodenmechanische Kennwerte ........................................................................ 9
+5.       Bauausführung / Gründung ............................................................................ 11
+     5.1     Allgemeines .................................................................................................. 11
+     5.2 Kanalbau ....................................................................................................... 11
+      5.2.1 Allgemeines............................................................................................ 11
+      5.2.2 Baugruben / Verbau ............................................................................... 11
+      5.2.3 Wasserhaltung ....................................................................................... 12
+      5.2.4 Gründung ............................................................................................... 13
+      5.2.5 Sonstige Hinweise zur Kanalerstellung ................................................... 14
+     5.3 Straßenbau ................................................................................................... 15
+      5.3.1  Allgemeines............................................................................................ 15
+      5.3.2  Mindestdicke des frostsicheren Straßenaufbaus .................................... 15
+      5.3.3  Tragfähigkeitsanforderungen an das Erdplanum und die Tragschicht des
+             Oberbaus ............................................................................................... 17
+      5.3.4  Verdichtungsanforderungen an Bodenaustausch und
+             Frostschutzschicht.................................................................................. 18
+     5.4     Flachgründung mit Teilbodenaustausch ........................................................ 18
+     5.5     Versickerungsfähigkeit des Untergrundes / Entwässerungseinrichtungen .... 21
+6.       Schlussbemerkungen...................................................................................... 23
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                      -I-                                   94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+Tabellen
+
+
+TABELLE 1:              KENNZEICHNENDE DATEN DER RAMMKERNBOHRUNGEN                                                                 3
+TABELLE 2:              KENNZEICHNENDE DATEN DER RAMMSONDIERUNGEN                                                                  3
+TABELLE 3:              DURCHGEFÜHRTE LABORUNTERSUCHUNGEN                                                                          4
+TABELLE 4:              LABORERGEBNISSE                                                                                            4
+TABELLE 5:              KORRELATION SCHLAGZAHLEN FÜR GROBKÖRNIGE UND BINDIGE
+                        BÖDEN                                                                                                      6
+TABELLE 6:              BAUTECHNISCHE EIGENSCHAFTEN DER ERKUNDETEN BÖDEN                                                           7
+TABELLE 7:              CHARAKTERISTISCHE BODENMECHANISCHE KENNWERTE                                                             10
+TABELLE 8:              EINTEILUNG DER HOMOGENBEREICHE GEMÄß DIN 18300 UND DIN
+                        18301                                                                                                    10
+TABELLE 9:              MINDESTDICKE DES FROSTSICHEREN STRASSENAUFBAUS NACH
+                        RSTO 12                                                                                                  16
+TABELLE 10:             BEMESSUNGSWERTE DES SOHLWIDERSTANDES FÜR EINZEL-
+                        FUNDAMENTE IN DEN ≥ STEIFEN BINDIGEN DECKLAGEN                                                           19
+TABELLE 11:             BEMESSUNGSWERTE DES SOHLWIDERSTANDES FÜR STREIFEN-                                                       19
+TABELLE 12:             ERFORDERLICHE VERFORMUNGSMODULI UNTER BETONPLATTEN                                                       20
+
+
+
+
+Anlagen
+
+Anlage 1:             Übersichtslageplan, M 1 : 25.000                                                (1 Seite)
+
+Anlage 2:             Lageplan mit Aufschlusspunkten, M 1 : 1.000                                     (1 Seite)
+
+Anlage 3:             Bohrprofile und -beschriebe, M 1 : 50                                           (5 Seiten)
+
+Anlage 4:             Rammdiagramme, M 1 : 50                                                         (3 Seiten)
+
+Anlage 5:             Bodenmechanische Laboruntersuchungen                                            (6 Seiten)
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                      - II -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+1.           Allgemeine Angaben
+
+1.1      Vorgang
+Die Gemeinde Aldersbach beabsichtigt die Erschließung des Baugebietes „Schwaig X“,
+in 94501 Aldersbach. Mit der Planung dieser Baumaßnahme ist die Arc Architekten
+Partnerschaft mbB aus 84364 Bad Birnbach beauftragt. Das Ingenieurbüro Geoplan
+GmbH aus Osterhofen wurde auf Grundlage des Angebots A2207-294-BAU vom
+04.08.2022 beauftragt, im Bereich des geplanten Baugebietes eine Baugrunderkundung
+durchzuführen, die Böden mittels bodenmechanischer Versuche zu untersuchen und ein
+Baugrundgutachten zu erstellen.
+
+Die Felderkundungen wurden auf den Grundstücken mit den Flurnummern 312/4, 312/8
+und 312/9, Gemeinde und Gemarkung Aldersbach durchgeführt.
+
+Im vorliegenden Bericht werden die durchgeführten Feld- und Laborarbeiten dokumen-
+tiert und bewertet. Die erkundeten Untergrundverhältnisse werden beschrieben und be-
+urteilt, Bodenklassen und Bodenparameter werden angegeben. Weiterhin erfolgen An-
+gaben zur Gründung von Bauwerken, zum Straßen- und Kanalbau sowie zur Versicke-
+rungsfähigkeit des Untergrundes aus geotechnischer und hydrogeologischer Sicht.
+
+Bei den durchgeführten geotechnischen Untersuchungen handelt es sich im Sinne der
+DIN 4020 um eine Untersuchung des Baugrundes für den Bereich der Erschließungsflä-
+che. Umwelttechnische Untersuchungen an den Bodenproben wurden bisher nicht vor-
+genommen.
+
+
+1.2      Verwendete Unterlagen
+Für die Bearbeitung des geotechnischen Berichtes wurden folgende Unterlagen verwen-
+det:
+
+-       Vorentwurf Bebauungsplan „Schwaig X“, M 1 : 1.000, Arc Architekten Partner-
+        schaft mbB, Bad Birnbach, 05.05.2022
+-       Geologische Karte von Bayern, M 1 : 25.000, Internetauftritt des Bayerischen
+        Landesamts für Umwelt
+-       Informationsdienst überschwemmungsgefährdeter Gebiete in Bayern, Internet-
+        auftritt des Bayerischen Landesamts für Umwelt
+-       Bohrprofile und -beschriebe der Bohrungen B 1 bis B 5, Geoplan GmbH
+-       Rammsondierprofile DPH 1 bis DPH 3, Geoplan GmbH
+-       Analysenergebnisse der bodenmechanischen Laborversuche, Geoplan GmbH
+
+
+
+1.3          Angaben zum Bauvorhaben
+Im Osten der Gemeinde Aldersbach soll südlich der Pörndorfer Straße bzw. westlich der
+Abt-Zanker-Straße das Baugebiet „Schwaig X“ erschlossen werden. Das Gebiet er-
+streckt sich über ein bisher als Ackerfläche genutztes Areal. Die Erschließung des ca.
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+    b
+                                                                      -1-                                   94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+34.650 m² großen Baugebiets soll hierbei mittels zweier Straßen in Kreuzform von Sü-
+den nach Norden bzw. von Osten nach Westen sowie einer Stichstraße in Richtung Sü-
+den erfolgen. Rund 210 m östlich des geplanten Erschließungsgebietes verläuft ein Flut-
+graben auf einem Höhenniveau von ca. 324 m NN.
+
+Das betrachtete Gelände ist relativ eben und liegt auf einer absoluten Höhe zwischen
+ca. 325 m NN und ca. 326 m NN.
+
+Es handelt sich um eine vollständige Erschließung des Baugebiets, sodass neben Stra-
+ßen auch Kanäle, Kabel, Leitungen sowie Entwässerungsanlagen anzulegen sind. Grö-
+ßere Geländeangleichungsmaßnahmen oder Geländeeinschnitte sind uns aktuell nicht
+bekannt. Nähere Angaben zu den geplanten Verlegetiefen lagen zum Zeitpunkt der Be-
+richterstellung noch nicht vor.
+
+
+
+2.           Durchgeführte Untersuchungen
+
+2.1      Felderkundung
+Die Felderkundungen wurden am 31.08.2022 auf den Grundstücken mit den Flurnum-
+mern 312/4, 312/8 und 312/9, Gemeinde und Gemarkung Aldersbach durchgeführt. Die
+Lage der Ansatzpunkte wurde entsprechend dem Anforderungsprofil dieses Berichts
+gewählt und gleichmäßig über das Untersuchungsgelände verteilt.
+
+Zur Erkundung der Untergrundverhältnisse wurden insgesamt fünf Rammkernbohrun-
+gen nach DIN EN ISO 22475 bis maximal 5,00 m unter Geländeoberkante (GOK) nie-
+dergebracht. In Anlage 3 sind die entsprechenden Bohrbeschriebe und -profile darge-
+stellt. Eine Fotodokumentation der Asphaltkernproben befindet sich in der Anlage 6.
+
+Die Böden wurden nach DIN EN ISO 14688-1 angesprochen. Die Zuordnung zu Boden-
+gruppen erfolgte nach DIN 18196. Des Weiteren sind Bodenproben aus den einzelnen
+Bodenschichten entnommen und zur Ermittlung von bodenmechanischen Kennwerten
+im Erdbaulaboratorium zurückgestellt worden.
+
+Zur Feststellung von Lagerungsdichte und Konsistenz der Schichten sind zusätzlich drei
+Rammsondierungen mit der schweren Rammsonde (DPH) gemäß DIN EN ISO 22476-
+2 niedergebracht worden. Die Sondierungen wurden bis in eine Tiefe von jeweils max.
+5,90 m durchgeführt.
+
+Nach Durchführung der Aufschlussarbeiten wurden die Erkundungspunkte nach Lage
+und Höhe mittels GPS eingemessen. Rechts- und Hochwerte sowie die Ansatzhöhen
+aller Ansatzpunkte können den Bohrprofilen der Anlage 3 entnommen werden. Die Lage
+der Erkundungspunkte geht aus dem Lageplan in Anlage 2 hervor. In den folgenden
+Tabellen 1 und 2 sind die durchgeführten Erkundungen zusammengestellt:
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                      -2-                                   94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+TABELLE 1: KENNZEICHNENDE DATEN DER RAMMKERNBOHRUNGEN
+ Bohrung Ansatzhöhe                   Endteufe          Endteufe              Grund-                Grund-               Datum
+                     [m NN]          [m u. GOK]           [m NN]              wasser                wasser
+                                                                            [m u. GOK]               [m NN]
+   B1                325,40               4,50            320,90                3,90                 321,50            31.08.2022
+   B2                325,50               5,00            320,50                4,20                 321,30            31.08.2022
+   B3                325,50               5,00            320,50                4,90                 320,60            31.08.2022
+   B4                325,80               2,80            323,00                kein Wasser erkundet                   31.08.2022
+   B5                325,70               3,00            322,70                kein Wasser erkundet                   31.08.2022
+
+B…                    Rammkernbohrung DN 60-120 mm nach DIN EN ISO 22475
+
+TABELLE 2: KENNZEICHNENDE DATEN DER RAMMSONDIERUNGEN
+    Ramm-             Ansatzhöhe           Endteufe         Endteufe           kennzeichn. Eindringwiderstand n10
+  sondierung                                                                              [m u. GOK]
+                          [m NN]          [m u. GOK]          [m NN]           0,0 – 2,0            2,0 – 4,0           4,0 – 5,9
+      DPH 1               325,40               5,90           319,50              1–4                 1 – 24             5 – 20
+      DPH 2               325,70               5,90           319,80              2–4                 2 – 43             2 – 20
+      DPH 3               325,50               5,90           319,60              1–3                  0–4               3 – 16
+
+DPH...                schwere Rammsondierung nach DIN EN ISO 22476-2
+
+
+2.2      Bodenmechanische Laborversuche
+Zur Überprüfung der Bodenansprache vor Ort, zur Klassifizierung der Bodengruppen
+gemäß DIN 18196 und zur Ermittlung von bodenmechanischen Kennwerten sowie zur
+Einschätzung der Tragfähigkeit der Böden wurden insgesamt sechs Bodenproben im
+Erdbaulaboratorium näher untersucht. Es wurden folgende Versuche durchgeführt:
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                      -3-                                   94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+TABELLE 3: DURCHGEFÜHRTE LABORUNTERSUCHUNGEN
+
+
+
+
+                                                                                                             komb. Sieb-Schlämmanalyse,
+
+
+                                                                                                                                             Fließ- und Ausrollgrenze
+
+
+
+
+                                                                                                                                                                                                                           Wasserdurchlässigkeit
+                                                                                     Korngrößenverteilung,
+                  Probenbezeichnung
+
+
+                                        Tiefe, m unter GOK
+
+
+
+
+                                                                                                                                                                                        Dichtebestimmung
+                                                                     Wassergehalt,
+
+
+
+
+                                                                                                                                                                        Proctordichte
+
+
+
+
+                                                                                                                                                                                                             Glühverlust
+    Aufschluss
+
+
+
+
+                                                                     DIN 18121
+
+
+                                                                                     DIN 18123
+
+
+                                                                                                             DIN 18123
+
+
+                                                                                                                                             DIN 18122
+
+
+                                                                                                                                                                        DIN 18127
+
+
+                                                                                                                                                                                        DIN 18125
+
+
+                                                                                                                                                                                                             DIN 18128
+
+
+                                                                                                                                                                                                                           DIN 18130
+    B1           D2                   0,40 – 0,80                          X                                                                             X
+
+    B2           D3                   1,70 – 2,50                          X                    X
+
+    B3           D6                   3,80 – 4,90                          X                                                                             X
+
+    B4           D5                   2,60 – 2,80                          X                    X
+
+    B5           D3                   1,10 – 2,30                          X
+
+    B5           D5                   2,70 – 3,00                          X                    X
+
+
+Die Ergebnisse der bodenmechanischen Laborversuche sind, getrennt für die abge-
+grenzten und nachfolgend näher beschriebenen Bodenschichten, in Tabelle 4 zusam-
+mengestellt.
+
+Die vollständigen Laborversuchsprotokolle sind diesem Bericht in Anlage 5 beigefügt.
+
+TABELLE 4: LABORERGEBNISSE
+
+Kenngröße                                                                              Ein-                                     Quartärer Löß                                                        Flussschotter
+                                                                                       heit
+                                                                                                                           Schluffe / Tone                                                                   Kiese
+
+
+Homogenbereich                                                                                                                               B1.1                                                              B2
+
+Korngrößenverteilung
+Feines und Feinstes  Ø ≤ 0,063 mm                                                          %                                                 60,7                                                          6,3 - 21,0
+Sand                                     0,063 – 2,0 mm                                    %                                                 37,2                                                          27,3 – 34,3
+Kies                                                         2,0 – 63 mm                   %                                                   2,1                                                         51,7 – 59,4
+Wassergehalt / Plastizitätseigenschaften
+Wassergehalt                w           %                                                                                             18,8 – 23,6                                                           2,5 – 7,2
+Fließgrenze                                                    wL                          %                                              34,0 - 53,5                                                           --
+Ausrollgrenze                                                  wP                          %                                          17,5 – 21,5                                                               --
+Schrumpfgrenze                                                 ws                          %                                              8,4 – 18,3                                                            --
+Plastizitätszahl                                               IP                          %                                    0,126 – 0,361                                                                   --
+Konsistenzzahl                                                  Ic                          --                                  0,830 – 0,898                                                                   --
+Liquiditätszahl                                                 IL                          --                                  0,102 – 0,170                                                                   --
+Konsistenzform                                                  --                          --                                      steif                                                                       --
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                      -4-                                   94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+3.           Beschreibung der Untergrundverhältnisse
+
+3.1      Geologischer Überblick
+Im Bereich des geplanten Baugebietes „Schwaig X“ in der Gemeinde Aldersbach liegen
+entsprechend den uns vorliegenden geologischen Informationen und Kartenwerken
+unter Oberböden und relativ mächtigen bindigen und sandigen Lößlehmschichten (bis
+maximal ca. 4,9 m unter derzeitigem Geländeniveau), die nachfolgend als Decklagen
+bezeichnet werden, die quartären Kiese der Flussschotter vor. Diese allgemeinen
+Kenntnisse wurden im Rahmen der Bodenaufschlussarbeiten bis zu den jeweiligen
+Endtiefen bestätigt.
+
+Auf Grundlage der Erkundungsergebnisse sowie allgemeiner Kenntnisse lässt sich der
+Untergrund im Untersuchungsgebiet bis in den erkundeten Tiefenbereich (max. 5,9 m
+unter Geländeoberkante) wie folgt beschreiben:
+
+Oberböden / Decklagen                                                      - Mutterboden (Schluff, schwach
+(erkundet bis max. 4,90 m u. GOK)                                            sandig bis sandig, teils tonig, humos,
+                                                                             Wurzelreste);
+                                                                             Konsistenz: steif
+                                                                             Homogenbereich: O1
+
+                                                                           - Ton, schwach schluffig bis schluffig,
+                                                                             teils schwach sandig bis sandig;
+                                                                             Konsistenz: weich bis halbfest
+                                                                             Homogenbereich: B1.1
+
+                                                                           - Schluff, ± sandig, teils schwach tonig
+                                                                             bis tonig;
+                                                                             Konsistenz: steif bis halbfest
+                                                                             Homogenbereich: B1.1
+
+                                                                           - Sand, teils tonig, schwach schluffig
+                                                                             bis schluffig;
+                                                                             Lagerung: mitteldicht bis dicht
+                                                                             Homogenbereich: B1.2
+
+Quartäre Flussschotter                                                     - Kies, ± sandig, ± schluffig;
+(frühestens erkundet ab 2,60 m u. GOK)                                       Lagerung: mitteldicht bis dicht
+                                                                             Homogenbereich: B2
+
+
+3.2      Beschreibung der Bodenschichten und qualitative Wertung
+
+Oberböden / Decklagen
+
+Ab Geländeoberkante wurde in allen Bodenaufschlüssen eine 40 cm bis 60 cm starke
+Mutterbodenschicht (Homogenbereich O1) in Form von schwach sandigen bis sandigen,
+teils tonigen, humosen Schluffen in steifer Konsistenz erkundet. Unter der Oberboden-
+schicht wurden in allen Bohrungen bis in eine Tiefe von 2,60 m unter GOK bis 4,90 m
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                      -5-                                   94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+unter GOK (= 323,20 m NN bis 320,60 m NN) bindige und teils auch sandige Lößlehm-
+schichten erbohrt. Diese Deckschichten wurden angesprochen als schwach schluffige
+bis schluffige, teils schwach sandige bis sandige Tone in weicher bis halbfester Konsis-
+tenz und als mehr oder weniger sandige, teils schwach tonige bis tonige Schluffe in stei-
+fer bis halbfester Konsistenz, die jeweils dem Homogenbereich B1.1 zuzuordnen sind. In
+den bindigen Deckschichten wurden Schlagzahlen von 0 bis 26 Schläge pro 10 cm Ein-
+dringtiefe ermittelt, was auch der angesprochene Konsistenz überwiegend entspricht. In
+den Bohrungen B 2 und B 5 liegen die Decklagen auch in Form von teils tonigen,
+schwach schluffigen bis schluffigen Sanden (Homogenbereich B1.2) vor, die nach Aus-
+wertung der schweren Rammsondierungen eine mitteldichte bis dichte Lagerung aufwei-
+sen.
+
+Quartäre Flussschotter
+
+Unter den zuvor beschriebenen bindigen und sandigen Decklagen wurden in allen Boh-
+rungen bis zu den jeweiligen Bohrendteufen von 2,80 m unter GOK bis 5,00 m unter
+GOK (= 323,00 m NN bzw. 320,50 m NN) schwach sandige bis stark sandige, mehr oder
+weniger schluffige, quartäre Kiese der Flussschotter erkundet. Die dem Homogenbe-
+reich B2 zugeordneten Kiese weisen gemäß den Schlagzahlen der schweren Ramm-
+sondierungen von 10 Schlägen bis 32 Schlägen pro 10 cm Eindringtiefe eine mitteldichte
+bis dichte Lagerung auf.
+
+Nachfolgende Tabelle 5 zeigt eine Korrelation der Schlagzahlen für bindige und grob-
+körnige Böden sowie deren Zuordnung in Bezug auf Lagerungsdichte und Konsistenz.
+
+TABELLE 5: KORRELATION SCHLAGZAHLEN FÜR GROBKÖRNIGE UND BINDIGE BÖDEN
+
+
+
+
+Qualitative Wertung der Bodenschichten
+
+In nachfolgender Tabelle 6 werden die bodenmechanischen und bautechnischen Eigen-
+schaften der erkundeten Böden beschrieben und im Hinblick auf die Baumaßnahme
+qualitativ beurteilt.
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                      -6-                                   94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+TABELLE 6: BAUTECHNISCHE EIGENSCHAFTEN DER ERKUNDETEN BÖDEN
+
+ Bewertungskriterien                   Oberböden                           Decklagen                        Flussschotter
+                                         Schluffe                Schluffe /              Sande                    Kiese
+                                                                   Tone
+ Homogenbereich                              O1                     B1.1                   B1.2                     B2
+ Tragfähigkeit                             gering             gering – mittel        mittel – groß                 groß
+
+ Kompressibilität                           groß               mittel – groß        gering – mittel               gering
+
+ Standfestigkeit                           gering              mittel – groß        gering – mittel               gering
+
+ Wasserempfindlichkeit                      groß                    groß                  groß                    mittel
+
+ Frostempfindlichkeits-
+                                            groß                    groß            gering – mittel           mittel – groß
+ klasse nach
+                                             F3                      F3                   F2                    F2 – F3
+ ZTV E-StB 17
+ Fließempfindlichkeit bei                                                             groß – sehr
+                                     gering – mittel           mittel – groß                                 mittel – groß6)
+ Wasserzufluss                                                                           groß
+                                                             gering bis sehr
+ Wasserdurchlässigkeit                     mittel                            gering – mittel                  mittel – groß
+                                                                 gering
+                                                                                        leicht –
+                                                               leicht – mittel-                              mittelschwer –
+ Rammbarkeit                               leicht                                    mittelschwer /
+                                                                   schwer                                       schwer4)
+                                                                                       schwer4)
+                                                                                        leicht –                 leicht –
+                                      leicht – mittel-        mittelschwer –
+ Lösbarkeit                                                                          mittelschwer /          mittelschwer /
+                                          schwer                 schwer1)
+                                                                                       schwer5)                 schwer5)
+                                                               mäßig geeig-         mäßig2) bis gut        mäßig2) – gut ge-
+ Wiedereinbaufähigkeit               Rekultivierung
+                                                                 net2),3)             geeignet                 eignet
+1)
+   bei ≥ halbfester Konsistenz
+2)
+   bei stark schluffigen Kiesen sowie bei sandigen und bindigen Böden wird bei einer Zwischenlagerung ein
+   Abdecken mit windsoggesicherten Folien erforderlich
+3)
+   unter setzungsempfindlichen, befestigten Flächen wäre eine Bodenverbesserung mittels Kalk-Zement-
+   Gemisch als Bindemittel erforderlich
+4)
+   bei ≥ dichter Lagerung werden Einbringhilfen wie z. B. Vorbohrungen erforderlich
+5)
+   bei ≥ dichter Lagerung
+6)
+   bei stärker sandigen Kiesen
+
+
+
+3.3      Grundwasserverhältnisse
+Im Rahmen der Erkundungsarbeiten wurde in drei (B 1 bis B 3) der fünf durchgeführten
+Rammkernbohrungen ein Grundwasserspiegel bei Tiefen von 3,90 m bis 4,90 m unter
+GOK (= 321,50 m NN bis 320,60 m NN) angetroffen. Hierbei handelt es sich voraus-
+sichtlich nicht um ausgepegelte Wasserstände und es könnten teils gespannte Grund-
+wasserverhältnisse vorliegen. Ein Schichtwasserzutritt konnte hier nicht festgestellt wer-
+den. Lediglich die in den Bohrungen B 2 und B 3 erkundeten weichen Tonschichten wei-
+sen ggf. auf ein Schichtwasserzufluss hin. Den Grundwasserleiter stellen die quartären
+Kiese der Flussschotter dar. Die Grundwasserfließrichtung dürfte sich parallel zur Vils
+von Westen nach Osten bewegen.
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+     b
+                                                                      -7-                                   94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+Grundsätzlich ist auf dem Baufeld davon auszugehen, dass bedingt durch die Überde-
+ckung des quartären Grundwasserleiters durch hydraulisch gering durchlässige Deck-
+schichten zeit- und abschnittsweise leicht gespannte Grundwasserverhältnisse auftreten
+können.
+
+Es wird hier zudem darauf hingewiesen, dass höher liegende Schichtwasserspiegel über
+gering leitfähigen Stauschichten in allen Tiefenbereichen bis Geländeoberkante und ins-
+besondere in den bindigen Deckschichten auftreten können. Diese werden allerdings
+hauptsächlich in Abhängigkeit von Niederschlägen Bestand haben und im Fall eines
+Anschnitts rasch „ausgeblutet“ sein.
+
+Nach dem Informationsdienst überschwemmungsgefährdeter Gebiete in Bayern liegt die
+Baumaßnahme überwiegend in einer Hochwassergefahrenfläche HQ Extrem. Wasserstän-
+de bis Geländeoberkante sind somit temporär nicht auszuschließen.
+
+Im Online-Portal „Gewässerkundlicher Dienst Bayern“ des Bayerischen Landesamts für
+Umwelt können tagesaktuelle Daten zu einer naheliegenden Grundwassermessstelle
+abgerufen und Auswertungen der Grundwasserganglinie eingesehen werden. Die Mess-
+stelle Walchsing mit den zugehörigen Gauß-Krüger-Koordinaten RW = 799765 und HW
+= 5389862 umfasst einen Aufzeichnungszeitraum von Juli 1998 bis November 2022. Die
+folgende Grafik zeigt die Grundwasserganglinie für die über 24-jährige Aufzeichnungs-
+phase:
+
+
+
+
+Für die genannte Messstelle liegen für den Beobachtungszeitraum von Juli 1998 bis
+November 2022 nachfolgende Wasserstände vor (vgl. Grafik):
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                      -8-                                   94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+NNW-Stand                                   321,52 m NN
+MW-Stand                                    322,67 m NN
+HHW-Stand                                   323,96 m NN
+
+Die Lage der Messstelle liegt ca. 860 m westlich zum Baufeld. Es wird somit v. a. unter
+der Berücksichtigung, dass das Baugebiet überwiegend in einem Überschwemmungs-
+gebiet liegt, ein Bemessungs-HW-Stand inklusive Sicherheitszuschlag bei knapp
+unter Geländeoberkante bei 325,0 m NN angegeben.
+
+
+
+4.           Bodenmechanische Kennwerte
+
+In den Abschnitten 2 und 3 wurden die im Rahmen der Baugrunderkundung angetroffe-
+nen Bodenschichten näher beschrieben und beurteilt. Im Folgenden werden die für den
+Erdbau notwendigen Bodenklassen und die für erdstatische Berechnungen erforderli-
+chen Bodenparameter angegeben.
+
+In der nachfolgend dargestellten Tabelle 7 werden die wichtigsten Bodenkennwerte und
+erdbautechnischen Größen zusammengestellt. In der Tabelle 8 sind die wichtigsten bo-
+denmechanischen Kennwerte nach Homogenbereichen dargestellt. Sofern in den Tabel-
+len Schwankungsbreiten angegeben werden, darf in der Regel mit Mittelwerten gerech-
+net werden. In kritischen Bauzuständen oder Einzelabschnitten sollte jedoch der un-
+günstigere Wert in der Berechnung angesetzt werden.
+
+Nach DIN 18196 sind die Bodenarten für bautechnische Zwecke in Gruppen mit annä-
+hernd gleichem stofflichem Aufbau und ähnlichen bodenphysikalischen Eigenschaften
+zusammengefasst.
+
+Nach DIN 18300 (2012) werden die Boden- und Felsarten entsprechend ihrem Zustand
+beim Lösen klassifiziert. Dabei erfolgt die Klassifizierung unabhängig von maschinen-
+technischen Leistungswerten allein nach boden- bzw. felsmechanischen Merkmalen.
+
+Nach DIN 18301 (2012) werden Böden und Fels aufgrund ihrer Eigenschaften für Bohr-
+arbeiten eingestuft.
+
+Die in den Tabellen angegebenen Bodenkenngrößen (Rechenwerte) beruhen auf Erfah-
+rungswerten sowie den Erkenntnissen der örtlichen Untersuchungen und stützen sich
+auf die Empfehlungen des Arbeitsausschusses Ufereinfassungen (EAU), die Empfeh-
+lungen des Arbeitsausschusses Baugruben (EAB) und darüber hinaus auf die Angaben
+des Grundbautaschenbuches Teil 1. Die Parameter gelten dabei für die anstehenden
+Schichten im ungestörten Lagerungsverband. Bei Auflockerungen und/oder bei Auf-
+weichungen, z. B. im Zuge der Baumaßnahme, können sich diese Parameter deutlich
+reduzieren. Bei Berechnungen ist bezüglich der Schichteinteilung auf den nächstliegen-
+den Schurf Bezug zu nehmen.
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                      -9-                                   94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+TABELLE 7: CHARAKTERISTISCHE BODENMECHANISCHE KENNWERTE
+
+
+
+
+                                                                                                                                                                                                                                                              Boden- und Felsklassen
+
+
+
+                                                                                                                                                                                                                                                                                                                             Wasserdurchlässigkeit
+                                                                                                                     Wichte, unter Auftrieb
+
+
+
+
+                                                                                                                                                                                                         Kohäsion, undräniert
+                                        Bodengruppe (DIN 18196)
+
+
+
+
+                                                                                                                                                                                                                                                              (DIN 18300 : 2012)
+
+                                                                                                                                                                                                                                                              (DIN 18301 : 2012)
+                                                                                                                                                                          Kohäsion, dräniert
+                                                                                     Wichte, erdfeucht
+
+
+
+
+                                                                                                                                                      Reibungswinkel
+
+
+
+
+                                                                                                                                                                                                                                                              Bodenklasse
+                                                                                                                                                                                                                                          Steifemodul
+                                        Zustandsform
+          Bodenschicht
+
+
+
+
+                                                                                    cal g                           cal g´                          cal j               cal c´                   cal cu                              cal ES                             -                           -                          kf
+                                                                                   [kN/m³]                     [kN/m³]                                [°]               [kN/m²] [kN/m²]                                             [MN/m²]                             [-]                         [-]                [m/s]
+
+ Oberböden –                               OH                                      15-17                             5-7                           15,0-17,5              1-5                     15-50                                  1-3                            1                   BO1               10-7- 10-9
+ Schluffe                                  steif
+                                   UL / TL / TM / TA
+ Decklagen –
+                                     weich – steif                                 18-19                             8-9                           22,5-25,0              2-10                    10-30                                6-10                                             BB2                   10-7-10-10
+ Tone / Schluffe                    steif – halbfest                               19-20                            9-10                           25,0-27,5             10-20                    25-50                                8-15
+                                                                                                                                                                                                                                                                    4/5
+                                                                                                                                                                                                                                                                                       BB2-3                  10-8-10-11
+ Decklagen –                               SU
+ Sande                             mitteldicht – dicht                             19-20                            10-11                          32,5-35,0             0-21)                      0-51)                             40-60                         3/5                   BN1                 10-4-10-7
+
+ Flussschotter –                       GU / GU*
+ Kiese                             mitteldicht – dicht                             21-23                            12-14                          35,0-37,5             1-31)                      3-51)                            60-100                      3/4/5           BN1/BN2                      10-3-10-6
+
+1)
+     kapillare Ersatzkohäsion durch mineralische Restbindung
+
+TABELLE 8: EINTEILUNG DER HOMOGENBEREICHE GEMÄß DIN 18300 UND DIN 18301
+                                                                                                                          Kieskorn 2,0 – 63,0 mm
+
+
+
+                                                                                                                                                   Feinkorn und Feinstes
+                                                                                             Korngrößenverteilung
+                                                                                             Steine Ø > 63,0 mm
+
+
+
+
+                                                                                                                                                   0,063 mm – 2,0 mm
+                                                         Bodengruppe (DIN 18196)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                     Organischer Anteil
+                                                                                                                                                                                                 Dichte, erdfeucht
+                                                                                                                                                                                                                                Scherfestigkeit,
+
+
+
+
+                                                                                                                                                                                                                                                                                                            Konsistenzzahl
+                                                                                                                                                                                                                                                                                 Plastizitätszahl
+                                                                                                                                                   Ø ≤ 0,063 mm
+
+
+
+
+                                                                                                                                                                                                                                                         Wassergehalt
+                                                                                                                                                                                                                                undräniert
+                                                                                                                                                   Sandkorn
+                                                         Zustandsform
+                    Bodenschicht
+
+
+
+
+                                                                                                                                                                                                                                 cal cu                   w                        IP                        IC
+                                                                                                         %                    %                       %                  %                      [t/m³]                          [kN/m²]                   %                        –                         –                                         %
+
+ Homogenbereich O1                                           OH                                          --               0-5                       5-30               65-95                   1,5-1,7                           15-50                  15-40                 0,00-0,50                   0,75-1,00 5-10
+ (Oberboden)                                                 steif
+
+ Homogenbereich B1.1
+                                           UL / TL / TM / TA
+ (Tone und Schluffe                        weich – halbfest
+                                                                                                         --               0-5                       0-40               55-100                  1,8-2,0                          25-400                  10-40                 0,00-0,50                   0,50-1,25                                  0-2
+ der Decklagen)
+ Homogenbereich B1.2
+                                                    SU
+ (Sande der Deckla-                         mitteldicht – dicht
+                                                                                                         --               0-5                       85-95               5-10                   1,9-2,0                           5-151)                 15-30                 0,00-0,50                   0,50-0,75                                  0-1
+ gen)
+ Homogenbereich B2.1
+                                                GU / GU*
+ (Kiese der Flussschot-                     mitteldicht – dicht
+                                                                                                         0-5         40-90                          5-40                5-30                   2,1-2,3                           0-151)                 2-15                       --                         --                                     0-1
+ ter)
+1)
+     kapillare Ersatzscherfestigkeit durch mineralische Restbindung
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+     b
+                                                                     - 10 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+Die angegebenen Wasserdurchlässigkeiten sind als Anhaltswerte für die Wasserent-
+nahme anzusehen und können stärkeren Schwankungen (±) unterliegen. In Abschnitt
+5.5 wird auf die maßgebenden Werte bezüglich der Versickerung von Wasser in den
+Untergrund eingegangen.
+
+
+
+5.           Bauausführung / Gründung
+
+5.1      Allgemeines
+Im Rahmen des vorliegenden Baugrundgutachtens zur Erschließung des geplanten
+Baugebiets „Schwaig X“ in 94501 Aldersbach werden nachfolgend geotechnische und
+hydrogeologische Angaben zum Kanal- und Straßenbau sowie erste Tragfähigkeitswerte
+für eine Flachgründung in den bindig-sandigen Decklagen bzw. quartären Kiesen zu-
+sammengestellt. Weiterhin wird auf die Versickerungsmöglichkeiten von nicht schädlich
+verunreinigten Oberflächenwässer, insbesondere im Bereich der quartären Kiese einge-
+gangen.
+
+
+5.2      Kanalbau
+
+5.2.1 Allgemeines
+Da uns keine Informationen über die Gründungstiefe der Kanäle vorliegen, wird von ei-
+ner Verlegung im üblichen Tiefenbereich von ca. 1,5 m – 3,5 m unter Geländeoberkante
+ausgegangen.
+
+Im Gründungsbereich der Kanäle stehen somit voraussichtlich überwiegend die bindigen
+bis gemischtkörnigen Decklagen in meist weicher bis halbfester Konsistenz bzw. mittel-
+dichter bis dichter Lagerung an. Im Abschnitt der Bohrungen B 4 und B 5 können hier je
+nach Gründungstiefe abschnittsweise auch die quartären Kiesen in mitteldichter bis dich-
+ter Lagerung anstehen.
+
+Ein geschlossener Grundwasserspiegel wurde in keiner der durchgeführten Erkundun-
+gen bis zu den maximalen Aufschlusstiefen von 2,80 m unter GOK bis 5,00 m unter
+GOK (= 323,00 m NN bis 320,50 m NN) erkundet. Auf Grund des Auftretens gering was-
+serdurchlässiger Deckschichten können in Teilen der betrachteten Grundstücke im
+Hochwasserfall teils gespannte Grundwasserdruckverhältnisse entstehen. Ein Bemes-
+sungswasserstand wäre vorliegend, inkl. eines Sicherheitszuschlages, auf Kote 325,00
+m NN festzulegen.
+
+Bezüglich Einbau und Prüfung der Kanäle wird auf die ATV-DVWK-A 139 verwiesen.
+Nachfolgend werden die erforderlichen Angaben für den Kanalbau zusammengestellt.
+
+
+5.2.2 Baugruben / Verbau
+Bei den erforderlichen Aushubtiefen zur Verlegung der Kanäle von ca. 1,5 m – 3,5 m
+unter Geländeoberkante ist die Ausführung von offenen, geböschten Baugruben (Bö-
+schungswinkel nach DIN 4124 ≤ 60° in den Schluffen ≥ steifer Konsistenz; Böschungs-
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 11 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+winkel ≤ 45° nach DIN 4124 in weichen Böden bzw. nichtbindigen Böden) zur Verlegung
+der Kanäle über dem Grundwasser theoretisch denkbar, jedoch aufgrund der zu erwar-
+tenden, großen Aushubmengen vermutlich nicht wirtschaftlich. Aus diesen Gründen em-
+pfehlen wir generell, einen im Kanalbau üblichen Stahlplattenverbau zur Verlegung der
+Kanäle einzusetzen.
+
+Die Verbauelemente und Aussteifungen sind dabei statisch ausreichend zu dimensionie-
+ren. Der Verbau ist kraftschlüssig abzuteufen und schrittweise mit der Verfüllung wieder
+rückzubauen. Der Aushub darf der Graben- bzw. Baugrubensicherung nur in einem dem
+Untergrund angemessenen Abstand von ca. 0,2 m, bei Grund- und Schichtwasserzutrit-
+ten auch weniger, vorauseilen.
+
+Voraussetzung für den Einsatz eines Stahlplattenverbaus ist weiterhin ein ausreichender
+Abstand zu evtl. bestehender Bebauung. Zwischen Grabensohle und Außenkante der
+Gründungssohle bestehender Bauwerke bzw. Bauteile darf dabei der Winkel zur Hori-
+zontalen maximal 45° (horizontaler Abstand ³ Aushubtiefe bei oberflächig gegründeten
+Bauteilen / Bauwerken) betragen, um mögliche Verformungen und damit einhergehende
+Setzungen zu minimieren. Gleiches gilt für bestehende Kanäle oder sonstige Sparten.
+
+Ist ein ausreichender Abstand nicht gegeben und ein Abrücken der Kanaltrasse von un-
+weit angrenzenden Bauteilen nicht möglich, wären Zusatzmaßnahmen (z.B. Unter-
+fangungen von Bauwerken) und/oder Auflagen hinsichtlich des Vorgehens bei der Ka-
+nalverlegung (z. B. Vorgehen in kurzen Abschnitten) notwendig. Dabei ist in kritischen
+Abschnitten das genaue Vorgehen vor Ort mit der Baufirma, dem Planer und dem Gut-
+achter festzulegen. Da es sich vorliegend um ein Neubaugebiet handelt, welches auf
+einer bestehenden Ackerfläche zu liegen kommt, ist die geschilderte Problematik aber
+voraussichtlich höchstens an den Randbereichen relevant.
+
+
+5.2.3 Wasserhaltung
+Ein geschlossener Grundwasserspiegel wurde im relevanten Tiefenbereich im Untersu-
+chungsgebiet nur teils angetroffen. Der Bemessungswasserstand für den (extremen)
+Hochwasserfall ist inkl. eines Sicherheitszuschlages auf Kote 325,00 m NN festzulegen.
+
+In den Bereichen, in denen die Aushubsohle des Kanalgrabens über dem Grundwasser-
+spiegel in den schwach schluffigen, quartären Kiesen der Flussschotter liegt, wie dies im
+Abschnitt der Bohrung B 5 der Fall sein könnte, ist die Versickerung von anfallendem
+Schicht- und Oberflächenwasser in den überwiegend gut durchlässigen Kiesen über die
+Aushubsohle in der Regel gut möglich. Dies wird, stets in Abhängigkeit von der Verlege-
+tiefe der Kanäle, allerdings voraussichtlich nur in kleineren Abschnitten zutreffen.
+
+Stehen auf Höhe der Aushubsohle stärker feinkornhaltige Kiese bzw. Sande oder schluf-
+fige bis tonige Decklagen an und / oder bindet der Kanal ggf. unter den Grundwasser-
+spiegel ein, empfehlen wir den Einbau einer Filterkieslage (d ³ 0,20 m) aus feinkornar-
+men Kies oder vergleichbarem Material in geotextiler Umhüllung (Vlies GRK III) sowie
+die Anordnung von Pumpensümpfen mit Schmutzwasserpumpen nach Bedarf. Bei Erfor-
+dernis sind zusätzlich ausgefilterte Drainageleitungen einzubauen, die den Pumpen-
+sümpfen bzw. -schächten zuzuführen sind. Die anfallenden Wassermengen belaufen
+sich hierbei allerdings voraussichtlich auf vergleichsweise geringe 0 – 15 l/s bei einer
+Haltungslänge von ca. 30 m im Kanalgraben und sind v. a. von den Grundwasserstän-
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 12 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+den während der Bauphase abhängig. Höhere Wassermengen sind in Zusammenhang
+mit Extremniederschlägen aber nicht auszuschließen.
+
+Die Ableitung des geförderten Wassers erfolgt am zweckmäßigsten, evtl. über einen
+Absetzcontainer, direkt in eine Kanalisation oder einen naheliegenden Vorfluter. Die
+Wasserhaltung muss solange durchgeführt werden bis eine ausreichende Auftriebssi-
+cherheit gegeben ist und die Hinterfüllung durchgeführt wurde.
+
+
+5.2.4 Gründung
+Nach den Aufschlüssen ist davon auszugehen, dass im Gründungsbereich der Kanäle
+überwiegend die bindigen Decklagen in steifer bis halbfester, teils auch weicher Konsis-
+tenz bzw. die quartären Kiese in mitteldichter bis dichter Lagerung und untergeordnet die
+sandigen Decklagen in mitteldichter bis dichter Lagerung anstehen.
+
+Die Gründung der Kanäle bzw. der statisch erforderlichen Rohrauflager kann in den
+mindestens steifen Schluffen bzw. sandigen Decklagen oder den stärker schluffigen,
+quartären Kiesen auf der für die Wasserhaltung notwendigen, ³ 20 cm mächtigen Ent-
+wässerungsschicht erfolgen. Die Kiestragschicht muss ausreichend verdichtet bzw.
+nachverdichtet (DPr ≥ 100 %) in geotextiler Umhüllung (Vlies GRK III) eingebaut werden.
+
+In Abschnitten, wo die gut tragfähigen, feinkornarmen Kiese der quartären Flussschotter
+über dem Grundwasserspiegel auf Niveau der Aushubsohle anstehen sollten und wo
+dementsprechend keine Wasserhaltungsmaßnahmen erforderlich werden, genügt es
+voraussichtlich, die Aushubsohlen sorgfältig mit möglichst schwerem Gerät nachzuver-
+dichten (DPr ³ 100 %). Auf die Einbringung eines Entwässerungs-/Gründungspolsters
+kann hier dann verzichtet werden.
+
+Bei Gründung in bindigen Böden mit ≤ weicher Konsistenz wird es zuerst erforderlich,
+Schroppenmaterial (Körnung z.B. 50/150 mm) in die anstehenden, bindigen Böden sta-
+tisch einzudrücken, um ein besser tragfähiges Arbeitsplanum herzustellen. Dies gilt
+auch, sofern sich witterungsbedingt (z. B. durch Schichtwasser oder Niederschläge) sehr
+weiche, wassergesättigte Zustandsformen auf Höhe der Aushubsohle ergeben. Über
+diesem Schroppenmaterial ist eine ca. 20 cm mächtige Ausgleichsschicht (Körnung 0/45
+mm; Bodengruppe GI nach DIN 18196) als Gründungsschicht für den Kanal bzw. die
+Leitung einzubauen. Alternativ können Bereiche in ≤ weicher Zustandsform auch bis zu
+darunter anstehenden, besser tragfähigen bindigen Schichten in ≥ steifer Konsistenz
+bzw. gemischtkörnigen Ablagerungen weiter ausgekoffert und durch ein feinkornarmes
+Kies-Sand-Gemisch in Geotextilummantelung ersetzt werden. Hierfür sollte gut verdicht-
+bares Kies-Sand-Material (Feinkornanteil £ 10,0 M.-%) bei ausreichender Verdichtung
+(DPr ³ 100 %) und einem lagenweisen Einbau (Lagenstärke £ 0,35 m) verwendet wer-
+den.
+
+Die Rohrbettung und die Auffüllung der Bettungszone ist mit wasserunempfindlichem
+Material, z. B. Rollkies oder Split der Körnung 4/8 mm oder 8/16 mm, herzustellen.
+
+Bei Gründung in beschriebener Weise sind innerhalb der Kiese und Sande nur begrenz-
+te Setzungen von ≤ 0,5 cm für die Kanalrohre zu erwarten. Bei einer Gründung in den
+bindigen Deckschichten können die zu erwartenden Setzungen auf maximal 1,0 cm be-
+grenzt werden.
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 13 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+5.2.5 Sonstige Hinweise zur Kanalerstellung
+
+Rohrstatik / Bauwerksstatik / Auftriebssicherheit / Verbaustatik
+
+Zur Ermittlung der Erddrücke auf Verbauten und Bauwerke und für sonstige statische
+Berechnungen sind die in Abschnitt 4 angegebenen Bodenparameter heranzuziehen.
+Die dort gemachten weiteren Angaben sind zu beachten. Bezüglich der Untergrund-
+schichtung ist dabei auf das jeweils nächstliegende Profil Bezug zu nehmen oder ist das
+ungünstigste Profil vereinfachend zu berücksichtigen. Der Bemessungswasserstand ist
+entsprechend den Angaben in Kapitel 3.3 / 5.2.3 festzulegen.
+
+Filterkiesschichten
+
+Für Filterkiesschichten, welche zur Wasserableitung oder für Wasserhaltungsmaß-
+nahmen erforderlich werden, wird vorliegend die Verwendung von hohlraumreichem
+Frostschutzkies mit geringem Sandanteil (Feinkornanteil < 5,0 M.-%, Sandanteil
+< 15,0 M.-%) in geotextiler Umhüllung (Vlies GRK III) empfohlen. Auch Kies der Körnung
+8/16 mm kann bei der Verwendung von geeigneten, geotextilen Trennlagen eingesetzt
+werden. Für sonstige Bodenaustauschmaßnahmen (ohne Wasserhaltungserfordernis)
+kann auch Wandkies bzw. Schotter (Feinkornanteil < 10,0 M.-%) Verwendung finden.
+
+Graben- und Arbeitsraumverfüllung
+
+Stark schluffige Kiese sowie bindige Böden sind generell für eine Rückverfüllung der
+Kanalgräben nur mäßig geeignet; nur bei ³ steifer Konsistenz ist ein lagenweiser, aus-
+reichend verdichteter Wiedereinbau (geringe Lagenstärken) mit geeignetem Verdich-
+tungsgerät denkbar. Aufgrund der weitläufig angetroffenen bindigen Böden sind hier
+voraussichtlich auch walkende Verdichtungsgeräte (Schaffußwalzen und vergleichbares
+Gerät) erforderlich. Nach dem Aushub der bindigen (Homogenbereich B1.1) und sandi-
+gen (Homogenbereich B1.2) Schichten bzw. stark schluffigen Kiesen wird eine geschütz-
+te Zwischenlagerung der Materialien erforderlich, um stärkere Vernässungen zu vermei-
+den. Bei einem Einbau unter befestigten Flächen bzw. setzungs- und rutschungsemp-
+findlichen Bauwerken wird für die ≥ steifen bindigen und sandigen Böden generell eine
+Bodenverbesserung mit Mischbindemittel empfohlen, um die erforderlichen Verdich-
+tungswerte (DPr ³ 98 %) in diesen Bereichen (z. B. unter Straßen) zu erreichen. Hierfür
+wäre eine Eignungsprüfung vor dem Einbau erforderlich. Insbesondere weiche Deckla-
+geböden wären aufgrund ihrer erhöhten Wassergehalte in ihrem natürlichen Zustand
+nicht für Rückverfüllmaßnahmen heranzuziehen und wie auch die humosen Oberböden
+(Homogenbereich O1) besser abzufahren.
+
+Die Kiese der quartären Flussschotter des Homogenbereichs B2 mit begrenztem Fein-
+kornanteil (< 15,0 M.-%) können für die Rückverfüllung bei geeignetem Wassergehalt
+hingegen gut und ohne Zusatzmaßnahmen verwendet werden. Diese müssen bei einer
+Rückverfüllung in Lagen auf einen Verdichtungsgrad von DPr ³ 100 % verdichtet werden.
+Stärker feinkornhaltige Kiese des Homogenbereichs B2 sind auf Grund ihrer schlechte-
+ren Verdichtbarkeit nur mäßig für Verfüllmaßnahmen geeignet und sollten im natürlichen
+Zustand besser nur unter unbefestigten Flächen wiederverwendet werden.
+
+Als Rückverfüllmaterial (Fremdmaterial) können generell feinkornarme Kies-Sand-Gemi-
+sche der Bodengruppen GW / GI / SW / SI / GU / SU nach DIN 18196 eingesetzt wer-
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 14 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+den. Hierbei sind innerhalb der Decklagen abschnittsweise Lehmsperren vorzusehen,
+um einen Drainageeffekt und somit einen dauerhaft wassergesättigten Graben zu ver-
+meiden. Zielführend wäre dort die Verwendung von geringer durchlässigem, schluffigen
+Kies- und Sandmaterial mit einem Feinkornanteil zwischen 15 M.-% und 20 M.-%.
+
+Die Grabenrückverfüllung muss lagenweise bei ausreichender Verdichtung (DPr ³ 97 %
+bzw. 100 %) erfolgen. Wir halten es für erforderlich, hier im Rahmen der Rückverfüllar-
+beiten Dichteprüfungen in einem Überwachungsumfang gemäß den Vorgaben der ZTV
+E-StB 17 durchzuführen, um auch im Falle von nicht ausreichenden Ergebnissen bei der
+Verdichtung entsprechende Gegenmaßnahmen ergreifen zu können. Unterhalb von
+Straßenoberbauten bzw. auf dem Planum sind die Qualitätsanforderungen gemäß ZTV
+E-StB 17, z.B. mittels Lastplattendruckversuchen, nachzuweisen.
+
+Im Weiteren sind neben der ZTV E-StB 17 (u.a. Tabelle 2) die „Zusätzlichen Vertragsbe-
+dingungen und Richtlinien für Aufgrabungen in Verkehrsflächen der ZTVA-StB 89“ und
+das „Merkblatt über den Einfluss der Hinterfüllung auf Bauwerke“ der Forschungsgesell-
+schaft für das Straßenwesen zu beachten.
+
+
+5.3      Straßenbau
+
+5.3.1 Allgemeines
+Im Rahmen des vorliegenden Gutachtens werden für die geplanten Erschließungsstra-
+ßen nachfolgend die erforderlichen geotechnischen Angaben zur Bauausführung zusam-
+mengestellt. Es erfolgen Angaben zum Straßenaufbau und zur Tragfähigkeit des Pla-
+nums für die Erschließungsstraßen im betrachteten Baugebiets „Schwaig X“ in 94501
+Aldersbach
+
+Es wird hierbei davon ausgegangen, dass die Erschließungsstraßen relativ gelände-
+gleich ohne stärkere, zusätzliche Auflasten erstellt werden, d. h., dass die Straßengradi-
+enten nur wenige Dezimeter (im Allgemeinen £ 0,5 m) über Geländeoberkante zu liegen
+kommen.
+
+5.3.2 Mindestdicke des frostsicheren Straßenaufbaus
+Zur Ermittlung der erforderlichen Dicke des frostsicheren Straßenaufbaus ist das Trag-
+und Verformungsverhalten sowie die Frostempfindlichkeit des Untergrundes zu beach-
+ten. Der frostsichere Straßenaufbau ist so auszuführen, dass auch während der Frost-
+und Auftauperioden keine schädlichen Verformungen am Oberbau entstehen.
+
+Im Rahmen der Erkundungsarbeiten wurden im Bereich des zukünftigen Planums der
+Erschließungsstraßen des Baugebiets durchgehend bindige Böden erkundet, welche der
+Frostempfindlichkeitsklasse F3 nach ZTV E-StB 17 zuzuordnen sind.
+
+Das hier zu begutachtende Baugebiet liegt gemäß der Karte Frosteinwirkungszonen der
+RStO 12 in der Frosteinwirkungszone II. Es ist somit ein Zuschlag von 5 cm zu berück-
+sichtigen.
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 15 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+Für die erforderliche Mindestdicke des frostsicheren Straßenaufbaus sind deshalb die in
+nachfolgender Tabelle 9 zusammengestellten Werte, die nach RStO 12 festgelegt wur-
+den, zu berücksichtigen.
+
+TABELLE 9: MINDESTDICKE DES FROSTSICHEREN STRASSENAUFBAUS NACH RSTO 12
+
+ Frostempfindlichkeit                            Ausgangswert für die                    Zuschlag auf           Summe Min-
+ des anstehenden Untergrun-                     Bestimmung der Dicke                     Grund Frost-             destdicke
+ des (nach ZTV E-StB 17)                      für die Belastungsklassen                  einwirkungs-           frostsicherer
+                                                                                            zone III               Aufbau
+ Bodenaustausch mit Schotter
+                                              Bk 0,3                        40 cm             + 5 cm                 45 cm
+ bzw. stabilisierte, feinkorn-
+                                              Bk 1,0 bis Bk 3,2             50 cm             + 5 cm                 55 cm
+ reiche Böden (F2)
+                                              Bk 0,3                        50 cm             + 5 cm                 55 cm
+ Schluffe der Decklagen (F3)
+                                              Bk 1,0 bis Bk 3,2             60 cm             + 5 cm                 65 cm
+
+Wie der Tabelle 9 zu entnehmen ist, ist für die Frostempfindlichkeitsklasse des anste-
+henden Untergrundes F3 bei der Belastungsklasse Bk 0,3 eine Mindestdicke des frostsi-
+cheren Straßenaufbaus von 55 cm und bei der Belastungsklasse Bk 1,0 bis Bk 3,2 eine
+Mindestdicke des frostsicheren Straßenaufbaus von 65 cm nach RStO 12 maßgebend.
+
+Für den Fall, dass auf Höhe des Erdplanums der Straßen im Bereich der Schluffe und
+Tone grundsätzlich eine mindestens 30 cm dicke Kiesschicht eingebracht wird (zur Ver-
+besserung der Tragfähigkeit des Planums oder zur Geländeerhöhung) oder sofern eine
+mindestens 30 cm mächtige, qualifizierte chemische Bodenstabilisierung dieser Böden
+(Mischbindemittelanteil mind. 3,0 M.-% nach ZTV E-StB 17) durchgeführt wird, kann dies
+auch auf die Festlegung der Frostempfindlichkeit des anstehenden Untergrundes Ein-
+fluss haben. Bei entsprechenden kiesigen Böden (Feinkornanteil < 10 M.-% und damit
+als GU zu klassifizieren) bzw. bei ≥ einlagig stabilisierten Böden wäre dann die Frost-
+empfindlichkeitsklasse F2 durchgehend maßgebend. Hier wäre bei der Belastungsklas-
+se Bk 0,3 eine Mindestdicke des frostsicheren Straßenaufbaus von 45 cm und bei der
+Belastungsklasse Bk 1,0 bis Bk 3,2 eine Mindestdicke des frostsicheren Straßenaufbaus
+von 55 cm nach RStO 12 zu berücksichtigen.
+
+Erfolgt die Entwässerung der Fahrbahn und der Randbereiche über Rinnen bzw. Abläufe
+und Rohrleitungen, können die o.g. Schichtdicken ggf. um 5 cm reduziert werden.
+
+Die endgültige Dimensionierung hat aber durch den Planer zu erfolgen.
+
+Als frostsichere Tragschicht können z. B. Kiese bzw. Kies-Sand-Gemische der Boden-
+gruppen GW und GI nach DIN 18196 (Feinkornanteil < 5,0 M.-%) der Frostempfindlich-
+keitsklasse F1 nach ZTV E-StB 17 verwendet werden. Die weiteren Maßgaben (z. B. die
+maßgebenden Körnungsbänder) der ZTV SoB-StB 04 und der ZTV T-StB 17 sind hier
+ebenfalls zu beachten.
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 16 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+5.3.3 Tragfähigkeitsanforderungen an das Erdplanum und die Tragschicht
+      des Oberbaus
+Zusätzlich zur Mächtigkeit des erforderlichen frostsicheren Aufbaus ist im Hinblick auf
+Verformungen des Oberbaus die Tragfähigkeit des Untergrundes zu betrachten.
+Gemäß der ZTV E-StB 17 ist in den anstehenden, nicht frostsicheren Böden (Frostem-
+pfindlichkeitsklasse F3) auf dem Erdplanum der Straße ein Verformungsmodul von Ev2 ³
+45 MN/m² nachzuweisen. Bei Durchführung einer qualifizierten Bodenverbesserung ist in
+den genannten Böden ein Verformungsmodul von Ev2 ³ 70 MN/m² einzuhalten.
+
+Stehen auf Höhe des Erdplanums Schluffe in ≤ weicher Konsistenz an, wird voraussicht-
+lich ein zusätzlicher Bodenaustausch von ≥ 40 cm auf einer geotextilen Vliestrennlage
+(GRK III) erforderlich. Sofern auf Erdplanumsniveau bindige Böden in mindestens steifer
+Konsistenz anstehen, wie hier derzeit erkundet, kann die erforderliche Austauschstärke
+voraussichtlich auf ca. 20 cm bis 30 cm vermindert werden. Die erforderliche Austausch-
+stärke sollte in situ zu Beginn der Bauarbeiten durch entsprechende statische Lastplat-
+tendruckversuche nach DIN 18134 auf Probefeldern ermittelt werden.
+
+Für Bodenaustauschmaterial kann z. B. ein gebrochenes Kies-Sand-Gemisch der Bo-
+dengruppen GW / GI / GU nach DIN 18196 herangezogen werden.
+
+Alternativ kann im Baugebiet bei einer Gründung von Verkehrsflächen auf einem bindi-
+gen Erdplanum auch eine Bodenverbesserung durch Einfräsen von Kalk bzw. Kalk-
+Zement-Binder zumindest in genannter Stärke (d ≥ 0,40 m) durchgeführt werden, um die
+geforderten Werte zu erreichen. Die erforderliche Verbesserungsstärke könnte in situ an
+Testfeldern differenziert festgelegt werden. Bei dieser Ausführungsvariante ist allerdings
+die mögliche Staubentwicklung zu berücksichtigen.
+
+Erforderliche Zugabemengen bei einer Bodenverbesserung mit Bindemitteln sind mittels
+Eignungsprüfung festzulegen. Überschlägig kann von Bindemittelzugaben in einer Grö-
+ßenordnung von etwa 1,5 – 3,0 M.-% (z. B. im Rahmen der Ausschreibung) ausgegan-
+gen werden, was bei einer Lagenstärke von 40 cm etwa einer Aufstreumenge zwischen
+15 kg/m2 und 25 kg/m2 entsprechen dürfte.
+
+Das im Baufeldbereich angetroffene, bindige Erdplanum erweist sich als stark witte-
+rungsempfindlich und neigt durch Walkbeanspruchung zur Verbreiung. Eine direkte Be-
+fahrung des anstehenden Bodens ist daher zu vermeiden. Sofern zur Erhöhung der
+Tragfähigkeit keine chemische Stabilisierung des Bodens angestrebt wird, sondern ein
+Gründungspolster eingebaut werden soll, hat der Aushub bei feuchter Witterung im
+Rückwärts- und der Materialeinbau im Vor-Kopf-Verfahren zu erfolgen. Zudem ist eine
+Durchfeuchtung des Planums durch geeignete Maßnahmen nachhaltig zu verhindern.
+Sofern die bindigen bzw. sandigen witterungsbedingt stark durchfeuchtet sind, wird vor-
+geschlagen, als unterste Lage gebrochenes Schroppenmaterial, z. B. Körnung
+50/150 mm, einzubauen und bestmöglich statisch in den anstehenden Boden einzudrü-
+cken (keine Vibrationsverdichtung).
+
+Zur Entwässerung des Straßenunterbaus ist das Erdplanum mit einem ausreichenden
+Quergefälle gemäß ZTV E-StB 17 auszubilden und mittels Drainagen dauerhaft zu ent-
+wässern.
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 17 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+5.3.4 Verdichtungsanforderungen an Bodenaustausch und
+      Frostschutzschicht
+Das genannte Bodenaustauschmaterial zur Verbesserung der Tragfähigkeit des Erdpla-
+nums (Untergrund) soll einen Feinkornanteil von £ 10,0 M.-% aufweisen und ist zumin-
+dest mit einem Verdichtungsgrad von DPr ³ 100 % einzubauen (nach ZTV E-StB 17). Auf
+OK Erdplanum (UK Frostschutzschicht) ist, wie auch zuvor beschrieben, ein Ev2-Wert
+von ³ 45 MN/m² nachzuweisen.
+
+Nach Einbau der Tragschicht des Oberbaus und den anschließenden Verdichtungsmaß-
+nahmen auf der Frostschutzschicht bzw. der Schotter- oder Kiestragschicht muss unter-
+halb der Asphaltdecke ein ausreichender Verformungsmodul von EV2 ≥ 100 MN/m² bzw.
+120 MN/m² (je nach Bauklasse) nachgewiesen werden. Zusätzlich ist dabei ein Verhält-
+niswert von EV2/EV1 ≤ 2,2 einzuhalten. Wenn der EV1-Wert bereits 60 % des vorgenann-
+ten EV2-Wertes erreicht, sind auch höhere Verhältniswerte EV2/EV1 zulässig. Dies ist an-
+hand statischer Lastplattendruckversuche nach DIN 18134 nachzuweisen. Bezüglich
+des Umfangs der Eigenüberwachung und den Verdichtungsanforderungen wird auf die
+ZTV E-StB 17 verwiesen.
+
+
+5.4 Flachgründung mit Teilbodenaustausch
+
+Es ist zu erwähnen, dass es sich hierbei nur um ungefähre Vorabschätzungen handelt.
+Da zu den Gebäuden aktuell noch keine detaillierten Planungsinformationen sowie Bau-
+grundaufschlüsse vorliegen, werden hier nur allgemeine Gründungsempfehlungen ge-
+geben. Genaue Angaben zu den verschiedenen Gebäudegründung können erst nach
+Durchführung weiterer Aufschlussarbeiten sowie mit genaueren Planungsgrundlagen
+erfolgen.
+
+Gründung für eine nicht unterkellerte Bebauung
+
+Für eine nicht unterkellerte Bebauung des Baugebiets empfehlen wir eine Flach-
+gründung mittels Einzel- und Streifenfundamenten auf einen Teilbodenaustausch
+³ 0,3 m in den bindigen Decklagen ≥ steifer Konsistenz.
+
+Eine frostsichere Gründung aller Gebäudeteile, z. B. mit Frostschürzen bis 1,0 m unter
+GOK oder durch äquivalente Maßnahmen, ist in jedem Fall sicherzustellen.
+
+Nach dem Aushub der Fundamente, die ≥ 1,0 m unter Geländeoberkante einbinden, und
+einem zusätzlichen Bodenaustausch von ≥ 0,3 m Stärke, sind die Aushubsohlen in den
+anstehenden bindigen Decklagen ≥ steifer Konsistenz mit geeignetem Gerät leicht sta-
+tisch zu verdichten (DPr ≥ 97 %). Sollten unter den Fundamentunterkanten örtlich tiefer
+reichende, nur geringer tragfähige, z. B. bindige Böden ≤ weicher Konsistenz, anstehen,
+sind diese unter den Gründungselementen bis zu den besser tragfähigen bindigen Deck-
+lagen ≥ steifer Konsistenz weiter auszukoffern. Als Bodenaustauschmaterial wäre fein-
+kornarmes Kiesmaterial (Körnung 0/63 mm; Feinkornanteil < 10 M.-%) der Gruppe GW /
+GI / GU nach DIN 18196 zu empfehlen, welches lagenweise (d £ 35 cm) bei ausreichen-
+der Verdichtung (DPr ³ 100 %) einzubauen wäre. Durchzuführende Bodenaustausch-
+maßnahmen unter den Fundamenten sind mit einer seitlichen Verbreiterung von 60° zur
+Horizontalen auszuführen. Im Gründungsbereich ist eine ausreichende Verdichtung, z.
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 18 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+B. mit Lastplattendruckversuchen (Ev2 ≥ 80 MN/m²; Ev2/Ev1 ≤ 2,5 oder EVdyn ≥ 45 MN/m²),
+nachzuweisen.
+
+In den nachfolgenden Tabellen 10 und 11 werden die Bemessungswerte des Sohlwider-
+standes für mittig belastete Einzelfundamente (Tabelle 10) bzw. Streifenfundamente
+(Tabelle 11) bei Gründung in den bindigen Decklagen ≥ steifer Konsistenz angegeben.
+Die Bemessungswerte des Sohlwiderstandes wurden dabei auf Grundlage von Grund-
+bruchberechnungen und der Begrenzung von Setzungen bestimmt. Das Verhältnis der
+horizontalen zu den vertikalen Kräften wird bei Einzelfundamente auf H/V ≤ 0,25 und bei
+Streifenfundamenten auf H/V ≤ 0,1 beschränkt, zudem gilt bei Einzelfundamenten ein
+zulässiges Seitenverhältnis von a/b ≤ 2,0. Zwischenwerte zwischen den Tabellenwerten
+dürfen geradlinig interpoliert werden.
+TABELLE 10: BEMESSUNGSWERTE DES SOHLWIDERSTANDES FÜR EINZEL-
+            FUNDAMENTE IN DEN ≥ STEIFEN BINDIGEN DECKLAGEN
+
+   geringste Ein-                         Bemessungswerte des Sohlwiderstandes in kN/m²
+     bindetiefe                                           für b bzw. b‘
+
+            (m)                  0,50 m           1,00 m            1,50 m           2,00 m          2,50 m            3,00 m
+           ≥ 1,0                   325               290              210              185              160               140
+
+TABELLE 11: BEMESSUNGSWERTE DES SOHLWIDERSTANDES FÜR STREIFEN-
+            FUNDAMENTE IN DEN ≥ STEIFEN BINDIGEN DECKLAGEN
+
+  geringste Einbin-                        Bemessungswerte des Sohlwiderstandes in kN/m²
+       detiefe                                             für b bzw. b‘
+
+             (m)                     0,50 m                0,75 m             1,00 m              1,25 m              1,50 m
+            ≥ 1,0                       330                 240                 200                 175                 155
+
+Die angegebenen Tabellenwerte sind Bemessungswerte des Sohlwiderstandes und gel-
+ten für mittige, lotrechte Belastung. Bei außermittiger bzw. schräger Lasteintragung sind
+die Tabellenwerte, z. B. gemäß den Maßgaben der DIN 1054, abzumindern oder sind
+die zulässigen Sohlspannungen mit Grundbruch- und Setzungsberechnungen nachzu-
+weisen.
+
+Bei Ausnutzung der Tabellenwerte ist mit Setzungen in einer Größenordnung von
+≤ 2,0 cm zu rechnen. Bei unterschiedlich hohen Sohldrücken und/oder Gründungstiefen
+bei Fundamenten sind auch entsprechende Setzungsdifferenzen in der Bauwerkskon-
+struktion zu beachten. Genaue Setzungsberechnungen können erst auf Basis statischer
+Berechnungen unter Berücksichtigung genauer Lastangaben durchgeführt werden.
+
+Gründung der nichttragenden Bodenplatten bzw. Parkplatzflächen
+
+Für industriell genutzte Böden bzw. Bodenplatten werden in Anlehnung an die Empfeh-
+lung „Betonböden im Industriebau“ auf OK Frostschutzschicht nachfolgende Verfor-
+mungsmoduli unter den Betonplatten notwendig.
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 19 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+TABELLE 12: ERFORDERLICHE VERFORMUNGSMODULI UNTER BETONPLATTEN
+ Maximale Einzellast Q                       Verformungsmodul Ev2                         Verformungsmodul Ev2
+                                             des Untergrundes                             der Tragschicht
+ in kN (t)                                   in MN/m²                                     in MN/m²
+ ≤ 32,5 (≤ 3,25)                             ≥ 30                                         ≥ 80
+ ≤ 60 (≤ 6,0)                                ≥ 45                                         ≥ 100
+ ≤ 100 (≤ 10,0)                              ≥ 60                                         ≥ 120
+ ≤ 150 (≤ 15,0)                              ≥ 80                                         ≥ 150
+ ≤ 200 (≤ 20,0)                              ≥ 100                                        ≥ 180
+
+Die Dimensionierung der Bodenplatte sollte sich an o.g. Werten und Anforderungen ori-
+entieren. In Abhängigkeit der Höhenlage sowie der Untergrundtragfähigkeit können die
+entsprechenden und notwendigen Schüttstärken über eine Probefeldschüttung festge-
+legt werden. Das Verformungsmodul EV2 und das Verhältnis der Verformungsmodule
+EV2/EV1 ≤ 2,5 sollte mittels statischer Plattendruckversuche nachgewiesen werden.
+
+Zur Orientierung werden nachfolgende Mindestschüttstärken angegeben:
+
+               Ev2 – Wert Erdplanum                         Ev2 = 80 MN/m²                   Ev2 = 120 MN/m²
+                    20 MN/m²                                      50 cm                           80 cm
+                    30 MN/m²                                      40 cm                           60 cm
+                    40 MN/m²                                      30 cm                           50 cm
+                    50 MN/m²                                      30 cm                           40 cm
+                    60 MN/m²                                      20 cm                           35 cm
+
+Unter den 40 cm bis 60 cm mächtigen Oberböden sind die steifen bis halbfesten Schluf-
+fe der Decklagen zu erwarten, in denen teils ein zusätzlicher Bodenaustausch erforder-
+lich wird, um die geforderten Tragfähigkeitswerte zu erreichen. Die erforderliche Ge-
+samtstärke des Gründungspolsters unter den Bodenplatten dürfte nach derzeitiger Ein-
+schätzung zwischen 50 cm und 60 cm liegen. Dies sollte zu Beginn der Arbeiten mittels
+statischen Lastplattendruckversuchen nach DIN 18134 auf Probefeldern bestimmt wer-
+den.
+
+Unabhängig von zusätzlichem Bodenaustauschmaßnahmen zur Erhöhung der Tragfä-
+higkeit ist als Unterbau eine kapillarbrechende Schicht in Form einer mindestens 30 cm
+starken Auffüllung aus einem Kies-Sand-Gemisch der Körnung 0/45 mm mit einem
+Feinkornanteil von maximal 5,0 M.-% oder ein Material mit äquivalenten Eigenschaften
+(z. B. Rollkies, Glasschaumschotter, usw.) in erforderlicher Mächtigkeit unter den Bo-
+denplatten vorzusehen (kann bei verdichtungsfähigem Kiesmaterial dem Gründungs-
+polster zugerechnet werden).
+
+Gründung für eine unterkellerte Bebauung
+
+Für eine unterkellerte Bebauung des Baugebiets empfehlen wir eine Plattengründung
+auf einen Teilbodenaustausch ³ 0,30 m in den bindigen Decklagen ≥ steifer Konsistenz
+bzw. in den ³ mitteldicht gelagerten Kiesen der Flussschotter.
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 20 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+Nach dem Aushub der Baugrube und deren Nachverdichtung durch geeignetes Gerät
+(DPr ³ 97 % - 100 %), folgt im Bereich der bindigen Decklagen bzw. kiesigen Flussschot-
+ter der Teilbodenaustausch durch feinkornarmes Kiesmaterial (z. B. Frostschutzkies
+Körnung 0/63 mm; Feinkornanteil < 5 M.-% der Bodengruppe GW nach DIN 18196),
+welches lagenweise (Lagenstärke d £ 30 cm) einzubringen und auf DPr ≥ 100 % zu ver-
+dichten ist. In den nur weichen bis steifen bindigen Bodenschichten ist der Bodenaus-
+tausch im Rückwärtsfahren mit glatter Schneide durchzuführen. Bei ggf. stark aufge-
+weichten Böden sollte vor dem Bodenaustausch zunächst noch eine Lage (ca. 30 cm)
+Schroppenmaterial (Körnung 50/150) vollflächig in den Untergrund eingedrückt werden.
+Durchzuführende Bodenaustauschmaßnahmen unter der Bodenplatte sind mit einer
+seitlichen Verbreiterung von 60° über die Bodenplatte hinaus auszuführen bzw. ist ein
+Plattenüberstand von ≥ 30 cm herzustellen. Zwischen Urboden und Auffüllmaterial ist ein
+Geotextil der Geotextilrobustheitsklasse III einzubauen und seitlich mit hochzuziehen.
+
+Zur statischen Dimensionierung von Bodenplatten wird hinsichtlich der Untergrundreak-
+tion der Bettungsmodul ks maßgebend, der im Sinne einer elastischen Federsteifigkeit
+des Untergrundes verstanden werden kann. Für die Bemessung von plattenartigen
+Gründungen kann bei Gründung auf einem Teilbodenaustausch ≥ 0,30 m Mächtigkeit
+ein Bettungsmodul von ks,k = 22,3 MN/m³ bei einem charakteristischen Lastniveau von
+etwa s zul = 70 kN/m² in Ansatz gebracht werden. Bei streifenförmiger Lasteinleitung bis
+zu 1,5 m Breite sowie bei quadratischer Lasteinleitung bis 2,5 m Kantenlänge können
+bei einem Bettungsmodul von ks,k = 10,1 MN/m³ jeweils Bemessungswerte des Sohlwi-
+derstandes von s R,d ≤ 175 kN/m² angesetzt werden. Es ist dann mit Setzungen von je-
+weils ≤ 1,0 cm zu rechnen. Hierbei wurde jeweils eine Aushubentlastung von 50 kN/m²
+berücksichtigt und es ist dann mit Setzungen von weniger als 1,0 cm zu rechnen.
+
+
+5.5      Versickerungsfähigkeit des Untergrundes /
+         Entwässerungseinrichtungen
+Für eine Versickerung von nicht schädlich verunreinigtem Oberflächenwasser aus Dach-
+flächen etc. sind die hier weiträumig oberflächennah angetroffenen bindigen Deckschich-
+ten und stark schluffigen quartären Kiese, welche bis 4,90 m unter GOK vorliegen, auf
+Grund ihrer geringen Wasserdurchlässigkeit für Versickerungszwecke entsprechend
+nicht geeignet (kf-Wert von ≤ 1,0 · 10-6 m/s). Die im Bereich der Bohrungen B 1 bis B 3
+und B 5 in einer Tiefe ab 2,60 m bis 4,90 m unter GOK unterhalb der bindigen und san-
+digen Decklagen anstehenden schwach schluffigen quartären Kiese (Feinkornanteil ≤
+10 M.-%) sind dagegen wasserdurchlässiger und eignen sich generell zur Versickerung
+von Niederschlags- und Oberflächenwasser.
+
+Der aus einer Kornverteilungskurve für eine Grundwasserentnahme ermittelte Durchläs-
+sigkeitsbeiwert für die schwach schluffigen, quartären Kiese liegt bei kf = 1,99 × 10-4
+m/s. Der aus der Kornverteilungskurve abgeleitete kf-Wert entspricht grundsätzlich einer
+Wasserentnahme aus dem Untergrund. Gemäß dem Arbeitsblatt DWA-A 138, Anhang
+B, Tabelle B.1, ist bei Ermittlung des kf-Wertes durch Sieblinienauswertung, wie vorlie-
+gend erfolgt, ein Korrekturfaktor von 0,2 zu berücksichtigen, um den Bemessungs-kf-
+Wert festzulegen. Unter Berücksichtigung dieses Korrekturfaktors ist hier ein mittlerer
+rechnerischer Bemessungs-kf-Wert in den schwach schluffigen, quartären Kiesen von
+kf = 3,98 × 10-5 m/s festzustellen.
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 21 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+Gemäß dem genannten Arbeitsblatt sind Versickerungen in Lockergesteinen mit Durch-
+lässigkeitsbeiwerten im Bereich von kf = 1 · 10-3 m/s bis 1 · 10-6 m/s möglich. Der vorlie-
+gend angegebene und für die Bemessung maßgebliche kf-Wert für die schwach schluffi-
+gen, quartären Kiese (Bodengruppe GU nach DIN 18196) liegt im mittleren bis unteren
+Bereich dieser Spanne und weist somit auf mäßige Versickerungsbedingungen hin.
+
+Um eine ausreichende Reinigungsleistung zu gewährleisten, fordert das genannte Ar-
+beitsblatt eine Mächtigkeit des Sickerraums über dem mittleren höchsten Grundwasser-
+stand von mindestens einem Meter. Bei einer Dimensionierung der Versickerung nach
+Arbeitsblatt ATV-DVWK-A 138 „Planung, Bau und Betrieb von Anlagen zur Versickerung
+von Niederschlagswasser“ sind die entsprechenden Grundwasserstände zu berücksich-
+tigen. Der erforderliche Grundwasserspiegel (MHGW) zur Bemessung von Versicke-
+rungsanlagen ist bei der zuständigen Fachbehörde einzuholen und wird von uns etwa
+bei Kote 323,0 mNN abgeschätzt. Es kann daher im Hochwasserfall zu Einschränkun-
+gen bei der Versickerungsleistung sowie zu einem Rückstau kommen. Ebenfalls wird auf
+das Merkblatt DWA-M 153 „Handlungsempfehlung zum Umgang mit Regenwasser“ hin-
+gewiesen.
+
+Hinsichtlich der Art der Versickerung könnte vorstehend eine Rigolenversickerung oder
+auch eine Versickerung über Mulden / Sickerbecken bewerkstelligt werden. Unabhängig
+von der Art der Versickerungsanlage ist jedoch besonders darauf zu achten, dass ein
+hydraulischer Anschluss an die besser durchlässigen feinkornarmen, quartären Kiese
+(Feinkornanteil ≤ 10 M.-%) gegeben ist. Die geplanten Versickerungsmaßnahmen müs-
+sen mit den Genehmigungsbehörden bzw. mit dem Wasserwirtschaftsamt abgestimmt
+und von diesen genehmigt werden.
+
+Um Schäden von Versickerungen an der bestehenden Bebauung zu verhindern, müssen
+die Versickerungseinrichtungen einen ausreichenden Abstand zur bestehenden Bebau-
+ung einhalten und sind dementsprechend tief auszuführen.
+
+Es ist hier davon auszugehen, dass Versickerungsanlagen auf diesem Grundstück unter
+Hochwasserverhältnissen auf Grund von Rückstaueffekten zeitweise zumindest nur ein-
+geschränkt funktionsfähig sind. Daher sollte bei Ausbildung von Versickerungsanlagen in
+jedem Fall ein kontrollierter Notüberlauf mit Ableitung in die Kanalisation oder einen Vor-
+fluter bzw. Gewässer vorgesehen werden.
+
+Als Alternative zu einer reinen Versickerungsanlage kann auf dem vorliegenden Baufeld
+auch eine Kombination von einer Drosselungsanlage in Form eines oder mehrerer Re-
+genrückhaltebecken mit Ablauf über Versickerungseinrichtungen in Betracht gezogen
+werden.
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 22 -                                  94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+Bei der Erstellung eines Rückhaltebeckens sind die Böschungen in den erkundeten bin-
+digen Böden mit einer maximalen Neigung von £ 1 : 1,25, besser 1 : 1,6, auszubilden.
+Vor der Profilierung und Erstellung eines Beckens in den anstehenden Schichten sind
+vorab die evtl. stärker humosen Schichten abzutragen. Überwiegend dürften somit in
+den Böschungsbereichen und auch im Sohlbereich eines Beckens ≥ weiche bindige Bö-
+den bzw. schluffige Sande anstehen. Zur Sicherstellung ausreichend stabiler Bö-
+schungsbereiche sind im Wasserwechselbereich auf Höhe der Sande und der weichen
+Tone ggf. auch zusätzliche Oberflächensicherungsmaßnahmen (z. B. mit Wasserbau-
+steinen bzw. Lehmabdichtung) im Böschungsbereich vorzusehen. Die Abdichtung der
+Beckensohle kann innerhalb der Sandschichten mit einem Tonschlag oder z. B. mit Ben-
+tonitmatten erfolgen.
+
+
+
+6.           Schlussbemerkungen
+
+Mit den durchgeführten Felduntersuchungen können naturgemäß nur punktuelle Auf-
+schlüsse gewonnen werden. Des Weiteren sind gemäß DIN 4020 Aufschlüsse in Boden
+und Fels als Stichproben zu bewerten. Für die dazwischenliegenden Bereiche lassen
+sich nur Wahrscheinlichkeitsaussagen machen.
+
+Vorrangiges Ziel des Gutachtens war es, die vor Ort relevanten Untergrunddaten durch
+Beschreibung der Bodenschichten, Zuordnung von Bodenklassen und physikalischen
+Bodenparametern für den Planer und die Baufirma aufzubereiten. Weiterhin erfolgten
+Angaben zum Straßenbau und zu den Erfordernissen hinsichtlich der Wasserhaltung
+und der Kanalverlegung sowie zur Gründung von Bebauungen.
+
+Bei allen Aushub- und Gründungsarbeiten sind die aktuellen Bodenschichten mit den
+Ergebnissen der vorliegenden Baugrunderkundung zu vergleichen. Bei nicht auszu-
+schließenden Abweichungen des Untergrundes zwischen und außerhalb der Auf-
+schlussstellen und in allen Zweifelsfällen bezüglich Baugrund und Gründung ist ein Bau-
+grundsachverständiger einzuschalten. Unter günstigen Umständen können die Aufwen-
+dungen für empfohlene Verbesserungsmaßnahmen zumindest teilweise eingespart wer-
+den.
+
+Zum Zeitpunkt der Ausarbeitung des vorliegenden Berichtes lagen uns die genannten
+Arbeitsunterlagen vor. Da dem Baugrundsachverständigen derzeit nicht alle relevanten
+Gesichtspunkte der Planung und Bauausführung bekannt sein können und weiterhin die
+punktuellen Baugrundaufschlüsse nur örtlich begrenzte Aussagen liefern, kann dieser
+Bericht keinen Anspruch auf Vollständigkeit hinsichtlich aller bodenmechanischen und
+hydrogeologischen Detailpunkte erheben. Zusätzliche Untersuchungen bzw. geotechni-
+sche Beurteilungen können im Zuge der weiteren Planung erforderlich werden.
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 23 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Geotechnischer Bericht Nr. B2208450
+Erschließung Baugebiet Schwaig X, Gemeinde Aldersbach
+
+
+
+
+Es wird davon ausgegangen, dass die an Planung und Bauausführung beteiligten Inge-
+nieure unter Zugrundelegung der hier aufgezeichneten Daten und Angaben alle erfor-
+derlichen statischen Nachweise etc. entsprechend den Regeln der Bautechnik führen.
+
+Für weitere Fragen stehen wir Ihnen gerne zur Verfügung.
+
+
+
+Osterhofen, den 24.11.2022
+
+
+
+Tobias Kufner                                                                           Armin Scheday
+Geschäftsführer                                                                         Dipl.-Ing. (FH)
+Dipl.-Geoökologe (Univ.)
+
+
+
+
+______________________________________________________________________________________________________________________________
+                                                                                                             Donau-Gewerbepark 5
+
+
+
+  b
+                                                                     - 24 -                                 94486 OSTERHOFEN
+                                                                                                            Tel.: 0 99 32 / 95 44 - 0
+Anlage 1
+                                 #_
+
+
+
+
+                                 Lage des Untersuchungsgebiets
+
+
+
+                        Baugebiet Schwaig X in Aldersbach
+Auftraggeber:
+
+
+         Gemeinde
+         Aldersbach
+Bearbeitung:
+                               Übersichtsplan
+                 AS
+Datum:                                                                  Anlage:
+
+         14.11.2022                         Donau-Gewerbepark 5                        1
+Maßstab:                                                                Blatt :
+                                            94486 Osterhofen
+           1 : 25.000                       Tel.: +49 (0)9932 9544-0                   1
+Kartenvorlage:                              Fax.: +49 (0)9932 9544-77   Projekt-Nr.:
+
+         BayernAtlas                                                              B2208450
+Anlage 2
+                                         Zeichenerklärung Baugrunduntersuchung:
+
+                                                                   Rammkernbohrung nach DIN EN ISO 22475 mit Bezeichnung
+                                                  B...
+                                                                   bis max. 5,00 m unter GOK
+
+                                                   DPH...          Schwere Rammsondierung nach DIN ISO 22476-2 mit Bezeichnung
+                                                                   bis max. 5,90 m unter GOK
+
+
+
+
+                                                                                                                                  B1
+                                                                                                                                     DPH1
+
+
+
+                                                                                                                                  312/9
+                                                                               B2
+
+
+                                                                                                                                                                                                                    312
+                         B3
+                                 DPH3
+
+
+
+                                                                                                                                                                                  B5
+                                                                                                                                                                                        DPH2
+                                                                                                                        312/4
+
+
+                                                              B4
+
+
+                                                                                                                                                                                                                    312/8
+
+
+
+
+    ''Nutzung der Basisdaten der
+Bayerischen Vermessungsverwaltung''
+Entwurfsverfasser:                                                                                                                Planinhalt:                                                                              Anlage:
+
+                                                                                                                                                           Baugebiet Schwaig x,                                                   2
+                                                                                                                                                              in Aldersbach
+                                                                                                                                                                                                                           Blatt-Nr:
+
+                                                                                                                                                      Lageplan Aufschlusspunkte
+Donau-Gewerbepark 5, 94486 Osterhofen
+FON: 09932 9544-0 / FAX: 09932 9544-77                              ...........................................................
+E-MAIL: info@geoplan-online.de                                         Projektleiter: Tobias Kufner
+
+
+Projekt:                         B2208450 - Baugebiet Schwaig X in Aldersbach                                                      Auftraggeber:                                                                           Maßstab:
+
+Datei:                           1_LP-1000_Aufschlusspunkte                                                                        Gemeinde Aldersbach                                                                        1:1000
+                                                                                                                                   Klosterplatz 1
+bearbeitet:                                A. Duschl                            27.09.2022
+                                                                                                                                   94501 Aldersbach                                                                        Pr.-Nr.:
+gezeichnet:                                A. Duschl                            27.09.2022
+                                                                                                                                                                         .............................................     B2208450
+geprüft:                                 R. Niedermeier                         27.09.2022
+
+
+       H/B = 297 / 210 (0.06m²)                                                                                                                                                                                          Allplan 2021
+Anlage 3
+                   Geoplan GmbH           Projekt       Baugebiet Schwaig X in Aldersbach
+                   Donau-Gewerbepark 5    Projektnr.    B2208450
+                   94486 Osterhofen       Datum         31.08.2022
+                   09932-95440            Rechtswert    4579647         Hochwert 5384133
+
+
+                                                              B1
+                                                  Ansatzpunkt: 325.40 mNN
+                                      325.40mNN     0.00m
+                                                          Mu           Mutterboden (Schluff, sandig,
+
+
+
+
+                               O1
+               D1    0.40m            325.00mNN     0.40m              humos), leicht zu bohren,
+                                                                       steif, braun, OH, 1
+                                                                       Ton, schwach schluffig,
+               D2    0.80m            324.60mNN     0.80m
+                                                                       mäßig schwer zu bohren,
+                                                                       steif, braun, TA, 5
+
+                                                                        Schluff, stark sandig, mäßig
+                                                                        schwer zu bohren, steif,
+                                                                        hellbraun, UL, 4
+               D3    2.00m     B1.1   323.40mNN     2.00m
+
+
+                                                                        Schluff, schwach sandig,
+                                                                        tonig, mäßig schwer zu
+                                                                        bohren, steif, hellbraun, UL, 4
+
+               D4    3.20m            322.20mNN     3.20m
+                                                                        Ton, schwach schluffig,
+                                                                        sandig, mäßig schwer zu
+                                                                        bohren, steif, hellbraun, TA, 5
+              D5     3.90m            321.50mNN     3.90m
+            GW       3.90m                                              Kies, sandig, schwach
+                                                                        schluffig, schwer zu bohren,
+                               B2
+
+
+
+
+               D6    4.50m            320.90mNN     4.50m               mitteldicht bis dicht gelagert,
+                                                   Endtiefe             braun, grau, GU, 3
+
+
+
+
+Maßstab:   1: 50
+                                                                                                          DC
+                   Geoplan GmbH           Projekt       Baugebiet Schwaig X in Aldersbach
+                   Donau-Gewerbepark 5    Projektnr.    B2208450
+                   94486 Osterhofen       Datum         31.08.2022
+                   09932-95440            Rechtswert    4579625         Hochwert 5384097
+
+
+                                                              B2
+                                                  Ansatzpunkt: 325.50 mNN
+                                      325.50mNN     0.00m
+                                                          Mu           Mutterboden (Schluff,
+
+
+
+
+                               O1
+               D1    0.40m            325.10mNN     0.40m              schwach sandig, humos),
+                                                                       leicht zu bohren, steif, braun,
+                                                                       OH, 1
+
+                                                                         Ton, schwach schluffig,
+                                                                         mäßig schwer zu bohren, steif
+                                                                         bis halbfest, braun, TL, 4
+               D2    1.70m            323.80mNN     1.70m
+
+                                                                         Schluff, stark sandig, mäßig
+                                                                         schwer zu bohren, steif,
+                               B1.1
+
+                                                                         hellbraun, UL, 4
+               D3    2.50m            323.00mNN     2.50m
+                                                                         Schluff, tonig, schwach
+                                                                         sandig, mäßig schwer zu
+               D4    3.10m            322.40mNN     3.10m                bohren, steif, hellbraun, UL, 4
+
+                                                                         Ton, schluffig, schwach
+                                                                         sandig, mäßig schwer zu
+                                                                         bohren, weich, hellbraun, TM,
+                                                                         4
+              D5     4.20m            321.30mNN     4.20m
+            GW       4.20m                                               Sand, tonig, schwach
+                               B1.2
+
+
+
+
+                                                                         schluffig, mäßig schwer zu
+               D6    4.80m            320.70mNN     4.80m                bohren, mitteldicht bis dicht
+                                                                         gelagert, hellbraun, SU, 3
+                               B2
+
+
+
+
+               D7    5.00m            320.50mNN     5.00m
+                                                                         Kies, sandig, schwach
+                                                   Endtiefe
+                                                                         schluffig, schwer zu bohren,
+                                                                         dicht gelagert, hellbraun, GU,
+                                                                         3
+
+
+
+
+Maßstab:   1: 50
+                                                                                                           DC
+                   Geoplan GmbH           Projekt       Baugebiet Schwaig X in Aldersbach
+                   Donau-Gewerbepark 5    Projektnr.    B2208450
+                   94486 Osterhofen       Datum         31.08.2022
+                   09932-95440            Rechtswert    4579577         Hochwert 5384076
+
+
+                                                              B3
+                                                  Ansatzpunkt: 325.50 mNN
+                                      325.50mNN     0.00m
+                                                          Mu           Mutterboden (Schluff,
+
+
+
+
+                               O1
+               D1    0.40m            325.10mNN     0.40m              schwach sandig, tonig,
+                                                                       humos), leicht zu bohren,
+                                                                       steif, hellbraun, OH, 1
+                                                                       Schluff, schwach tonig, mäßig
+               D2    1.10m            324.40mNN     1.10m              schwer zu bohren, steif bis
+                                                                       halbfest, braun, UL, 4
+                                                                       Ton, schwach schluffig,
+               D3    1.60m            323.90mNN     1.60m              mäßig schwer zu bohren,
+                                                                       steif, braun, TL, 4
+
+
+                                                                        Schluff, sandig, schwach
+                                                                        tonig, mäßig schwer zu
+                               B1.1
+
+
+
+                                                                        bohren, steif, hellbraun, UL, 4
+
+               D4    3.10m            322.40mNN     3.10m
+                                                                        Ton, schwach schluffig,
+                                                                        schwach sandig, mäßig
+                                                                        schwer zu bohren, weich,
+               D5    3.80m            321.70mNN     3.80m               hellbraun, TL, 4
+
+
+                                                                        Ton, sandig, schwach
+                                                                        schluffig, mäßig schwer zu
+                                                                        bohren, steif, hellbraun, TL, 4
+
+              D6     4.90m            320.60mNN     4.90m
+                               B
+
+
+
+
+            GW       4.90m            320.50mNN     5.00m               Kies, schwach sandig,
+              D7     5.00m                         Endtiefe             schwach schluffig, mäßig
+                                                                        schwer zu bohren, mitteldicht
+                                                                        gelagert, braun, GU, 3
+
+
+
+
+Maßstab:   1: 50
+                                                                                                          DC
+                   Geoplan GmbH           Projekt       Baugebiet Schwaig X in Aldersbach
+                   Donau-Gewerbepark 5    Projektnr.    B2208450
+                   94486 Osterhofen       Datum         31.08.2022
+                   09932-95440            Rechtswert    4579611         Hochwert 5384025
+
+
+                                                              B4
+                                                  Ansatzpunkt: 325.80 mNN
+                                      325.80mNN     0.00m
+                                                          Mu           Mutterboden (Schluff,
+                                                                       schwach sandig, humos),
+
+
+
+
+                               O1
+               D1    0.60m            325.20mNN     0.60m M u M u      Wurzelreste, leicht zu bohren,
+                                                                       steif, braun, OH, 1
+                                                                       Schluff, sandig, mäßig
+               D2    1.00m            324.80mNN     1.00m              schwer zu bohren, halbfest,
+                                                                       hellbraun, UL, 4
+                                                                       Schluff, schwach sandig,
+                                                                       mäßig schwer zu bohren,
+
+                               B1.1
+               D3    1.80m            324.00mNN     1.80m              steif, hellbraun, UL, 4
+
+                                                                        Ton, sandig, schwach
+                                                                        schluffig, mäßig schwer zu
+                                                                        bohren, steif, hellbraun, TL, 4
+               D4    2.60m            323.20mNN     2.60m
+                               B2
+
+
+
+
+               D5    2.80m            323.00mNN     2.80m               Kies, sandig, stark schluffig,
+                                                   Endtiefe             schwer zu bohren, mitteldicht
+                                                                        bis dicht gelagert, braun, GU*
+                                                                        ,4
+
+
+
+
+Maßstab:   1: 50
+                                                                                                          DC
+                   Geoplan GmbH              Projekt       Baugebiet Schwaig X in Aldersbach
+                   Donau-Gewerbepark 5       Projektnr.    B2208450
+                   94486 Osterhofen          Datum         31.08.2022
+                   09932-95440               Rechtswert    4579701         Hochwert 5384048
+
+
+                                                                 B5
+                                                     Ansatzpunkt: 325.70 mNN
+                                         325.70mNN     0.00m
+                                                             Mu           Mutterboden (Schluff,
+                                                                          schwach sandig, humos),
+
+
+
+
+                               O1
+               D1    0.60m               325.10mNN     0.60m M u M u      leicht zu bohren, steif, braun,
+                                                                          OH, 1
+                                                                          Schluff, schwach tonig,
+               d2    1.10m               324.60mNN     1.10m              schwach sandig, mäßig
+                                                                          schwer zu bohren, halbfest,
+                                                                          braun, UL, 4
+
+
+                               B1.1
+                                                                            Schluff, schwach sandig,
+                                                                            leicht zu bohren, steif,
+                                                                            hellbraun, UL, 4
+               D3    2.30m               323.40mNN     2.30m
+                                                                            Sand, schluffig, mäßig
+                               B2 B1.2
+
+
+
+
+               D4    2.70m               323.00mNN     2.70m                schwer zu bohren, dicht
+                                                                            gelagert, hellbraun, SU, 3
+               D5    3.00m               322.70mNN     3.00m                Kies, stark sandig, schwach
+                                                      Endtiefe              schluffig, schwer zu bohren,
+                                                                            dicht gelagert, braun, grau,
+                                                                            GU, 3
+
+
+
+
+Maßstab:   1: 50
+                                                                                                            DC
+Anlage 4
+                 Geoplan GmbH                                Projekt      Baugebiet Schwaig X in Aldersbach
+                 Donau-Gewerbepark 5                         Projektnr.   B2208450
+                 94486 Osterhofen                            Datum        31.08.2022
+                 09932-95440                                 Rechtswert   4579647         Hochwert 5384133
+Tiefe   N10
+ 0.10    1
+ 0.20    2                                                                         DPH1
+ 0.30    2
+                                                                             Ansatzpunkt: 325.40 mNN
+ 0.40    1                                               0     10   20     30    40    50      60   70   80   90   100
+ 0.50    3                                           0
+ 0.60    2            325.00m
+ 0.70    2
+ 0.80    2
+ 0.90    2
+ 1.00    2                                           1
+ 1.10    2            324.00m
+ 1.20    2
+ 1.30    4
+ 1.40    2
+                                                     2
+ 1.50    3
+                      323.00m
+ 1.60    2
+                                Eindringtiefe in m
+
+
+
+
+ 1.70    3
+ 1.80    3
+ 1.90    3                                           3
+ 2.00    2            322.00m
+ 2.10    2
+ 2.20    2
+ 2.30    2
+ 2.40    2                                           4
+ 2.50    1            321.00m
+ 2.60    2
+ 2.70    2
+ 2.80    2
+                                                     5
+ 2.90    1
+                      320.00m
+ 3.00    2
+ 3.10    2
+ 3.20    2
+ 3.30    5                                           6
+ 3.40    4
+ 3.50    7
+ 3.60    6
+ 3.70    9
+ 3.80   24
+ 3.90   17
+ 4.00   23
+ 4.10   18
+ 4.20   16
+ 4.30   16
+ 4.40   14
+ 4.50   10
+ 4.60   20
+ 4.70   20
+ 4.80   17
+ 4.90    8
+ 5.00    6
+ 5.10    5
+ 5.20   16
+ 5.30   12
+ 5.40   14
+ 5.50   13
+ 5.60   13
+ 5.70   15
+ 5.80   16
+ 5.90   18
+
+Maßstab:      1: 50
+                                                                                                                         DC
+                 Geoplan GmbH                                Projekt      Baugebiet Schwaig X in Aldersbach
+                 Donau-Gewerbepark 5                         Projektnr.   B2208450
+                 94486 Osterhofen                            Datum        31.08.2022
+                 09932-95440                                 Rechtswert   4579701         Hochwert 5384048
+Tiefe   N10
+ 0.10    2
+ 0.20    3                                                                         DPH2
+ 0.30    3
+                                                                             Ansatzpunkt: 325.70 mNN
+ 0.40    4                                               0     10   20     30    40    50      60   70   80   90   100
+ 0.50    3                                           0
+ 0.60    3
+ 0.70    3
+                      325.00m
+ 0.80    2
+ 0.90    2
+ 1.00    3                                           1
+ 1.10    2
+ 1.20    3            324.00m
+ 1.30    3
+ 1.40    2
+                                                     2
+ 1.50    3
+ 1.60    2
+                                Eindringtiefe in m
+
+
+
+
+ 1.70    2            323.00m
+ 1.80    2
+ 1.90    4                                           3
+ 2.00   23
+ 2.10   24
+                      322.00m
+ 2.20   26
+ 2.30   20
+ 2.40   21                                           4
+ 2.50   25
+ 2.60   42            321.00m
+ 2.70   43
+ 2.80   30
+                                                     5
+ 2.90   32
+ 3.00   23
+ 3.10   14            320.00m
+ 3.20    6
+ 3.30    8                                           6
+ 3.40    3
+ 3.50    2
+ 3.60    2
+ 3.70   10
+ 3.80   12
+ 3.90   10
+ 4.00   12
+ 4.10   14
+ 4.20   12
+ 4.30   10
+ 4.40    8
+ 4.50    6
+ 4.60    8
+ 4.70    8
+ 4.80    4
+ 4.90    3
+ 5.00    2
+ 5.10    3
+ 5.20   12
+ 5.30   15
+ 5.40   19
+ 5.50   19
+ 5.60   18
+ 5.70   20
+ 5.80   20
+ 5.90   20
+
+Maßstab:      1: 50
+                                                                                                                         DC
+                 Geoplan GmbH                                Projekt      Baugebiet Schwaig X in Aldersbach
+                 Donau-Gewerbepark 5                         Projektnr.   B2208450
+                 94486 Osterhofen                            Datum        31.08.2022
+                 09932-95440                                 Rechtswert   4579577         Hochwert 5384076
+Tiefe   N10
+ 0.10    1
+ 0.20    1                                                                         DPH3
+ 0.30    2
+                                                                             Ansatzpunkt: 325.50 mNN
+ 0.40    1                                               0     10   20     30    40    50      60   70   80   90   100
+ 0.50    2                                           0
+ 0.60    1
+ 0.70    2            325.00m
+ 0.80    3
+ 0.90    2
+ 1.00    2                                           1
+ 1.10    2            324.00m
+ 1.20    1
+ 1.30    2
+ 1.40    2
+                                                     2
+ 1.50    3
+ 1.60    3            323.00m
+                                Eindringtiefe in m
+
+
+
+
+ 1.70    2
+ 1.80    3
+ 1.90    2                                           3
+ 2.00    2
+ 2.10    2            322.00m
+ 2.20    2
+ 2.30    1
+ 2.40    2                                           4
+ 2.50    1
+                      321.00m
+ 2.60    1
+ 2.70    2
+ 2.80    1
+                                                     5
+ 2.90    1
+ 3.00    1            320.00m
+ 3.10    1
+ 3.20    0
+ 3.30    1                                           6
+ 3.40    2
+ 3.50    2
+ 3.60    3
+ 3.70    2
+ 3.80    3
+ 3.90    3
+ 4.00    4
+ 4.10    3
+ 4.20    3
+ 4.30    6
+ 4.40    4
+ 4.50    4
+ 4.60    4
+ 4.70    9
+ 4.80   14
+ 4.90   10
+ 5.00   10
+ 5.10   15
+ 5.20   14
+ 5.30   10
+ 5.40    9
+ 5.50    9
+ 5.60   16
+ 5.70   15
+ 5.80   10
+ 5.90    8
+
+Maßstab:      1: 50
+                                                                                                                         DC
+Anlage 5
+Donau-Gewerbepark 5
+94486 Osterhofen
+Tel.: 09932 9544-0                                                                                                                                                     b
+Bestimmung der Fließ- und Ausrollgrenze nach DIN EN ISO 17892-12
+
+
+Baumaßnahme:                                                                                             Baugebiet Schwaig X in Aldersbach
+
+
+Projektnummer:                                                                                           B2208450
+Entnahmestelle:                                                                                          B1D2
+Entnahmetiefe:                                                                                           0,40 m - 0,80 m u. GOK
+Art der Entnahme                                                                                         Rammkernbohrung
+Benennung nach DIN 4022:                                                                                 Ton, schwach schluffig
+Entnahmedatum:                                                                                           31.08.2022
+Bearbeiter:                                                                                              M. Haimerl
+Bearbeitungsdatum:                                                                                       12.09.2022
+
+
+
+
+                                                               Bodenkennwerte:
+           Entn. Wassergehalt /DIN 18121, T1                                                                                   w                 0,211
+           Fließgrenze /DIN 18122, T1                                                                                         wL                 0,535
+           Ausrollgrenze /DIN 18122, T1                                                                                       wP                 0,175
+                                                                                1)
+           Schrumpfgrenze nach Krabbe                                                                                         wS                 0,084
+           Plastizitätszahl /DIN 18122, T1                                                                                     IP                0,361
+           Konsistenzzahl /DIN 18122, T1                                                                                       IC                0,898
+           Liquiditätszahl /DIN 18122 , T1                                                                                     IL                0,102
+           Bodengruppe /DIN 18196                                                                                                                    TA
+           Zustandsform /DIN 18122, T1                                                                                                               steif
+1)
+     Krabbe, W.: Über die Schrumpfung bindiger Böden. Mitteilung des Franzius Institutes der T.H. Hannover. H.13
+
+
+
+
+                                                                 Plastizitätsdiagramm mit Bodengruppen
+                           0,6   1) In den Zwischenbereich fallende Böden müssen dem Ton- u. Schluffbereich zugeordnet werden
+
+
+
+
+                           0,5
+
+                                                                                                             ausg. plast.
+                           0,4                                                                                Tone TA
+     Plastizitätszahl IP
+
+
+
+
+                           0,3
+                                                                                        mittelplast.
+                                                                                        Tone TM
+
+                           0,2
+                                                             leicht plast.                                                  organische Tone OT,
+                                                               Tone TL                                                      ausg. zus. Schluffe UA
+
+                           0,1         Sand-Ton-Gemische ST                              organ./
+                                                                                        mittelplast.
+                                        Zwischenbereich 1)                             Schluffe OU /
+                                                                                            UM
+                                     Sand-Schluff-Gemische SU
+                            0
+                                 0           0,1             0,2                 0,3
+                                                                      leicht plast.    0,4             0,5       0,6             0,7            0,8          0,9   1
+                                                                       Schluff UL
+                                                                                            Fließgrenze W L
+Donau-Gewerbepark 5
+94486 Osterhofen
+Tel.: 09932 9544-0                                                                                                                                                     b
+Bestimmung der Fließ- und Ausrollgrenze nach DIN EN ISO 17892-12
+
+
+Baumaßnahme:                                                                                             Baugebiet Schwaig X in Aldersbach
+
+
+Projektnummer:                                                                                           B2208450
+Entnahmestelle:                                                                                          B3D6
+Entnahmetiefe:                                                                                           3,80 m - 4,90 m u. GOK
+Art der Entnahme                                                                                         Rammkernbohrung
+Benennung nach DIN 4022:                                                                                 Ton, sandig, schwach schluffig
+Entnahmedatum:                                                                                           31.08.2022
+Bearbeiter:                                                                                              M. Haimerl
+Bearbeitungsdatum:                                                                                       12.09.2022
+
+
+
+
+                                                               Bodenkennwerte:
+           Entn. Wassergehalt /DIN 18121, T1                                                                                   w                 0,236
+           Fließgrenze /DIN 18122, T1                                                                                         wL                 0,340
+           Ausrollgrenze /DIN 18122, T1                                                                                       wP                 0,215
+                                                                                1)
+           Schrumpfgrenze nach Krabbe                                                                                         wS                 0,183
+           Plastizitätszahl /DIN 18122, T1                                                                                     IP                0,126
+           Konsistenzzahl /DIN 18122, T1                                                                                       IC                0,830
+           Liquiditätszahl /DIN 18122 , T1                                                                                     IL                0,170
+           Bodengruppe /DIN 18196                                                                                                                     TL
+           Zustandsform /DIN 18122, T1                                                                                                               steif
+1)
+     Krabbe, W.: Über die Schrumpfung bindiger Böden. Mitteilung des Franzius Institutes der T.H. Hannover. H.13
+
+
+
+
+                                                                 Plastizitätsdiagramm mit Bodengruppen
+                           0,6   1) In den Zwischenbereich fallende Böden müssen dem Ton- u. Schluffbereich zugeordnet werden
+
+
+
+
+                           0,5
+
+                                                                                                             ausg. plast.
+                           0,4                                                                                Tone TA
+     Plastizitätszahl IP
+
+
+
+
+                           0,3
+                                                                                        mittelplast.
+                                                                                        Tone TM
+
+                           0,2
+                                                             leicht plast.                                                  organische Tone OT,
+                                                               Tone TL                                                      ausg. zus. Schluffe UA
+
+                           0,1         Sand-Ton-Gemische ST                              organ./
+                                                                                        mittelplast.
+                                        Zwischenbereich 1)                             Schluffe OU /
+                                                                                            UM
+                                     Sand-Schluff-Gemische SU
+                            0
+                                 0           0,1             0,2                 0,3
+                                                                      leicht plast.    0,4             0,5       0,6             0,7            0,8          0,9   1
+                                                                       Schluff UL
+                                                                                            Fließgrenze W L
+Donau-Gewerbepark 5
+94486 Osterhofen
+Tel.: 09932 9544-0
+
+
+
+
+Bodenmechanische Untersuchungen
+
+Baumaßnahme:                                                Baugebiet Schwaig X in Aldersbach
+
+
+Entnahme am:                                                31.08.2022
+Projektnummer:                                              B2208450
+
+Probe Nr.                                                                                                                   B2D3
+Entnahmetiefe                                                                        1,70 - 2,50 m u. GOK                                       CU =            n.b.
+natürlicher Wassergehalt wn [%]                                                      18,80%                                                     Cc =            n.b.
+Benennung nach DIN EN ISO 14688-1                                                    Schluff, stark sandig                                      kf =            n.b.
+                                                                                                                                                d10 =           n.b.
+Bodengruppe nach DIN 18196                                                           UL                                                         d30 =           n.b.
+Art der Entnahme:                                                                    Rammkernbohrung                                            d60 =           n.b.
+                                                                                                                                                     n.b. = nicht bestimmt
+
+Korngrößenverteilung nach DIN EN ISO 17892-04
+
+ Korndurch-
+                                                 Siebrückstand                                  Siebdurchgang
+  messer
+    [mm]                                                 [M.-%]                                          [M.-%]
+     63,0                                                  0,0                                            100,0
+     56,0                                                  0,0                                            100,0
+     45,0                                                  0,0                                            100,0
+     31,5                                                  0,0                                            100,0
+     16,0                                                  0,0                                            100,0
+      8,0                                                  0,3                                             99,7
+      4,0                                                  0,9                                             98,8
+      2,0                                                  0,9                                             97,9
+      1,0                                                  0,7                                             97,2
+      0,5                                                  1,0                                             96,2
+     0,25                                                  5,8                                             90,4
+    0,125                                                 18,7                                             71,7
+    0,063                                                 11,0                                             60,7
+   < 0,063                                                60,7
+
+
+                                                                                Korngrößenverteilung
+                              Ton               Schluffkorn                                Sandkorn                               Kieskorn                   Steine
+                        100                 Fein-      Mittel-          Grob-      Fein-       Mittel-        Grob-       Fein-       Mittel-        Grob-
+
+                        90
+
+                        80
+ Siebdurchgang [M.-%]
+
+
+
+
+                        70
+
+                        60
+
+                        50
+
+                        40
+
+                        30
+
+                        20
+
+                        10
+
+                          0
+                                    0,002       0,0063           0,02      0,063             0,2     0,63             2           6,3           20        63   100
+                                                                                    Korndurchmesser [mm]
+Donau-Gewerbepark 5
+94486 Osterhofen
+Tel.: 09932 9544-0
+
+
+
+Bodenmechanische Untersuchungen
+
+Baumaßnahme:                                                Baugebiet Schwaig X in Aldersbach
+
+
+Entnahme am:                                                31.08.2022
+Projektnummer:                                              B2208450
+
+Probe Nr.                                                                                                                   B4D5
+Entnahmetiefe                                                                        2,60 - 2,80 m u. GOK                                       CU =            n.b.
+natürlicher Wassergehalt wn [%]                                                      7,22%                                                      Cc =            n.b.
+Benennung nach DIN EN ISO 14688-1                                                    Kies, sandig, stark schluffig                              kf =            n.b.
+                                                                                                                                                d10 =           n.b.
+Bodengruppe nach DIN 18196                                                           GU*                                                        d30 =           0,17
+Art der Entnahme:                                                                    Rammkernbohrung                                            d60 =           4,86
+                                                                                                                                                     n.b. = nicht bestimmt
+
+Korngrößenverteilung nach DIN EN ISO 17892-04
+
+ Korndurch-
+                                                 Siebrückstand                                  Siebdurchgang
+  messer
+    [mm]                                                 [M.-%]                                          [M.-%]
+     63,0                                                  0,0                                            100,0
+     56,0                                                  0,0                                            100,0
+     45,0                                                  0,0                                            100,0
+     31,5                                                  0,0                                            100,0
+     16,0                                                  4,1                                             95,9
+      8,0                                                 21,6                                             74,3
+      4,0                                                 18,2                                             56,1
+      2,0                                                  7,8                                             48,3
+      1,0                                                  3,5                                             44,8
+      0,5                                                  1,6                                             43,2
+     0,25                                                  6,4                                             36,8
+    0,125                                                 10,0                                             26,8
+    0,063                                                  5,8                                             21,0
+   < 0,063                                                21,0
+
+
+                                                                                Korngrößenverteilung
+                              Ton               Schluffkorn                                Sandkorn                               Kieskorn                   Steine
+                        100                 Fein-      Mittel-          Grob-      Fein-       Mittel-        Grob-       Fein-       Mittel-        Grob-
+
+                        90
+
+                        80
+ Siebdurchgang [M.-%]
+
+
+
+
+                        70
+
+                        60
+
+                        50
+
+                        40
+
+                        30
+
+                        20
+
+                        10
+
+                          0
+                                    0,002       0,0063           0,02      0,063             0,2     0,63             2           6,3           20        63   100
+                                                                                    Korndurchmesser [mm]
+Donau-Gewerbepark 5
+94486 Osterhofen
+Tel.: 09932 9544-0
+
+
+
+
+Bodenmechanische Untersuchungen
+
+Baumaßnahme:                                                Baugebiet Schwaig X in Aldersbach
+
+
+Entnahme am:                                                31.08.2022
+Projektnummer:                                              B2208450
+
+Probe Nr.                                                                                                                   B5D5
+Entnahmetiefe                                                                        2,70 - 3,00 m u. GOK                                       CU =           40,84
+natürlicher Wassergehalt wn [%]                                                      2,54%                                                      Cc =           0,54
+Benennung nach DIN EN ISO 14688-1                                                    Kies, stark sandig,                                        kf =         1,99E-04
+                                                                                     schwach schluffig                                          d10 =           0,14
+Bodengruppe nach DIN 18196                                                           GU                                                         d30 =           0,66
+Art der Entnahme:                                                                    Rammkernbohrung                                            d60 =           5,73
+
+
+
+Korngrößenverteilung nach DIN EN ISO 17892-04
+
+ Korndurch-
+                                                 Siebrückstand                                  Siebdurchgang
+  messer
+    [mm]                                                 [M.-%]                                          [M.-%]
+     63,0                                                  0,0                                            100,0
+     56,0                                                  0,0                                            100,0
+     45,0                                                  0,0                                            100,0
+     31,5                                                  0,0                                            100,0
+     16,0                                                  4,1                                             95,9
+      8,0                                                 25,1                                             70,8
+      4,0                                                 19,0                                             51,8
+      2,0                                                 11,2                                             40,6
+      1,0                                                  6,8                                             33,8
+      0,5                                                  5,6                                             28,2
+     0,25                                                 11,7                                             16,5
+    0,125                                                  7,4                                              9,1
+    0,063                                                  2,8                                              6,3
+   < 0,063                                                 6,3
+
+
+                                                                                Korngrößenverteilung
+                              Ton               Schluffkorn                                Sandkorn                               Kieskorn                   Steine
+                        100                 Fein-      Mittel-          Grob-      Fein-       Mittel-        Grob-       Fein-       Mittel-        Grob-
+
+                        90
+
+                        80
+ Siebdurchgang [M.-%]
+
+
+
+
+                        70
+
+                        60
+
+                        50
+
+                        40
+
+                        30
+
+                        20
+
+                        10
+
+                          0
+                                    0,002       0,0063           0,02      0,063             0,2     0,63             2           6,3           20       63    100
+                                                                                    Korndurchmesser [mm]
+Donau-Gewerbepark 5
+94486 Osterhofen
+Tel.: 09932/95440
+
+
+
+
+Wassergehalt
+nach DIN EN ISO 17892-1
+
+                            Baugebiet Schwaig X in Aldersbach
+Baumaßnahme :
+
+Projektnummer:              B2208450
+Entnahmestelle:             B5
+Art der Entnahme:           Rammkernbohrung                     Bearbeiter:   Haimerl
+Probe entnommen am:         31.08.2022                          Datum:
+
+
+Aufschluss:                               B5
+Probe                                     D3
+Tiefe [m u. GOK]                       1,10-2,30
+Bodenart                                   Ul
+
+ Wassergehaltsbestimmung
+Versuch Nr.                                1
+Feuchte Probe + Behälter       g        562,0
+Trockene Probe + Behälter      g        490,0
+Behälter                       g        124,0
+Feuchte Probe                  g        438,0
+Porenwasser                    g         72,0
+Trockene Probe                 g        366,0
+Wassergehalt                   %        19,7%
+

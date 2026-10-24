@@ -1,0 +1,1113 @@
+        UMWELTBERICHT
+        GEMEINDE ALDERSBACH
+        „SCHWAIG X“
+        Bebauungsplan m. Int. GOP
+
+
+
+
+        GEMEINDE ALDERSBACH
+
+
+
+
+        Bebauungsplan mit integrierter Grünordnungsplanung
+        Gemarkung Aldersbach; Fl.Nr. 312, 312/4
+
+
+        „SCHWAIG X“;
+        WA n. § 4 BauNVO;
+
+
+
+
+        UMWELTBERICHT
+
+        VORENTWURFSFASSUNG 26.02.2024
+
+
+
+
+        Gefertigt: 25.09.2024                                     Geändert:
+
+
+        _____________________________________________________________________________
+        Bearbeitung:
+        Landschaftsarchitekt, Stadtplaner
+        Achim Ruhland
+        Joseph-von-Eichendorff Str. 37
+        94428 Eichendorf
+        Tel.: 0151 / 124 087 13
+
+                                                                                   Seite 1 von 22
+￼
+    ￼
+        UMWELTBERICHT
+        GEMEINDE ALDERSBACH
+        „SCHWAIG X“
+        Bebauungsplan m. Int. GOP
+
+        Inhaltsverzeichnis:
+
+        GEMEINDE ALDERSBACH                                                                                                 1
+          1.   EINLEITUNG                                                                                                   4
+          2.   BESCHREIBUNG DES VORHABENS                                                                                   4
+          3.   DARSTELLUNG DER IN FACHGESETZEN UND FACHPLÄNEN
+               FESTGELEGTEN UMWELTRELEVANTEN ZIELE UND IHRE BEGRÜNDUNG                                                      5
+               3.1.Landesentwicklungsprogramm LEP Bayern St. 01.06.2023                                                     5
+               3.2.Regionalplanung                                                                                          6
+               3.3.rechtskr. Flächennutzungsplan mit integriertem Landschaftsplan                                           7
+               3.4.Naturschutz u. Sonst. Schutzgebiete                                                                      7
+               3.5.Artenschutz n. (§§39 . u. §§ 44 . d. BNatSchG);                                                          7
+                  3.5.1.Bewertung des Standortes hinsichtlich der möglichen Betro enheit allgemeiner
+                      Arten n. §§39 BNatSchG und streng geschützter Arten §§44 BNatSchG                                     8
+                  3.5.2.Maßnahmen zur Strukturanreicherung innerhalb des Baugebietes hinsichtlich des
+                      Artenschutzes.                                                                  8
+          4. BESTANDSAUFNAHME, BESCHREIBUNG UND BEWERTUNG DER
+             UMWELTAUSWIRKUNGEN EINSCHL. PROGNOSE BEI DURCHFÜHRUNG                                                          9
+               4.1.Methodik der Umweltprüfung                                                                               9
+               4.2.Bestandsaufnahme des Standortes anhand der Schutzgüter                                                  10
+               4.3.Bewertung des Eingri s anhand der Schutzgüter                                                           15
+          5. PROGNOSE ÜBER DIE ENTWICKLUNG DES UMWELTZUSTANDES BEI
+             DURCHFÜHRUNG / NICHTDURCHFÜHRUNG DER PLANUNG                                                                 17
+               5.1.Prognose bei Nichtdurchführung des Vorhabens                                                            17
+               5.2.Prognose bei Durchführung des Vorhabens                                                                 17
+          6.   MAßNAHMEN ZUR VERMEIDUNG, VERRINGERUNG UND AUSGLEICH                                                       17
+               6.1.Maßnahmen zur Vermeidung, Verringerung                                                                  17
+               6.2.Naturschutzrechtliche Eingri sregelung                                                                  18
+                  6.2.2.Ermittlung des Kompensationsbedarfs anhand Anlagengröße                                            18
+          7. BEGRÜNDUNGSPFLICHT FÜR NEUE BAUFLÄCHEN UND
+             AUSGLEICHSMAßNAHMEN IM AUSSENBEREICH - VERLUST AN
+             LANDWIRTSCHAFTLICHER NUTZFLÄCHE                                                                              20
+          8. PLANUNGSALTERNATIVEN, ABWÄGUNG - MONITORING                                                                  20
+               8.1.Standortwahl (FNP-Ebene)                                                                                20
+               8.2.Berücksichtigung der Umweltbelange in der Abwägung                                                      20
+               8.3.Maßnahmen zur Überwachung - Monitoring                                                                  21
+
+                                                                                                                Seite 2 von 22
+￼
+    ￼
+          ff
+                  ff
+                   ff
+                         ff
+                              ff
+                                                         ff
+                                                              ff
+                                                                            ￼
+                                                                                ￼
+                                                                                ￼
+                                                                                    ￼
+                                                                                    ￼
+                                                                                    ￼
+                                                                                    ￼
+                                                                                    ￼
+                                                                                    ￼
+                                                                                    ￼
+                                                                                    ￼
+                                                                                    ￼
+                                                                                        ￼
+                                                                                        ￼
+                                                                                        ￼
+                                                                                        ￼
+                                                                                        ￼
+                                                                                        ￼
+                                                                                            ￼
+                                                                                                ￼
+                                                                                                ￼
+                                                                                                ￼
+                                                                                                    ￼
+                                                                                                    ￼
+                                                                                                    ￼
+                                                                                                        ￼
+                                                                                                            ￼
+        UMWELTBERICHT
+        GEMEINDE ALDERSBACH
+        „SCHWAIG X“
+        Bebauungsplan m. Int. GOP
+          9.   ZUSAMMENFASSUNG UND METHODIK                                                        21
+               9.1.Beschreibung der Methodik und Hinweise auf Schwierigkeiten und Kenntnislücken    21
+               9.2.Allgemein verständliche Zusammenfassung                                          21
+
+
+
+
+                                                                                         Seite 3 von 22
+￼
+    ￼
+                                                                               ￼
+                                                                               ￼
+                                                                                   ￼
+             UMWELTBERICHT
+             GEMEINDE ALDERSBACH
+             „SCHWAIG X“
+             Bebauungsplan m. Int. GOP
+
+
+
+             1.   EINLEITUNG
+
+             Das Baugesetzbuch verp ichtet zur wirksamen Umweltvorsorge, weshalb die Auswirkungen der
+             Planung auf Menschen, Tiere und P anzen, Boden, Wasser, Luft, Klima und Landschaft einschließlich
+             der jeweiligen Wechselwirkungen sowie auf Kultur- und Sachgüter als auch auf deren Umweltfolgen
+             zu prüfen sind.
+
+             Der §2a BauGB führt eine generelle Umweltprüfung (UP) als regelmäßigen Bestandteil des
+             Aufstellungsverfahrens der Bauleitplanung ein. Die Inhalte der Umweltprüfung nden sich im
+             Umweltbericht als selbstständigen Teil der Begründung.
+
+             Die Beschreibung der Schutzgüter und deren Wechselwirkungen, die Auswirkungen des Vorhabens
+             auf diese und die Maßnahmen zur Vermeidung nachteiliger Auswirkungen und deren Ausgleich
+             weichen nicht ab, sondern werden auf Ebene des Bebauungsplanes konkretisiert.
+
+             2.   BESCHREIBUNG DES VORHABENS
+
+             s.a. Begründung zum Bebauungsplan
+
+             Ziel des Bebauungsplanes mit integrierter Grünordnungsplanung ist es, die bauplanungsrechtlichen
+             Voraussetzungen für die Neuausweisung von Wohnbau ächen zu schaffen. Die bestehende
+             Acker ächen Fl.Nr. 312, 312/4 Gemarkung Aldersbach im westlichen Abschluss des Ortes werden in
+             diesem Zuge überplant.
+
+             Im Sinne des Gesetzgebers werden neue Strukturen an vorhandene Strukturen am Ort angegliedert.
+
+             Dadurch kann entsprechend dem Landesentwicklungsprogramm Bayern (LEP) das Anbindegebot n.
+             Punkt 3.3 (G) Vermeidung von Zersiedelung durchgesetzt werden. Der Gebietscharakter anliegend
+             wird für den neu genutzten Bereich nur erweitert.
+
+             Der Geltungsbereich umfasst das Grundstücke Fl.Nr. 312 und 312/4 der Gemarkung Aldersbach.
+
+
+
+
+                                                                                                 Seite 4 von 22
+￼
+    fl
+         ￼
+                           fl
+                                    fl
+                                                           fl
+                                                                                   fi
+        UMWELTBERICHT
+        GEMEINDE ALDERSBACH
+        „SCHWAIG X“
+        Bebauungsplan m. Int. GOP
+
+
+
+        3.   DARSTELLUNG DER IN FACHGESETZEN UND FACHPLÄNEN FESTGELEGTEN
+             UMWELTRELEVANTEN ZIELE UND IHRE BEGRÜNDUNG
+
+             3.1.Landesentwicklungsprogramm LEP Bayern St. 01.06.2023
+
+                Nach dem Landschaftsentwicklungsprogramm Bayern 2023 liegt die Gemeinde
+                Aldersbach im Allgemeinen ländlichen Raum. (s. Strukturkarte Anhang 2)
+
+
+
+
+                                                                             Seite 5 von 22
+￼
+    ￼
+        UMWELTBERICHT
+        GEMEINDE ALDERSBACH
+        „SCHWAIG X“
+        Bebauungsplan m. Int. GOP
+
+           3.2.Regionalplanung
+
+               Nach dem Regionalplan Region Donau-Wald, Region 12 liegt das Gebiet im
+               Gemeindebereich Aldersbach im Allgemeinen ländlichen Raum.
+
+
+
+
+               Auszug aus der Karte 1 - Raumstruktur (m. Markierung v. Aldersbach)
+
+               Wie der Kartenauszug zeigt liegt Aldersbach in einem ländlichen Teilraum, dessen Entwicklung
+               in besonderem Maße gestärkt werden soll.
+
+               In der Begründung zum Siedlungswesen BII. (Zu II.1.1(G)) steht, „…Die Siedlungsentwicklung
+               soll so weit als möglich auf die Hauptorte der Gemeinden konzentriert werden …“, weiter BII.
+               (Zu II.1.3.(G)) „…Die Siedlungsgebiete sowie sonstige Vorhaben sollen möglichst schonend in
+               die Landschaft eingebundenwerden. Für das Orts- und Landschaftsbild wichtige
+               Siedlungsränder sollen erhalten und strukturreiche Übergänge zwischen Siedlung und
+               Freiraum angestrebt werden. …“ Der Bebauungsplan mit integrierter Grünordnungsplanung
+               folgt diesem Grundsatz.
+
+
+
+
+                                                                                              Seite 6 von 22
+￼
+    ￼
+        UMWELTBERICHT
+        GEMEINDE ALDERSBACH
+        „SCHWAIG X“
+        Bebauungsplan m. Int. GOP
+
+
+
+
+                 Auszug aus dem Regionalplan Karte R12 (Freiraumsicherung)
+
+                 Wie der Auszug aus dem Regionalplan zeigt, liegt die Vorhabens äche in Aldersbach
+                 außerhalb von Regionalen Grünzügen, Trenngrün ächen und Landschaftlichen
+                 Vorbehaltsgebiete . Die Vorbehaltsgebiete werden von der Planung weder berührt noch
+                 beeinträchtigt.
+
+              3.3. rechtskr. Flächennutzungsplan mit integriertem Landschaftsplan
+
+                 Ein Flächennutzungsplan ist vorhanden. Im rechtsgültigen Flächennutzungsplan und
+                 Landschaftsplan sind im Änderungsbereich und Geltungsbereich Allgemeine
+                 Wohngebiets ächen bereits dargestellt. Die Entwicklung an diesem Standort entwickelt sich
+                 somit aus dem Flächennutzungsplan.
+
+
+
+              3.4.Naturschutz u. Sonst. Schutzgebiete
+
+                 Die Biotopkartierung Bayern Flachland führt im näheren Anschluss an die Vorhabens äche
+                 keine Biotope auf.
+
+
+
+              3.5.Artenschutz n. (§§39 ff. u. §§ 44 ff. d. BNatSchG);
+
+                 Um den weiteren Artenrückgang zu stoppen ist der Schutz wild lebender Tiere und P anzen
+                 im Bundesnaturschutzgesetz (BNatSchG) verankert worden. Das Gesetz de niert den
+                 rechtlichen Rahmen für den Natur- und Landschaftsschutz nach den internationalen
+                 Standards und beschreibt Ziele und Maßnahmen für allgemein geschützte Arten (§§39 ff.)
+                 sowie besonders und streng geschützte Arten (§§ 44ff.)
+
+
+
+
+                                                                                             Seite 7 von 22
+￼
+    ￼
+         fl
+                                                       fl
+                                                                   fl
+                                                                             fi
+                                                                                  fl
+                                                                                       fl
+                  UMWELTBERICHT
+                  GEMEINDE ALDERSBACH
+                  „SCHWAIG X“
+                  Bebauungsplan m. Int. GOP
+                                     3.5.1.Bewertung des Standortes hinsichtlich der möglichen Betroffenheit allgemeiner
+                                         Arten n. §§39 ff BNatSchG und streng geschützter Arten §§44 ff BNatSchG
+
+                                     Hinsichtlich der angetroffenen Nutzung handelt es sich hier um ackerbaulich intensiv genutzte
+                                     Flächen, die je nach Fruchtfolge mit unterschiedlichen Nutzp anzen bewachsen sind.
+                                     Einhergehend ist ein turnusmäßiger Umbruch der oberen Bodenschichten, sowie das
+                                     Aufbringen von P anzenschutzmittel und Dünger. Anliegend an die Vorhaben äche sind im
+                                     Osten und Süden sind Siedlungs ächen mit privaten Gärten ersichtlich im Norden die
+                                     Pörndorfer Straße (St2083) und im Westen eine größere intensiv genutzte Acker äche, welche
+                                     aber weiter westlich wieder auf einen Siedlungsrand trifft.
+
+                                     Durch die intensive Nutzung und die anliegenden Störquellen auf der Fläche können viele
+                                     streng geschützte Tier- und P anzenarten weitgehend im Vornherein ausgeschlossen werden,
+                                     so dass für die Bewertung des Standortes lediglich die Arten herangezogen werden können,
+                                     die diesen Lebensraum bewohnen.
+
+                                     Bei der örtlichen Übersicht konnten keine Sichtungen von Feldlerchen (Alauda arvensis)
+                                     kartiert werden. Auch wurden keine Anzeichen für das Vorkommen von Amphibien und
+                                     Reptilien vorgefunden.
+
+                                     Der Standort ist durch die anliegenden Siedlungs ächen und die Staatsstraße sehr
+                                     beeinträchtigt, so dass nicht davon ausgegangen wird, dass streng geschützte Tier- und
+                                     P anzenarten hier ihren Lebensraum haben. Natürlich kann es aber vorkommen, dass die
+                                     Fläche im Einzugsgebiet streng geschützter Arten, mit großem Lebens- und Jagdraum liegt.
+                                     Diese nden aber durch die anliegende Ackerstruktur noch genügend Ausweichraum.
+
+                                     3.5.2.Maßnahmen zur Strukturanreicherung innerhalb des Baugebietes hinsichtlich
+                                         des Artenschutzes.
+
+                                     Die Bewertung des Standortes ergab nur einen geringen Strukturwert für Flora und Fauna
+                                     durch die intensive Bewirtschaftung der Fläche. Nach vorliegender Planung werden am Rand
+                                     und auch innerhalb des geplanen Siedlungsgebietes folgende strukturanreichernde
+                                     Festsetzungen getroffen.
+
+                      - Anlage von extensiv genutzten Wiesenstrukturen mit einem hohen Anteil an Kräutern auf
+                                     öffentlichen Grün ächen
+                      - Anlage von Heckenstrukturen innerhalb der Ausgleichs ächen, sowie die P anzung von
+                        heimischen standortgerechten Gehölzen innerhalb der öffentlichen Grün ächen
+                      - Integration von Festsetzungen zur Durchgrünung auch der privaten Grundstücke und einer
+                        geringeren Flächenversiegelung innerhalb des Siedlungsgebietes.
+                      - Festsetzung von insektenfreundlicher Beleuchtung, sowie Festsetzungen zur Ausleuchtung
+                        der privaten Grün ächen
+                      - Ausschluss von Kies- und Kiesschotter ächen mit Vliesunterlegung
+
+
+
+                                                                                                                     Seite 8 von 22
+fl
+     ￼
+         fi
+              ￼
+                      fl
+                           fl
+                                fl
+                                               fl
+                                                     fl
+                                                          fl
+                                                                        fl
+                                                                             fl
+                                                                                    fl
+                                                                                         fl
+                                                                                                fl
+                                                                                                     fl
+                                                                                                          fl
+        UMWELTBERICHT
+        GEMEINDE ALDERSBACH
+        „SCHWAIG X“
+        Bebauungsplan m. Int. GOP
+
+        4. B E S TA N D S A U F N A H M E , B E S C H R E I B U N G U N D B E W E R T U N G D E R
+           UMWELTAUSWIRKUNGEN EINSCHL. PROGNOSE BEI DURCHFÜHRUNG
+
+           4.1. Methodik der Umweltprüfung
+
+               Der Umweltbericht wurde methodisch wie folgt aufgebaut:
+               Die Standortuntersuchung erfolgt auf Basis des Flächennutzungsplanes und
+               Landschaftsplanes der Gemeinde Aldersbach. Die Bestandsaufnahme der umweltrelevanten
+               Schutzgüter erfolgte auf der Grundlage der Daten des Flächennutzungsplanes und
+               Landschaftsplanes, der Erkenntnisse die im Rahmen der Ausarbeitung des Bebauungsplanes
+               entstanden, sowie der Literatur der übergeordneten Planungsvorgaben, LEP
+               (Landesentwicklungsprogramm Bayern), RP (Regionalplan Region Donau-Wald Nr. 12)
+               entnommenen Inhalte.
+
+               Weiterhin wurden im Online-Portal Fin-Web und Umweltatlas Bayern, sowie durch eigene
+               Bestandsaufnahmen die Datengrundlagen vervollständigt. Über alle nicht verzeichneten
+               Themen werden gutachterliche Abschätzungen getroffen.
+
+
+
+
+                                                                                         Seite 9 von 22
+￼
+    ￼
+    UMWELTBERICHT
+    GEMEINDE ALDERSBACH
+    „SCHWAIG X“
+    Bebauungsplan m. Int. GOP
+          4.2. Bestandsaufnahme des Standortes anhand der Schutzgüter
+
+
+        SCHUTZGÜTER             BESTANDSAUFNAHME MIT ZIELEN UND MAßNAHMEN
+        BODEN                   BESTAND
+
+                                Standortkundliche Landschaftsgliederung 1:1 000 000
+                                Nr. 12 - Tertiärhügelland, Iller-Lechplatte und Donautal
+                                Bodenkarte 1:200 000 / Übersichtsbodenkarte 1:25 000
+                                Bodenkarte M. 1/200000
+                                Boden Nr. 38 - Braunerden und Parabraunerden aus Lösslehm;
+                                Ausgangsgestein Lösslehm
+                                Bodenkarte M. 1/25000
+                                (5) Fast ausschließlich Braunerde aus Schluff bis Schluffton
+                                Baugrund n. Umweltatlas Bayern
+
+                                L, bf
+                                Bindige, feinkörnige Lockergesteine, mäßig bis gut konsolidiert; Mittlere
+                                Tragfähigkeit (gering bis mittel), wasserempfindlich (wechselnde Konsistenz,
+                                Schrumpfen, Quellen) Staunässe möglich.
+                                Frostempfindlich, setzungsempfindlich z.T. besondere Gründungsformen
+                                erforderlich, oft eingeschränkt befahrbar.
+                                ZIELE UND MAßNAHMEN
+
+                                Ziele :
+                                • Sicherstellung, dass die bewachsene, filterfähige Oberbodenschicht auf der
+                                  Vorhabenfläche verbleibt.
+                                • Dauerhafte Sicherung des natürlichen Oberbodens durch Bewuchs
+                                  (Sicherung der Filterfunktion des Oberbodens)
+                                Maßnahmen:
+                                • Umwandlung von offenem Ackerland zu dauerhaft bewachsenen Flächen mit
+                                  z.T. extensiver Nutzung
+                                • Anlage von naturschutzfachlich hochwertigen Wiesen- und Baum-
+                                  Strauchgesellschaften im Übergang zwischen Wohngebietsflächen und
+                                  landwirtschaftlichen Flächen, welche zur Regeneration des Bodens von der
+                                  landwirtschaftlich intensiven Nutzung führt.
+                                • Im Rahmen der Bautätigkeiten auf den Flächen ist jeweils ein
+                                  Bodengutachten zu erstellen, um sicherzustellen, das die Tragfähigkeit für die
+                                  zu errichtenden Bauwerke gesichert ist.
+        WASSER                  BESTAND
+
+                                Nach Auskunft des IÜG liegt die Vorhabenfläche außerhalb festgesetzter
+                                Überschwemmungsgebiete; Die Vorhabenfläche liegt aber innerhalb der
+                                HQExtrem Linie, daher sind im Rahmen der Festsetzungen und auch bezüglich
+                                des Umgangs mit Regenwasser weitere Festsetzungen zu treffen.
+
+
+
+
+                                ZIELE UND MAßNAHMEN
+
+                                                                                                 Seite 10 von 22
+￼
+    ￼
+    UMWELTBERICHT
+    GEMEINDE ALDERSBACH
+    „SCHWAIG X“
+    Bebauungsplan m. Int. GOP
+        SCHUTZGÜTER             BESTANDSAUFNAHME MIT ZIELEN UND MAßNAHMEN
+                                Ziele
+                                • Schaffung eines dauerhaften Bewuchses auf der Fläche (Erhöhung der
+                                  Filterfunktion und Reduzierung der Abflussgeschwindigkeit) im Gegensatz zur
+                                  intensiven landwirtschaftlichen Nutzung
+                                • Ggf. Sammlung und Nutzung von Regenwasser zur Bewässerung der
+                                  Grünanlagen und somit zur Schließung des Wasserkreislaufes ohne
+                                  zusätzlichen Bedarf an Brauchwasser.
+                                • R ü c k h a l t u n g v o n O b e r f l ä c h e n w a s s e r a u f d e r Vo r h a b e n f l ä c h e
+                                  (Regenrückhaltung offen)
+                                Maßnahmen
+
+                                • Festsetzung von großflächigen Grünstrukturen und Pflanzflächen innerhalb
+                                  der Wohngebietes als extensiv genutzte Flächen
+                                • Ableitung des Oberflächenwassers auf die belebte Oberbodenschicht
+                                • Die inneren Erschließungswege sind z.T., wo keine Barrierefreiheit notwendig
+                                  ist als einfache Kieswege oder Pflasterwege mit hohem Fugenanteil
+                                  vorgesehen. Das anfallende Oberflächenwasser wird flächig in angrenzende
+                                  Seitenflächen abgeleitet.
+
+
+        LUFT / KLIMA            BESTAND
+
+                                Frischluftentstehungsgebiete
+                                Durch die geringe Ausdehnung und den direkten Anschluss an bestehende
+                                bebaute Gebiete ist von keinem Frischluftentstehungsgebiet auszugehen.
+                                Bodennahe Aufwärmung
+                                Durch die landwirtschaftliche intensive Nutzung ist keine über dem durchschnitt
+                                erwartbare Aufheizung von bodennahen Schichten zu erwarten.
+                                Staubbelastung
+                                Je nach Bewuchs der Fläche ist von einer geringen Verfrachtung von
+                                Oberbodenmaterial zu rechnen. Bei Maisbewirtschaftung ist keine Sicherung
+                                des Bodens durch Bewuchs vorhanden und eine Luftverfrachtung von
+                                Oberboden ist im Jungstadium des Aufwuchses ersichtlich. Die Bewirtschaftung
+                                der Flächen führt zu einer vermehrten Staubbelastung der anliegenden
+                                Wohngebiete bei Trockenperioden.
+                                ZIELE UND MAßNAHMEN
+
+                                Ziele:
+                                • Durch die Aufgabe der intensiven landwirtschaftlichen Nutzung auf der
+                                  Vorhabenfläche wird die Staubbelastung durch luftverfrachteten Oberboden
+                                  gemindert.
+                                Maßnahmen:
+                                • Dauerhafte Sicherung des Oberbodens durch Bewuchs und Extensivierung
+                                  der Pflege
+                                • Staubbindung durch Eingrünung innerhalb des Vorhabensbereiches
+
+
+
+
+                                                                                                                   Seite 11 von 22
+￼
+    ￼
+    UMWELTBERICHT
+    GEMEINDE ALDERSBACH
+    „SCHWAIG X“
+    Bebauungsplan m. Int. GOP
+        SCHUTZGÜTER             BESTANDSAUFNAHME MIT ZIELEN UND MAßNAHMEN
+        ARTEN              / BESTAND
+        LEBENSRÄUME          Die Bestandsaufnahme erfolgte auf Grundlage einer örtlichen Begehung und
+                             den Online-Auskunftssystemen
+                                Naturraum
+                                D65 Unterbayerisches Hügelland und Isar-Inn Schotterplatten.
+                                HPNV
+                                Im Norden der Vorhabensfläche
+                                F2a - Zittergrasseggen-Stieleichen-Hainbuchenwald
+                                Im Süden der Vorhabenfläche
+                                M6a Hexenkraut- oder Zittergrasseggen-Waldmeister-Buchenwald im Komplex
+                                mit Zittergrasseggen-Hainsimsen-Buchenwald; örtlich Waldziest-Eschen-
+                                Hainbuchenwald
+                                ABSP (060-A) Naturraum-Untereinheit
+                                Isar Inn Hügelland
+                                Gebietseigenes Saatgut / Gebietseigene Gehölze; Unterbayerische Hügel-
+                                und Plattenregion; Alpenvorland
+
+
+
+
+                                ZIELE UND MAßNAHMEN
+
+                                Ziele
+                                • Durch die Anlage von extensiv genutzten Wiesenstrukturen und Baum-
+                                  Strauchgesellschaften (momentan intensiv landwirtschaftlich, genutzte
+                                  Fläche) soll der Artenreichtum auf der Vorhabenfläche erhöht werden.
+                                • Seltene oder geschützte Arten des Lebensraums sind nach derzeitigem
+                                  Wissenstand nicht betroffen
+                                • Eine Untersuchung des Lebensraums zur Betroffenheit streng geschützter
+                                  Arten hat stattgefunden
+                                Maßnahmen
+                                • Festsetzung zur Umwandlung der Ackerfläche in eine artenreiche
+                                  Flachlandmähwiese mit Angabe zur Pflege und Entwicklung
+                                • Festsetzung von 15cm Bodenabstand für Einzäunungen zur Sicherung der
+                                  Druchlässigkeit für Kleinsäuger und Mittelsäuger
+                                • Durch die Extensivierung der momentanen Offenlandnutzung zur
+                                  Grünlandnutzung verbessert sich das Lebensraumgefüge für eine Vielzahl
+                                  von Tierarten (Kleinsäuger, Insekten, Fledermäuse, Vögel, …).
+
+
+        LANDSCHAFTSBILD         BESTAND
+
+                                Großlandschaft
+                                Alpenvorland
+                                Naturraum Haupteinheiten (Ssymank)
+                                Unterbayerisches Hügelland und Isar-Inn Schotterplatten
+                                Naturraum-Untereinheit (ABSP)
+                                Donau Isar Hügelland
+
+
+
+
+                                                                                           Seite 12 von 22
+￼
+    ￼
+    UMWELTBERICHT
+    GEMEINDE ALDERSBACH
+    „SCHWAIG X“
+    Bebauungsplan m. Int. GOP
+        SCHUTZGÜTER             BESTANDSAUFNAHME MIT ZIELEN UND MAßNAHMEN
+                                Lage
+                                Die geplante Erweiterung der Wohngebietsflächen im direkten Anschluss an
+                                bestehende Wohngebiete entspricht dem Anbindegebot nach LEP - eingerahmt
+                                wird die Entwicklung momentan nur von Norden her mit einer
+                                Ortsrandeingrünung, da es ggf. eine weitere Entwicklung nach Westen geben
+                                könnte.
+
+
+                                ZIELE UND MAßNAHMEN
+
+                                Ziele
+                                • Verringerung der Fernwirkung der Anlage durch ausreichende Eingrünung
+                                • Einbindung in die umgebende Landschaft durch Integration von
+                                  landschaftsbildtypischen Lebensräumen
+                                Maßnahmen
+                                • Festsetzung einer Eingrünung
+                                • Integration von Streuobstbestände
+
+
+        MENSCH                  BESTAND
+
+                                Erholungswirkung
+                                Durch die Lage angrenzend von landwirtschaftlich genutzten Flächen und
+                                bereits bestehender Bebauung ist nicht davon auszugehen, dass es zu einer
+                                Verschlechterung der Erholungswirkung kommt zu mal nur die Ränder der
+                                Bebauung erweitert werden.
+                                Lärm
+                                Durch die Errichtung der neuen Gebäude wird nur während der Bauzeit die
+                                Lärmbelastung auf der Fläche erhöht.
+                                Im Rahmen der Ausarbeitungen wurde ein Lärmgutachten gefertigt. Ein
+                                entsprechender Lärmschutzwall zur St 2083 zum Schutz der Gebäude wird
+                                errichtet.
+
+
+                                ZIELE UND MAßNAHMEN
+
+                                Ziele
+                                • Begrenzung der Lärmbelastung auf der Vorhabenfläche auf die direkte
+                                  Bauzeit
+                                • Eingrünung der Anlage zur Sicherung der momentanen Erholungswirkung
+                                • Überprüfung der Lärmbelastung durch die St 2083
+                                Maßnahmen
+                                • Festlegung einer Eingrünung der Anlage
+                                • Einbindung der Anlage durch die Integration von landschaftstypischen
+                                  Freiflächen direkt anliegend.
+                                • Errichtung eines Lärmschutzwalls im Norden zur St 2083
+
+
+
+
+                                                                                           Seite 13 von 22
+￼
+    ￼
+    UMWELTBERICHT
+    GEMEINDE ALDERSBACH
+    „SCHWAIG X“
+    Bebauungsplan m. Int. GOP
+        SCHUTZGÜTER             BESTANDSAUFNAHME MIT ZIELEN UND MAßNAHMEN
+        Kultur- und Sachgüter   BESTAND
+
+                                Baudenkmäler
+                                Keine nach Auskunft vorhanden
+                                Kulturgüter
+                                Keine nach Auskunft vorhanden
+                                Bodendenkmäler
+                                Keine nach Online Auskunft vorhanden
+
+
+                                ZIELE UND MAßNAHMEN
+
+                                Ziele
+                                • keine Ziele notwendig; es wird auf die einschlägigen Denkmalschutzgesetze
+                                  bezüglich des Auffindens von Bodendenkmäler verwiesen.
+                                Maßnahmen
+                                • ke i n e Ma ßn a h me n n o tw e n d i g ; e s w i rd a u f d i e e i n sch l ä g i g e n
+                                  Denkmalschutzgesetze bezüglich des Auffindens von Bodendenkmäler
+                                  verwiesen.
+
+
+
+
+                                                                                                          Seite 14 von 22
+￼
+    ￼
+              UMWELTBERICHT
+              GEMEINDE ALDERSBACH
+              „SCHWAIG X“
+              Bebauungsplan m. Int. GOP
+                         4.3.Bewertung des Eingriffs anhand der Schutzgüter
+
+                            Die nachfolgende Bewertung der untersuchten Schutzgüter erfolgte in 3 Stufen:
+                            Geringe, mittlere und hohe Beeinträchtigung durch die Erweiterung des Allgemeinen
+                            Wohngebietes an diesem Standort.
+                            Dabei ist die Ausgleichbarkeit ein wichtiger Indikator. Die Erheblichkeit nicht ausgleichbarer
+                            Auswirkungen wird als hoch eingestuft.
+
+
+                           SCHUTZGUT                BAUBEDINGT            ANLAGENBEDINGT              BETRIEBSBEDINGT
+
+
+                       BODEN                    - weitgehender Verlust   - Flächeninanspruchna       - Belastung nicht
+                                                  der Bodenfunktionen      hme durch WA                versiegelter /
+                                                  durch Überbauung /       Nutzung erhöht              überbauter Böden
+                                                  Voll bzw.              - Aufgabe der                 durch
+                                                  Teilversiegelung.        Bewirtschaftung des         Schadstoffeinträge
+                                                - Seltene Bodentypen       Bodens                      von Verkehrs ächen
+                                                  sind nicht betroffen                                 (v. a. Streusalz)
+
+
+                       Bewertung                          HOCH                   MITTEL                      MITTEL
+
+                       WASSER                   - Keine                  - Versiegelung /            - Verbesserung der
+                                                  Ober ächengewässer       Überbauung von              Regenrückhaltefunktio
+                                                  vorhanden                Versickerungsbereich        n durch dauerhaften
+                                                - Durch Abschieben des     e                           Bewuchs der Fläche
+                                                  Oberbodens geringer    - Erhöhung der              - Errichtung eines
+                                                  Verlust der              Filterfunktion durch        Retentionsraums
+                                                  Filterfunktion           Anlage von                - Sammelung und
+                                                                           Grünstrukturen und          Nutzung des
+                                                                           dauerhaften Bewuchs         Ober ächenwassers
+                                                                         - Eingriff im Bereich des     erlaubt - Verringerung
+                                                                           HQExtrem                    der abzuleitenden
+                                                                                                       Regenwassermengen
+                       Bewertung                          MITTEL                 MITTEL                     GERING
+
+                       LUFT / KLIMA             - Zunahme der            - verstärkte Aufheizung     - geringe Zunahme der
+                                                  Schadstoff- und          bodennaher                  Schadstof mmissione
+                                                  Feinstaubeimissionen     Luftschichten durch         n durch Hausbrand
+                                                  durch                    Bebauung und                und
+                                                  Baustellenverkehr        Versiegelung                Anlieferungsverkehr
+                                                - Staubemissionen
+                       Bewertung                          MITTEL                 MITTEL                     GERING
+
+                       ARTEN                /   - Aufwertung der         - Aufwertung der            - Aufwertung der
+                       LEBENSRÄUME                Lebensraumausstattu      Lebensraumausstattu         Lebensraumausstattu
+                                                  ng durch Anlage von      ng durch Anlage von         ng durch Anlage von
+                                                  extensiv                 extensiv                    extensiv
+                                                  bewirtschafteten         bewirtschafteten            bewirtschafteten
+                                                  Flächen, Einzelbäume     Flächen, Einzelbäume        Flächen, Einzelbäume
+                                                - Anlage von privaten    - Anlage von privaten       - Anlage von privaten
+                                                  Grün ächen               Grün ächen                  Grün ächen
+                                                - Verbotstatbestände
+                                                  nach §44 BNatSchG
+                                                  treten nicht ein.
+
+                                                                                                               Seite 15 von 22
+fl
+fl
+fl
+fl
+fl
+     ￼
+         fi
+              ￼
+                  fl
+          UMWELTBERICHT
+          GEMEINDE ALDERSBACH
+          „SCHWAIG X“
+          Bebauungsplan m. Int. GOP
+                  SCHUTZGUT               BAUBEDINGT             ANLAGENBEDINGT             BETRIEBSBEDINGT
+
+
+              Bewertung                      GERING                    GERING                     GERING
+
+              LANDSCHAFTSBILD         -Auswirkungen auf das     -Die Auswirkungen auf      - Durch den Betrieb und
+                                      Landschaftsbild sind      das Landschaftsbild        die P ege werden keine
+                                      während des Baus der      durch die Anlage werden    negativen Auswirkungen
+                                      Anlagen zu                durch die Eingrünung       erwartet
+                                      berücksichtigen hier      gemildert
+                                      kann es durch die
+                                      Errichtung von Lager-
+                                      und Betriebs ächen
+                                      vorübergehend zu
+                                      negativen Auswirkungen
+                                      kommen
+              Bewertung                       MITTEL                   GERING                     GERING
+
+              MENSCH                  - Erholungseignung        - Zusätzlicher             - Zusätzlicher
+                                        durch Baulärm             Verkehrslärm durch         Verkehrslärm durch
+                                        beeinträchtigt            Betrieb                    Betrieb
+                                      - Langjährige
+                                        Bautätigkeit auf der
+                                        Fläche beeinträchtigt
+                                        die Erholungswirkung
+                                      - Erhöhung einer
+                                        Lärmbeeinträchtigung
+                                        durch Ausweisung
+                                        eines WA
+              Bewertung                       MITTEL                   GERING                     GERING
+
+              KULTUR / SACHGÜTER - Keine Beeinträchtigung       - Keine Beeinträchtigung   - Keine Beeinträchtigung
+
+
+              Bewertung                      GERING                    GERING                     GERING
+
+
+
+
+                                                                                                     Seite 16 von 22
+fl
+     ￼
+         fl
+         ￼
+         UMWELTBERICHT
+         GEMEINDE ALDERSBACH
+         „SCHWAIG X“
+         Bebauungsplan m. Int. GOP
+
+         5. PROGNOSE ÜBER DIE ENTWICKLUNG DES UMWELTZUSTANDES BEI
+            DURCHFÜHRUNG / NICHTDURCHFÜHRUNG DER PLANUNG
+
+              5.1. Prognose bei Nichtdurchführung des Vorhabens
+
+                             Bei Nichtdurchführung der Planung bleibt die Fläche weiterhin intensiv landwirtschaftlich
+                             genutzt.
+
+              5.2. Prognose bei Durchführung des Vorhabens
+
+                             Bei Durchführung der Maßnahme geht landwirtschaftlich genutzter Grund verloren.
+                             Demgegenüber werden angelagert an die Baukörper Wiesen, Gehölzbestände und
+                             Einzelbäume gep anzt, die die Lebensraumausstattung auf der Vorhaben äche erhöhen.
+
+         6.    MAßNAHMEN ZUR VERMEIDUNG, VERRINGERUNG UND AUSGLEICH
+
+              6.1.Maßnahmen zur Vermeidung, Verringerung
+
+                             Die Maßnahmen zur Vermeidung der Beeinträchtigung der Schutzgüter Boden, Wasser, Luft
+                             und Landschaftsbild kann durch die Eingrünung, der Minimierung der Bewirtschaftung, der
+                             Schaffung von dauerhaftem Grünland, minimiert werden.
+
+                             Die neu geschaffenen Grün ächen und Ausgleichs ächen intern berücksichtigen eine
+                             Verbesserung des Lebensraumes für die vorkommende Fauna und Flora und sorgen für
+                             zusätzliche Anp anzungen, welche die Auswirkungen auf Mensch und Landschaftsbild
+                             ebenfalls minimieren.
+
+                             Maßnahmen z. den Schutzgütern:
+
+                             Landschaftsbild:
+                             • Eingrünung der Wohngebiets ächen mit Wiesen, Einzelbäume und Strauchgrupen.
+
+                             Tier- und P anzenwelt:
+                             • Einsaat artenreicher Gras- und Kräutermischungen bei Beschädigung der
+                               Vegetationsschicht,
+                             • Ansaat der (ehemaligen) Acker ächen durch standortgerechtes Saatgut gebietseigener
+                               Herkunft
+                             • Extensive P ege des Grünlandes durch Mahd oder Beweidung.
+                             • Minderung der Barrierewirkung für Klein- und Mittelsäuger durch Festsetzung einer
+                               durchlässigen Einfriedung.
+
+
+
+
+                                                                                                        Seite 17 von 22
+￼
+    fl
+         ￼
+              fl
+                   fl
+                        fl
+                                     fl
+                                          fl
+                                               fl
+                                                               fl
+                                                                               fl
+                        UMWELTBERICHT
+                        GEMEINDE ALDERSBACH
+                        „SCHWAIG X“
+                        Bebauungsplan m. Int. GOP
+
+
+
+                                      Boden und Wasser:
+                                      • Örtliche, breit ächige Versickerung des Ober ächenwassers wo möglich.
+                                      • Minimierung der Bodenverdichtung in Wiesen- und Gehölzbereiche
+
+                                 6.2. Naturschutzrechtliche Eingriffsregelung
+
+                                      Nach §1a BauGB und §15 BNatSchG ist für Eingriffe in den Naturhaushalt der Nachweis
+                                      geeigneter ökologischer Ausgleichsmaßnahmen zu erbringen.
+
+                                      Die Eingriffsermittlung wird entsprechend der Bayerischen Kompensationsverordnung (vgl.
+                                      BayKompV 2014) in Verbindung mit der Biotopwertliste zur Anwendung der BayKompV (vgl.
+                                      BayLfU (2014) (b)) durchgef hrt. Sie ist im Hinblick auf die Einstufung der Ausgangs- und
+                                      Zielbiotoptypen detaillierter als die Bewertungsmethode gem ß Leitfaden (vgl. StMLU 2003)
+                                      und wurde daher als Bilanzierungsmethode bevorzugt.
+
+                                      Daneben wurden die folgenden Unterlagen beachtet:
+                                      • Arbeitshilfe zur Biotopwertliste (vgl. BayLfU (2014) (a)).
+                                      • Vollzugshinweise f r den staatlichen Straßenbau (vgl. StMI, Oberste Baubeh rde 2014)
+
+                                      6.2.1.Bestandsermittlung
+
+                                      Der Kompensationsbedarf wird mit Hilfe des Biotopwertverfahrens nach der dem neuen
+                                      Leitfaden der Eingriffsregelung in der Bauleitplanung rechnerisch ermittelt. Die Auswirkungen
+                                      auf das Schutzgut Arten und Lebensr ume werden              chenbezogen gem. Anlage 3.1
+                                      BayKompV ermittelt. Nach § 7 (2) BayKompV sind damit in der Regel auch die Auswirkungen
+                                      auf die Schutzg ter Boden, Wasser und Klima/Luft mit ber cksichtigt. Ausgangszustand der
+                                      Fl chen f r die geplante Entwicklung sind intensiv genutzte Acker chen, die dem
+                                      Biotopnutzungstyp (BNT) A11 (vgl. BayLFU (2014) (a)) zugeordnet werden k nnen. Dieser
+                                      weist laut BayLfU 2014 (a) 2 Wertpunkte (WP) pro Quadratmeter auf.
+
+                                      6.2.2.Ermittlung des Kompensationsbedarfs anhand Anlagengröße
+
+                                      Als Beeintr chtigungsfaktor wurde für die Wohngebiets ächen entsprechend der Faktor 0,4
+                                      (gleich der GRZ) angesetzt. Zur Bilanzierung wurden lediglich die Flächen herangezogen
+                                      (Baufenster äche+Wege) deren Zustand sich verschlechtern. Alle anderen Flächen werden
+                                      durch Ansaaten und Anp anzungen aufgewertet.
+
+
+
+
+                                                                                                                       Seite 18 von 22
+ä
+     ￼
+         ü
+              ä
+                   fl
+                        ￼
+                            fl
+                                 ü
+                                      ü
+                                           fl
+                                                ü
+                                                            ä
+                                                                 fl
+                                                                          fl
+                                                                               fl
+                                                                                    ä
+                                                                                         ü
+                                                                                              ä
+                                                                                                   fl
+                                                                                                        ä
+                                                                                                             ö
+                                                                                                                  ö
+         UMWELTBERICHT
+         GEMEINDE ALDERSBACH
+         „SCHWAIG X“
+         Bebauungsplan m. Int. GOP
+
+
+
+                  Biotop- und WP Art der Beeinträchtigung       B.Faktor     Fläche in qm    Kompensations
+                  Nutzungstyp                                                                bedarf (WP)
+
+                  A11            2 Wohngebiets ächen +                0,4        30.506,96 24.405 WP
+                                   Erschließung                                            (30.506*2*0,4)
+
+                  Gesamt                                                                     24.405 WP
+
+
+
+
+                  Es ergibt sich ein Kompensationsbedarf von 24.405 Wertpunkten
+
+                  6.2.3.Darstellung des Kompensationsumfangs
+
+                  Der Kompensationsumfang ergibt sich aus der Ausgleichs äche mit einer Aufwertung von
+                  Ackerland zum LRT 6510 Artenreiche Flachlandmähwiese.
+                  (s. Grünordnungsplanung Bebauungsplan mit Festsetzung der Maßnahmen auf der
+                  Vorhaben äche) - Die P anzung am Rande der Anlage wird mit dem Zielzustand
+                  Obststreuwiese berücksichtigt.
+
+
+
+                  Ausgangsz W Geplanter Biotop- und       WP         Saldo       Fläche in     Kompensation
+                  ustand (A) P   Nutzungstyp (Z)          (Z)                    qm            sumfang (WP)
+                             (A)
+
+                  A11          2 G212                            8           6         1.952         11.712
+
+                  A11          2 B112                           10           8         1.552         12416
+
+                  Gesamt                                                                             24128
+
+
+
+
+                  6.2.4.Berechnung der Wertpunkte
+
+                  Aus dem Kompensationsbedarf (vgl. 6.2.2) und dem Kompensationsumfang (vgl. 6.2.3) kann
+                  eine Berechnung der Wertpunkte erfolgen. Wie die Tabelle zeigt, ergibt sich aus der
+                  Berechnung eine Überdeckung von 277 WP.
+
+
+
+
+                                                                                                    Seite 19 von 22
+￼
+    fl
+         ￼
+             fl
+                         fl
+                                                         fl
+    UMWELTBERICHT
+    GEMEINDE ALDERSBACH
+    „SCHWAIG X“
+    Bebauungsplan m. Int. GOP
+
+
+
+    7. B E G R Ü N D U N G S P F L I C H T F Ü R N E U E B A U F L Ä C H E N U N D
+       AUSGLEICHSMAßNAHMEN IM AUSSENBEREICH - VERLUST AN
+       LANDWIRTSCHAFTLICHER NUTZFLÄCHE
+
+           Nach §1a (2) S. 3 BauGB ist die Notwendigkeit der Umwandlung landwirtschaftlicher oder als
+           Wald genutzter Flächen umfassender als bisher zu begründen. Um dieser P icht
+           nachzukommen wird nachfolgend kurz die Absicht des Bauleitplanes nochmals dargelegt.
+
+           Die Erweiterung der Wohn äche führt dauerhaft zum Verlust an landwirtschaftlich genutzter
+           Fläche. Im Sinne einer nachhaltigen Siedlungsentwicklung an der Peripherie des Ortes
+           Aldersbach wird der Verlust, zu Gunsten klein ächiger neuer Entwicklungen an den Rändern
+           als verträglich angesehen.
+
+           Es wurde bei der Planung berücksichtigt, dass die Eingrünungs- und Ausgleichs ächen an
+           bestehende Strukturen anschließen können und somit dauerhaft zwar die Nutz äche
+           verringern aber zu keinen negativen Auswirkungen auf die nachfolgende Nutzung führen.
+
+
+
+    8. PLANUNGSALTERNATIVEN, ABWÄGUNG - MONITORING
+
+        8.1. Standortwahl (FNP-Ebene)
+
+           Die Gemeinde Aldersbach erachtet den Standort als den für die Umwelt verträglichsten
+           Standort (ungeachtet der sonstigen technischen Anforderungen).
+
+           Für die Wahl eines Standortes spielen aber auch noch andere Kriterien eine Rolle:
+
+           • Vorhandene Erschließung durch Verkehrsanlagen und Versorgungsanlagen
+           • Verfügbarkeit der Fläche durch den Grundstückseigentümer -
+           • Technische Eignung auf Grund der Lage und Anbindung
+
+           Alle diese Kriterien erfüllt der Standort in Aldersbach.
+
+        8.2. Berücksichtigung der Umweltbelange in der Abwägung
+
+           Durch die Prüfung oben genannter Kriterien wurden sensible Bereiche (ungeeignete Flächen)
+           als Standort von vorne herein ausgeschlossen. Die Fortschreibung des Umweltberichtes
+           erfolgt im Rahmen des weiteren Verfahrens.
+
+
+
+
+                                                                                          Seite 20 von 22
+￼
+    ￼
+                   fl
+                                       fl
+                                                                          fl
+                                                                               fl
+                                                                                    fl
+               UMWELTBERICHT
+               GEMEINDE ALDERSBACH
+               „SCHWAIG X“
+               Bebauungsplan m. Int. GOP
+
+
+
+                    8.3.Maßnahmen zur Überwachung - Monitoring
+
+                       Die zu erwartenden erheblichen Auswirkungen und die Maßnahmen zu deren Vermeidung und
+                       Ausgleich werden durch die zuständigen Fachbehörden sowie der Gemeinde
+                       Aldersbach überwacht. Zu beachten sind hier in diesem Zusammenhang insbesondere
+
+                       • die Sicherung der Durchführung (Meldung zum Öko ächenkataster des Bayerischen
+                         Landesamtes für Umweltschutz)
+                       • die P ege der Ausgleichsmaßnahmen sowie
+                       • Sowie die dauerhafte P ege der angelagerten Grün ächen.
+
+
+
+               9.   ZUSAMMENFASSUNG UND METHODIK
+
+                    9.1. Beschreibung der Methodik und Hinweise auf Schwierigkeiten und Kenntnislücken
+
+                       Der unmittelbare Untersuchungsbereich ist für die Wirkfaktoren Boden, Wasser, Luft, Tier- und
+                       P anzenwelt und Landschaftsbild auf den Geltungsbereich des kommenden
+                       Bebauungsplanes sowie das unmittelbar angrenzende Umfeld beschränkt. Die Beschreibung
+                       und Bewertung erfolgt verbal-argumentativ.
+
+
+                    9.2. Allgemein verständliche Zusammenfassung
+
+                       Das Planungsgebiet ist bisher überwiegend landwirtschaftlich intensiv genutzt sind. Mit der
+                       Planung soll die Entwicklung von Wohnbauland innerhalb des Geltungsbereiches erwirkt
+                       werden.
+
+                       Mit den Festsetzungen der Grünordnungsplanung werden Eingriffe auf den Naturhaushalt und
+                       das Landschaftsbild vermieden und gemindert. Hinzu kommen insbesondere Maßnahmen zur
+                       Einbindung. Durch Ausgleichsmaßnahmen können nicht vermeidbare Eingriffe und
+                       Auswirkungen funktionell im Plangebiet ausgeglichen werden.
+
+                       Artenschutzrechtliche Verbotstatbestände gemäß §44 BNatSchG treten unter Beachtung
+                       Kon ikt vermeidender Maßnahmen für nach Art. 1 der Vogelschutz-Richtlinie und Anhang IV
+                       der FFH-Richtlinie geschützte Arten nicht ein.
+
+                       Mit dem Vorhaben sind keine nachhaltigen und erheblichen Umweltauswirkungen zur
+                       erwarten.
+
+
+
+
+                                                                                                     Seite 21 von 22
+fl
+     fl
+          fl
+          ￼
+               ￼
+                          fl
+                                                      fl
+                                                            fl
+    UMWELTBERICHT
+    GEMEINDE ALDERSBACH
+    „SCHWAIG X“
+    Bebauungsplan m. Int. GOP
+
+    Die aufgeführten Planungsgrundlagen und Bestände wurden durch eine eigene Bestandsaufnahme
+    ergänzt. Soweit keine weiteren Grundlagen vorlagen, wurden gutachterliche Abschätzungen
+    durchgeführt
+
+
+
+    Erstellt:
+    Eichendorf, 25.09.2024
+
+
+
+
+    Achim Ruhland
+    Landschaftsarchitekt, Stadtplaner
+    Joseph-von-Eichendorff Str. 37
+    94428 Eichendorf
+    Tel.: 0151 / 124 087 13
+    e-mail: info@ar-land.de
+
+
+
+
+                                                                                 Seite 22 von 22
+￼
+    ￼
+

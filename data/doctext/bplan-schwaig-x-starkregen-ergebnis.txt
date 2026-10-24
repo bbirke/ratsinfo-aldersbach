@@ -1,0 +1,276 @@
+                       Bebauungsplan Schwaig X
+
+            Gemeinde Aldersbach, Landkreis Passau
+
+
+
+
+            Ergebnisse der Starkregenanalyse
+
+
+
+
+Vorhabensträger:      Gemeinde Aldersbach
+                      Klosterplatz 1
+                      94501 Aldersbach
+
+
+Entwurfsverfasser:    Arc Architekten
+                      Alfons-Hundsrucker-Str. 11
+                      84364 Bad Birnbach
+
+
+Hydrologisch-hydraulische Untersuchungen:
+                      Wagmann Ingenieure GmbH
+                      Ing.-Büro für Tiefbau & Wasserwirtschaft
+                      Passauer Straße 2, 94081 Fürstenzell
+                      Untere Inntalstr. 44-46,94072 Bad Füssing
+
+
+
+
+Fürstenzell, den 31. Oktober 2024
+                          Wagmann Ingenieure GmbH – Ingenieurbüro für Tiefbau & Wasserwirtschaft
+                        Passauer Str. 2, 94081 Fürstenzell – Untere Inntalstr. 44-46,94072 Bad Füssing
+
+                                  Bebauungsplan Schwaig X, Gemeinde Aldersbach, Landkreis Passau
+                                 Starkregensimulation: Ergebnis der Hydrotechnischen Untersuchungen
+                                                                                           Seite 2 / 9
+                                                                                    31. Oktober 2024
+
+
+
+
+1. Anlass, Aufgabenstellung
+
+Im Zuge der Bauleitplanung wurde vom Wasserwirtschaftsamt Deggendorf im Bereich des
+geplanten Baugebietes eine Starkregenanalyse angeregt. Basis für die Untersuchungen ist
+der Bebauungsplan mit Stand 14.09.2024.
+
+Nach Vorabstimmungen mit dem Vorhabensträger wurde eine Starkregenanalyse für wild
+abfließendes Hangwasser aus dem Bereich Schwaig, Schwarzhofstraße angeboten. Der
+Einfluss des Aldersbaches wird nachfolgend nicht genauer untersucht, aber kommentiert.
+
+Hinweis: Die Starkregenanalyse erfüllt nicht die formalen Anforderungen des Sturzflutenprogramms des
+Freistaates Bayern gem. Infoblatt „Integrale Konzepte zum kommunalen Sturzfluten-Risikomanagement“ zum
+Sonderprogramm nach Nr. 2.4 RZWas 2018.
+
+
+
+
+2. Hydrologisch-hydraulische Untersuchungen
+
+Nach Vorleistungen wie Ortseinsicht, Abschätzung des Einstaupotentials der beplanten
+Fläche und terrestrischen Vermessungsleistungen mit besonderem Schwerpunkt auf die
+Bestandsdurchlässe wurde ein Niederschlags-Abflussmodell mit Hydro_As-2d, dem
+Standardprogramm der Bayerischen Wasserwirtschaftsverwaltung, aufgebaut. Der Ist-
+Zustand wurde für ein 100-jährliches Niederschlagsereignis N100 mit der Niederschlagsdauer
+D = 60 Minuten berechnet.
+
+
+Zunächst wurde nach Ersteinschätzung eine Bestandsaufnahme im Bereich der Abt-Zanker-
+Straße vorgenommen, die eine Trennfunktion zum Aldersbach und dessen
+Überschwemmungsgebiet hat. Hier wurden im Straßendamm der Straße 3 zum
+Baugebietsbereich führenden Entwässerungsleitungen aufgefunden:
+    ▪   2 Leitungen DN150, die als Straßenablaufleitungen identifiziert wurden, und
+    ▪   1 Leitung DN300, die vermutlich zum Aldersbach führt, und damit auch Hochwasser
+        entgegen der Gefällerichtung ins Baugebiet drücken kann. Vermutlich entspricht
+        diese Leitung der Gemeindekataster-Leitung „Einl100“ (Lage passt nicht mit
+        Vermessung Wagmann Ingenieure zusammen)
+
+
+Für die Starkregensimulation Schwaig/Schwaighofstraße sind diese Entwässerungsleitungen
+nicht relevant. Die sollten aber bei den weiteren Erschließungsplanungen Berücksichtigung
+finden. Extreme Hochwasser des Aldersbaches können hier zu Überschwemmungen führen.
+Siehe Abbildung 1. Die Einstauhöhe bei einem HQextrem des Aldersbaches wird anhand der
+                         Wagmann Ingenieure GmbH – Ingenieurbüro für Tiefbau & Wasserwirtschaft
+                       Passauer Str. 2, 94081 Fürstenzell – Untere Inntalstr. 44-46,94072 Bad Füssing
+
+                                 Bebauungsplan Schwaig X, Gemeinde Aldersbach, Landkreis Passau
+                                Starkregensimulation: Ergebnis der Hydrotechnischen Untersuchungen
+                                                                                          Seite 3 / 9
+                                                                                   31. Oktober 2024
+
+
+vorliegenden Datenbasis auf 326.00 mNHN abgeschätzt. Eine Dammwirkung der
+Staatsstraße St2083 ist gut ersichtlich.
+
+
+
+
+Abb. 1 Überschwemmungsgebiet des Aldersbaches bei HQextrem (Quelle: www.bayernatlas.de )
+
+
+
+Der Staueffekt der Staatsstraße St2083 ist zu berücksichtigen, weshalb hier neben den zu
+untersuchenden Gefahren aus wild abfließenden Hangwasser darauf eingegangen wird.
+Ausgehend vom Fahrbahnniveau der Staatsstraße bildet sich bei solchen Szenarien ein
+Einstaubereich im Baugebiet, dessen Geländeniveau bezogen auf die relativ hoch gelegene
+Fahrbahn teilweise tiefer liegt. Wären die Durchlässe der Staatsstraße nicht abflusswirksam
+(zum Beispiel bei vollständiger Verklausung), würde sich bei langen Regenereignissen in
+diesem dann abflusslosem Bereich ein Einstau gem. Abbildung 2 ergeben. Das Areal
+zwischen Staatsstraße St2083 und Abt-Zanker-Straße würde bis auf eine Höhe von
+mindestens ca. 305,70 mNHN anstauen (minimale Höhe Fahrbahn Abt-Zanker-Straße). Die
+tieferliegenden Bereiche des Urgeländes im Baugebiet liegen bei ca. 325,20 mNHN, wären
+also in diesem Fall mind. 0,50 m eingestaut. Hierfür bräuchte es aber gem. Abbildung 2 ca.
+26.350 m³ Wassermenge (dies entspricht ohne Abfluss- und Versickerungsleistung aus dem
+Senkenbereich theorethisch einem ca. 24-stündigem 100-jährlichen Regenereignis
+V = hN x AE x Ψ = 0,123 m x 450.000 m² x 0,5 = 27.700 m³ > 26.350 m³).
+                         Wagmann Ingenieure GmbH – Ingenieurbüro für Tiefbau & Wasserwirtschaft
+                       Passauer Str. 2, 94081 Fürstenzell – Untere Inntalstr. 44-46,94072 Bad Füssing
+
+                                 Bebauungsplan Schwaig X, Gemeinde Aldersbach, Landkreis Passau
+                                Starkregensimulation: Ergebnis der Hydrotechnischen Untersuchungen
+                                                                                          Seite 4 / 9
+                                                                                   31. Oktober 2024
+
+
+
+             DN600
+
+
+
+
+Abb. 2 Theoretischer Einstaubereich Baugebiet bis OK Fahrbahn Abt-Zanker-Straße (östlich, min. 325.70 mNHN)
+bei Stauwirkung Staatsstraße St2083 (nördlich, ca. 326.30 mNHN), links oben Bestandsverrohrung St2083
+DN600
+
+
+Zwischen Schwaig und Aldersbach wurden ebenfalls die Durchlässe eruiert und
+eingemessen. Es wurden 2 die Staatsstraße querende Verrohrungen festgestellt: eine
+Verrohrung DN300 (RS Einlauf 325,12 mNHN, Gefälle 18,1 °/oo, Leistungsfähigkeit für
+kb = 1,5 mm bei Vollfüllung 132 l/s) weiter westlich und eine Verrohrung DN600 wie in Abb. 2
+dargestellt (siehe Bestandspläne Pl. Nr. 988-10 & 988-11). Diese Entwässerungsleitung
+DN600 (RS Einlauf 323,92 mNHN, Gefälle 21,0 °/oo, Leistungsfähigkeit für k b = 1,5 mm bei
+Vollfüllung 890 l/s) nimmt eine wichtige Funktion zur Gewährleistung des
+Oberflächenwasserabflusses Richtung Rindellohbach / Vils und zur Vermeidung von Einstau
+ein. Bei Sturzflutenereignissen und Hochwasserereignissen des Aldersbaches sollte diese
+Leitung verstärkt kontrolliert und schon vor Eintritt eines Überstaus freigehalten werden, ggf.
+wäre in Abstimmung mit dem Staatlichen Bauamt die Errichtung eines ausreichend großen
+räumlichen Grobrechens denkbar, um die Verklausungsgefahr zu minimieren.
+
+Der Kanalbestand der Gemeinde Aldersbach wurde analysiert. Nach Abstimmung mit dem
+Vorhabensträger werden bei der Modellbildung zur Sturzflutenanalyse keine Kanalleitungen
+in den bestehenden Baugebieten modelliert, der Abfluss erfolgt vollständig oberflächlich über
+die Erschließungsstraßen und Hangflächen. Einzig die Verrohrung DN600 wird modelliert,
+d. h. als „nicht verklaust“ angesetzt.
+                        Wagmann Ingenieure GmbH – Ingenieurbüro für Tiefbau & Wasserwirtschaft
+                      Passauer Str. 2, 94081 Fürstenzell – Untere Inntalstr. 44-46,94072 Bad Füssing
+
+                                Bebauungsplan Schwaig X, Gemeinde Aldersbach, Landkreis Passau
+                               Starkregensimulation: Ergebnis der Hydrotechnischen Untersuchungen
+                                                                                         Seite 5 / 9
+                                                                                  31. Oktober 2024
+
+
+Die maßgebliche Niederschlagsdauer, die sowohl die Sturzfluten vom Hang wie auch den
+Einstaueffekt durch den Staatsstraßendamm gut wiedergibt, wurde mit D = 60 min gewählt.
+
+
+
+
+Abb. 3 Niederschlagshöhen (mm) nach KOSTRA-DWD 2020, Rasterfeld Sp. 189, Z. 192
+
+
+
+
+Abb. 4 Niederschlagsspende (l/sha) nach KOSTRA-DWD 2020, Rasterfeld Sp. 189, Z. 192
+                       Wagmann Ingenieure GmbH – Ingenieurbüro für Tiefbau & Wasserwirtschaft
+                     Passauer Str. 2, 94081 Fürstenzell – Untere Inntalstr. 44-46,94072 Bad Füssing
+
+                              Bebauungsplan Schwaig X, Gemeinde Aldersbach, Landkreis Passau
+                             Starkregensimulation: Ergebnis der Hydrotechnischen Untersuchungen
+                                                                                       Seite 6 / 9
+                                                                                31. Oktober 2024
+
+
+
+
+Abb. 5 Modellregen nach KOSTRA-DWD-2020, S189-Z192, D60, N100
+
+
+Für das ca. 45 ha große Einzugsgebiet wurde die Geländetopographie mit Belegung der
+Bodenklassifizierung und der tatsächlichen Nutzung modelliert. Nach mehreren
+Testrechenläufen wurde die Sturzflutenberechnung für das geplante Baugebiet Schwaig X
+mit einem Modellregen gem. Abbildung 5 ausgeführt. Die Ergebnisse wurden auf Plausibilität
+geprüft und nachfolgend in den Abb. 6 bis Abb. 9 dargestellt. Bei kurzen Starkregen fließt
+wie dargestellt viel Oberflächenwasser über die Erschließungsstraßen, vor allem die
+Schwaighofstraße herunter und strömt bei entsprechenden Extremereignissen über Sepp-
+Kiermaier-Straße und Peter-Almer-Straße in den Bereich des geplanten Baugebietes. Der
+beplante Bereich selbst ist relativ flach. Hier entstehen keine Sturzfluten, aber hier strömen
+Sturzfluten ein. Eine abführende Funktion des weiter westlich zufließenden Hangwassers
+nimmt eine kleine muldenartige Eintiefung zwischen den Ackerflächen am westlichen Rand
+des Baugebietes ein.
+
+Der nördliche tiefliegende Bereich ist als Regenrückhaltebereich vorgesehen und bleibt als
+öffentliche Grünfläche sinnvoller Weise frei von Bebauung. Der östlich an der Abt-Zanker-
+Straße angrenzende Tiefbereich bedarf besonderer Aufmerksamkeit bei den weiteren
+Planungen. Sturzfluten könnten zwar ggf. über eine dann möglichst tief zu planende östliche
+Erschließungsstraße mit Wendehammer in den nördlichen Tiefbereich abgeführt werden. Ein
+Einstau des Bereichs entlang der Abt-Zanker-Straße im Bereich der geplanten Parkplätze
+wird sich abhängig von deren Höhenlage nicht vermeiden lassen. Hier sind bei den weiteren
+Planungen entsprechende Risikobetrachtungen vorzunehmen.
+                             Wagmann Ingenieure GmbH – Ingenieurbüro für Tiefbau & Wasserwirtschaft
+                           Passauer Str. 2, 94081 Fürstenzell – Untere Inntalstr. 44-46,94072 Bad Füssing
+
+                                      Bebauungsplan Schwaig X, Gemeinde Aldersbach, Landkreis Passau
+                                     Starkregensimulation: Ergebnis der Hydrotechnischen Untersuchungen
+                                                                                               Seite 7 / 9
+                                                                                        31. Oktober 2024
+
+
+
+
+Abb. 6 Maximale Fließtiefen für D60, N100, Überblick Einzugsgebiet
+
+
+
+
+Abb. 7 Maximale Fließtiefen für D60, N100, Ausschnitt Bereich geplantes Vorhaben         Auszug Legende
+                            Wagmann Ingenieure GmbH – Ingenieurbüro für Tiefbau & Wasserwirtschaft
+                          Passauer Str. 2, 94081 Fürstenzell – Untere Inntalstr. 44-46,94072 Bad Füssing
+
+                                      Bebauungsplan Schwaig X, Gemeinde Aldersbach, Landkreis Passau
+                                     Starkregensimulation: Ergebnis der Hydrotechnischen Untersuchungen
+                                                                                               Seite 8 / 9
+                                                                                        31. Oktober 2024
+
+
+
+
+Abb. 8 Maximale Fließgeschwindigkeiten für D60, N100, Überblick Einzugsgebiet
+
+
+
+
+Abb. 9 Maximale Fließgeschwindigkeiten für D60, N100, Ausschnitt Bereich geplantes Vorhaben   Auszug Legende
+                     Wagmann Ingenieure GmbH – Ingenieurbüro für Tiefbau & Wasserwirtschaft
+                   Passauer Str. 2, 94081 Fürstenzell – Untere Inntalstr. 44-46,94072 Bad Füssing
+
+                            Bebauungsplan Schwaig X, Gemeinde Aldersbach, Landkreis Passau
+                           Starkregensimulation: Ergebnis der Hydrotechnischen Untersuchungen
+                                                                                     Seite 9 / 9
+                                                                              31. Oktober 2024
+
+
+3. Empfehlungen für die weiteren Planungen
+
+Bei der öffentlichen Erschließungsplanung und bei den Gebäudeplanungen sollten die
+beschriebenen Gefährdungen aus den folgenden 3 Hochwasserszenarien Beachtung finden:
+
+   ▪   Hochwasser des Aldersbaches (Einstau über bestehende Rohrverbindung DN300
+       Aldersbach – Bereich westlich der Abt-Zanker-Straße; unabhängig davon sind
+       Überschwemmungen bei Hochwasser des Aldersbaches seltener HQ100 möglich)
+   ▪   Einstau bei Starkregenereignissen aufgrund der Dammwirkung St2083 & Abt-Zanker-
+       Straße
+   ▪   Wild abfließendes Hangwasser bei Sturzflutereignissen
+
+Die Fußbodenhöhen und die Kellerlichtschächte der Wohngebäude sollten ohnehin
+ausreichend hoch über den Erschließungsstraßen liegen. Die Bauwerber sind zudem
+verpflichtet, sich gegen Rückstau aus dem Entwässerungssystem zu sichern.
+
+Die hier vorliegende Risikoanalyse hilft, die weiteren Planungen zu optimieren. Unter
+Beachtung der dargestellten Empfehlungen erscheint eine Bebauung trotz der Gefährdungen
+sinnvoll und technisch machbar. Rechtliche Aspekte sind vom Vorhabensträger und den
+Planern zu prüfen.
+

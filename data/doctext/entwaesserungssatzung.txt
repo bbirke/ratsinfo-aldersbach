@@ -1,0 +1,938 @@
+             Satzung für die öffentliche Entwässerungseinrichtung
+                              der Gemeinde Aldersbach
+                        (Entwässerungssatzung – EWS)
+
+
+                                   vom 01.02.2013
+
+
+             zuletzt geändert durch Änderungssatzung vom 01.04.2015
+
+
+
+
+Auf Grund von Art. 23 und Art. 24 Abs. 1 Nrn. 1 und 2, Abs. 2 und 3 der
+Gemeindeordnung     (GO)      sowie   Art. 34   Abs. 2   Satz 1   des   Bayerischen
+Wassergesetzes (BayWG) erlässt die Gemeinde Aldersbach folgende Satzung:
+
+
+
+
+                                         §1
+                               Öffentliche Einrichtung
+
+
+(1) Die Gemeinde betreibt eine öffentliche Einrichtung zur Abwasserbeseitigung
+(Entwässerungseinrichtung).
+
+
+(2) Art und Umfang der Entwässerungseinrichtung bestimmt die Gemeinde.
+
+(3) Zur Entwässerungseinrichtung gehören auch die im öffentlichen Straßengrund
+liegenden Teile der Grundstücksanschlüsse.
+
+
+
+
+                                         §2
+                       Grundstücksbegriff, Verpflichtete
+
+
+(1) Grundstück im Sinn dieser Satzung ist jedes räumlich zusammenhängende und
+einem gemeinsamen Zweck dienende Grundeigentum desselben Eigentümers, das
+eine selbstständige wirtschaftliche Einheit bildet, auch wenn es sich um mehrere
+Grundstücke oder Teile von Grundstücken im Sinn des Grundbuchrechts handelt.
+Soweit rechtlich verbindliche planerische Vorgaben vorhanden sind, sind sie zu
+berücksichtigen.
+(2) Die in dieser Satzung für Grundstückseigentümer erlassenen Vorschriften gelten
+auch      für     Teileigentümer,       Erbbauberechtigte,        Wohnungseigentümer,
+Wohnungserbbauberechtigte, Nießbraucher und sonstige zur Nutzung eines
+Grundstücks dinglich Berechtigte. Von mehreren dinglich Berechtigten ist jeder
+berechtigt und verpflichtet; sie haften als Gesamtschuldner.
+
+
+
+
+                                           §3
+                                Begriffsbestimmungen
+
+
+Im Sinn dieser Satzung haben die nachstehenden Begriffe folgende Bedeutung:
+
+
+1.     Abwasser
+
+       ist das durch häuslichen, gewerblichen, landwirtschaftlichen oder sonstigen
+       Gebrauch in seinen Eigenschaften veränderte Wasser und das bei
+       Trockenwetter damit zusammen abfließende Wasser (Schmutzwasser) sowie
+       das von Niederschlägen aus dem Bereich von bebauten oder befestigten
+       Flächen gesammelt abfließende Wasser (Niederschlagswasser).
+
+       Die Bestimmungen dieser Satzung gelten nicht für das in landwirtschaftlichen
+       Betrieben anfallende Abwasser (einschließlich Jauche und Gülle), das dazu
+       bestimmt ist, auf landwirtschaftlich, forstwirtschaftlich oder gärtnerisch
+       genutzte Böden aufgebracht zu werden; nicht zum Aufbringen bestimmt ist
+       insbesondere das häusliche Abwasser.
+
+
+2.     Kanäle
+
+       sind Mischwasserkanäle, Schmutzwasserkanäle oder Regenwasserkanäle
+       einschließlich der Sonderbauwerke wie z. B. Schächte, Regenbecken,
+       Pumpwerke, Regenüberläufe.
+
+
+3.     Schmutzwasserkanäle
+
+       dienen ausschließlich der Aufnahme und Ableitung von Schmutzwasser.
+4.    Mischwasserkanäle
+
+      sind zur Aufnahme und Ableitung von Niederschlags- und Schmutzwasser
+      bestimmt.
+
+
+5.    Regenwasserkanäle
+
+      dienen ausschließlich der Aufnahme und Ableitung von Niederschlagswasser.
+
+
+6.    Sammelkläranlage
+
+      ist eine Anlage zur Reinigung des in den Kanälen gesammelten Abwassers
+      einschließlich der Ableitung zum Gewässer.
+
+
+7.    Grundstücksanschlüsse
+
+      sind
+
+
+      –   bei Freispiegelkanälen:
+
+          die Leitungen vom Kanal bis zum Kontrollschacht.
+
+
+      –   bei Druckentwässerung:
+
+          die Leitungen vom Kanal bis zum Abwassersammelschacht.
+
+
+      –   bei Unterdruckentwässerung:
+
+          die Leitungen vom Kanal bis einschließlich des Hausanschlussschachts.
+
+
+8.    Grundstücksentwässerungsanlagen
+
+      sind
+
+
+      –   bei Freispiegelkanälen:
+die Einrichtungen eines Grundstücks, die der Beseitigung des Abwassers dienen, bis
+einschließlich des Kontrollschachts. Hierzu zählt auch die im Bedarfsfall erforderliche
+Hebeanlage zur ordnungsgemäßen Entwässerung eines Grundstücks (§ 9 Abs. 4).
+Ist entgegen § 9 Abs. 3 Satz 1 EWS kein Kontrollschacht vorhanden, endet die
+Grundstücksentwässerungsanlage an der Grenze privater Grundstücke zum
+öffentlichen Straßengrund.
+
+
+
+
+      –   bei Druckentwässerung:
+
+          die Einrichtungen eines Grundstücks, die der Beseitigung des Abwassers
+          dienen, bis einschließlich des Abwassersammelschachts.
+
+
+      –   bei Unterdruckentwässerung:
+
+          die Einrichtungen eines Grundstücks, die der Beseitigung des Abwassers
+          dienen, bis zum Hausanschlussschacht.
+
+
+9.    Kontrollschacht
+
+      ist ein Übergabeschacht, der zur Kontrolle und Wartung der Anlage dient.
+
+
+10.   Abwassersammelschacht (bei Druckentwässerung)
+
+      ist ein Schachtbauwerk mit Pumpen- und Steuerungsanlage.
+
+
+11.   Hausanschlussschacht (bei Unterdruckentwässerung)
+
+      ist ein Schachtbauwerk mit einem als Vorlagebehälter dienenden Stauraum
+      sowie einer Absaugventileinheit.
+
+
+12.   Messschacht
+
+      ist eine Einrichtung für die Messung des Abwasserabflusses oder die
+      Entnahme von Abwasserproben.
+
+
+13.   Abwasserbehandlungsanlage
+
+      ist eine Einrichtung, die dazu dient, die Schädlichkeit des Abwassers vor
+      Einleitung in den Kanal zu vermindern oder zu beseitigen. Hierzu zählen
+      insbesondere Kleinkläranlagen zur Reinigung häuslichen Abwassers sowie
+      Anlagen zur (Vor-)Behandlung gewerblichen oder industriellen Abwassers.
+
+
+14.   Fachlich geeigneter Unternehmer
+
+      ist      ein     Unternehmer,       der      geeignet     ist,   Arbeiten    an
+      Grundstücksentwässerungsanlagen                  fachkundig         auszuführen.
+      Voraussetzungen für die fachliche Eignung sind insbesondere
+
+      –     die ausreichende berufliche Qualifikation und Fachkunde der
+            verantwortlichen technischen Leitung,
+
+      –     die Sachkunde des eingesetzten Personals und dessen nachweisliche
+            Qualifikation für die jeweiligen Arbeiten an
+            Grundstücksentwässerungsanlagen,
+
+      –     die Verfügbarkeit der benötigten Werkzeuge, Maschinen und Geräte,
+
+      –     die Verfügbarkeit und Kenntnis der entsprechenden Normen und
+            Vorschriften,
+
+      –     eine interne Qualitätssicherung (Weiterbildung, Kontrollen und
+            Dokumentation).
+
+
+
+
+                                           §4
+                            Anschluss- und Benutzungsrecht
+
+
+(1) Jeder Grundstückseigentümer kann verlangen, dass sein Grundstück nach
+Maßgabe dieser Satzung an die Entwässerungseinrichtung angeschlossen wird. Er
+ist berechtigt, nach Maßgabe der §§ 14 bis 17 das anfallende Abwasser in die
+Entwässerungseinrichtung einzuleiten.
+
+
+(2) Das Anschluss- und Benutzungsrecht erstreckt sich nur auf solche Grundstücke,
+die durch einen Kanal erschlossen sind. Der Grundstückseigentümer kann
+unbeschadet weiter gehender bundes- und landesgesetzlicher Vorschriften nicht
+verlangen, dass neue Kanäle hergestellt oder bestehende Kanäle geändert werden.
+Welche Grundstücke durch einen Kanal erschlossen werden, bestimmt die
+Gemeinde.
+
+
+(3) Ein Anschluss- und Benutzungsrecht besteht nicht,
+
+
+1.     wenn das Abwasser wegen seiner Art oder Menge nicht ohne Weiteres von
+       der Entwässerungseinrichtung übernommen werden kann und besser von
+       demjenigen behandelt wird, bei dem es anfällt oder
+
+
+2.     solange eine Übernahme des Abwassers technisch oder wegen des
+       unverhältnismäßig hohen Aufwands nicht möglich ist.
+
+
+(4) Die Gemeinde kann den Anschluss und die Benutzung versagen, wenn die
+gesonderte Behandlung des Abwassers wegen der Siedlungsstruktur das Wohl der
+Allgemeinheit nicht beeinträchtigt.
+
+
+(5) Unbeschadet des Abs. 4 besteht ein Benutzungsrecht nicht, soweit eine
+Versickerung       oder     anderweitige    Beseitigung    von   Niederschlagswasser
+ordnungsgemäß möglich ist. Die Gemeinde kann hiervon Ausnahmen zulassen oder
+bestimmen, wenn die Einleitung von Niederschlagswasser aus betriebstechnischen
+Gründen erforderlich ist.
+
+
+
+
+                                            §5
+                          Anschluss- und Benutzungszwang
+
+
+(1) Die zum Anschluss Berechtigten (§ 4) sind verpflichtet, bebaute Grundstücke an
+die        Entwässerungseinrichtung        anzuschließen    (Anschlusszwang).    Ein
+Anschlusszwang besteht nicht, wenn der Anschluss rechtlich oder tatsächlich
+unmöglich ist.
+
+
+(2) Die zum Anschluss Berechtigten (§ 4) sind verpflichtet, auch unbebaute
+Grundstücke an die Entwässerungseinrichtung anzuschließen, wenn Abwasser
+anfällt.
+(3) Ein Grundstück gilt als bebaut, wenn auf ihm bauliche Anlagen, bei deren
+Benutzung Abwasser anfallen kann, dauernd oder vorübergehend vorhanden sind.
+
+
+(4) Bei baulichen Maßnahmen, die eine Veränderung der Abwassereinleitung nach
+Menge oder Beschaffenheit zur Folge haben, muss der Anschluss vor dem Beginn
+der Benutzung des Baus hergestellt sein. In allen anderen Fällen ist der Anschluss
+nach schriftlicher Aufforderung durch die Gemeinde innerhalb der von ihr gesetzten
+Frist herzustellen.
+
+
+(5) Auf Grundstücken, die an die Entwässerungseinrichtung angeschlossen sind, ist
+im Umfang des Benutzungsrechts alles Abwasser in die Entwässerungseinrichtung
+einzuleiten (Benutzungszwang). Verpflichtet sind der Grundstückseigentümer und
+alle Benutzer der Grundstücke. Sie haben auf Verlangen der Gemeinde die dafür
+erforderliche Überwachung zu dulden.
+
+
+
+
+                                          §6
+                Befreiung von Anschluss- oder Benutzungszwang
+
+
+(1) Von der Verpflichtung zum Anschluss oder zur Benutzung wird auf Antrag ganz
+oder zum Teil befreit, wenn der Anschluss oder die Benutzung aus besonderen
+Gründen auch unter Berücksichtigung der Erfordernisse des Gemeinwohls nicht
+zumutbar ist. Der Antrag auf Befreiung ist unter Angabe der Gründe schriftlich bei der
+Gemeinde einzureichen.
+
+
+(2)   Die   Befreiung    kann    befristet,    unter   Bedingungen,   Auflagen    und
+Widerrufsvorbehalt erteilt werden.
+                                            §7
+                                   Sondervereinbarungen
+
+
+(1) Ist der Grundstückseigentümer nicht zum Anschluss oder zur Benutzung
+berechtigt oder verpflichtet, kann die Gemeinde durch Vereinbarung ein besonderes
+Benutzungsverhältnis begründen.
+
+
+(2) Für dieses Benutzungsverhältnis gelten die Bestimmungen dieser Satzung und
+der Beitrags- und Gebührensatzung entsprechend. Ausnahmsweise kann in der
+Sondervereinbarung Abweichendes bestimmt werden, soweit dies sachgerecht ist.
+
+
+
+
+                                            §8
+                                Grundstücksanschluss
+
+(1) Der Grundstücksanschluss wird von der Gemeinde hergestellt, verbessert,
+erneuert, geändert und unterhalten sowie stillgelegt und beseitigt.
+
+
+(2)   Die   Gemeinde       bestimmt     Zahl,    Art,    Nennweite   und     Führung     der
+Grundstücksanschlüsse.       Sie    bestimmt     auch,    wo   und   an    welchen     Kanal
+anzuschließen ist. Begründete Wünsche des Grundstückseigentümers werden dabei
+nach Möglichkeit berücksichtigt.
+
+
+(3)     Jeder        Grundstückseigentümer,        dessen       Grundstück      an       die
+Entwässerungseinrichtung angeschlossen oder anzuschließen ist, muss die
+Verlegung von Grundstücksanschlüssen, den Einbau von Schächten, Schiebern,
+Messeinrichtungen und dergleichen und von Sonderbauwerken zulassen, ferner das
+Anbringen von Hinweisschildern dulden, soweit diese Maßnahmen für die
+ordnungsgemäße Beseitigung des auf seinem Grundstück anfallenden Abwassers
+erforderlich sind.
+                                            §9
+                        Grundstücksentwässerungsanlage
+
+
+(1) Jedes Grundstück, das an die Entwässerungseinrichtung angeschlossen wird, ist
+vorher vom Grundstückseigentümer mit einer Grundstücksentwässerungsanlage zu
+versehen. Wird das Schmutzwasser über die Entwässerungseinrichtung abgeleitet,
+aber keiner Sammelkläranlage zugeführt, ist die Grundstücksentwässerungsanlage
+mit einer Abwasserbehandlungsanlage auszustatten.
+
+
+(2) Die Grundstücksentwässerungsanlage und die Abwasserbehandlungsanlage im
+Sinn des Abs. 1 Satz 2 sind nach den allgemein anerkannten Regeln der Technik
+herzustellen, zu betreiben, zu verbessern, zu erneuern, zu ändern, zu unterhalten,
+stillzulegen   oder     zu    beseitigen.        Für   die   Reinigungsleistung   der
+Abwasserbehandlungsanlage im Sinn des Abs. 1 Satz 2 ist darüber hinaus der Stand
+der Technik maßgeblich.
+
+
+(3) Am Ende der Grundstücksentwässerungsanlage ist ein Kontrollschacht zu
+errichten. Die Gemeinde kann verlangen, dass anstelle oder zusätzlich zum
+Kontrollschacht ein Messschacht zu erstellen ist. Bei Druckentwässerung oder
+Unterdruckentwässerung gelten Sätze 1 und 2 nicht, wenn die Kontrolle und Wartung
+der Grundstücksentwässerungsanlage über den Abwassersammelschacht oder den
+Hausanschlussschacht durchgeführt werden kann.
+
+
+(4) Besteht zum Kanal kein ausreichendes Gefälle, kann die Gemeinde vom
+Grundstückseigentümer den Einbau und den Betrieb einer Hebeanlage zur
+Entwässerung des Grundstücks verlangen, wenn ohne diese Anlage eine
+ordnungsgemäße Beseitigung des Abwassers bei einer den allgemein anerkannten
+Regeln der Technik entsprechenden Planung und Ausführung des Kanalsystems für
+die Gemeinde nicht möglich oder nicht wirtschaftlich ist.
+
+
+(5) Gegen den Rückstau des Abwassers aus der Entwässerungseinrichtung hat sich
+jeder Anschlussnehmer selbst zu schützen.
+(6) Die Grundstücksentwässerungsanlage sowie Arbeiten daran dürfen nur durch
+fachlich geeignete Unternehmer ausgeführt werden. Die Gemeinde kann den
+Nachweis der fachlichen Eignung verlangen.
+
+
+
+
+                                          § 10
+                Zulassung der Grundstücksentwässerungsanlage
+
+
+(1) Bevor die Grundstücksentwässerungsanlage hergestellt oder geändert wird, sind
+der Gemeinde folgende Unterlagen in doppelter Fertigung einzureichen:
+
+a)    Lageplan des zu entwässernden Grundstücks im Maßstab 1:1.000,
+
+b)    Grundriss- und Flächenpläne im Maßstab 1:100, aus denen der Verlauf der
+      Leitungen und im Fall des § 9 Abs. 1 Satz 2 die Abwasserbehandlungsanlage
+      ersichtlich sind,
+
+c)    Längsschnitte aller Leitungen mit Darstellung der Entwässerungsgegenstände
+      im Maßstab 1:100, bezogen auf Normal-Null (NN), aus denen insbesondere
+      die Gelände- und Kanalsohlenhöhen, die maßgeblichen Kellersohlenhöhen,
+      Querschnitte        und   Gefälle     der   Kanäle,   Schächte,     höchste
+      Grundwasseroberfläche zu ersehen sind,
+
+d)    wenn Gewerbe- oder Industrieabwasser oder Abwasser, das in seiner
+      Beschaffenheit erheblich vom Hausabwasser abweicht, zugeführt wird, ferner
+      Angaben über
+
+      –   Zahl der Beschäftigten und der ständigen Bewohner auf dem Grundstück,
+          wenn deren Abwasser miterfasst werden soll,
+
+      –   Menge und Beschaffenheit des Verarbeitungsmaterials, der Erzeugnisse,
+
+      –   die Abwasser erzeugenden Betriebsvorgänge,
+
+      –   Höchstzufluss und Beschaffenheit des zum Einleiten bestimmten
+          Abwassers,
+        –   die Zeiten, in denen eingeleitet wird, die Vorbehandlung des Abwassers
+            (Kühlung, Reinigung, Neutralisation, Dekontaminierung) mit
+            Bemessungsnachweisen.
+
+        Soweit nötig, sind die Angaben zu ergänzen durch den wasserwirtschaftlichen
+        Betriebsplan (Zufluss, Verbrauch, Kreislauf, Abfluss) und durch Pläne der zur
+        Vorbehandlung beabsichtigten Einrichtungen.
+
+Die Pläne müssen den bei der Gemeinde aufliegenden Planmustern entsprechen.
+Alle Unterlagen sind vom Grundstückseigentümer und dem Planfertiger zu
+unterschreiben. Die Gemeinde kann erforderlichenfalls weitere Unterlagen anfordern.
+
+
+(2) Die Gemeinde prüft, ob die geplante Grundstücksentwässerungsanlage den
+Bestimmungen dieser Satzung entspricht. Ist das der Fall, erteilt die Gemeinde
+schriftlich ihre Zustimmung und gibt eine Fertigung der eingereichten Unterlagen mit
+Zustimmungsvermerk zurück; die Zustimmung kann unter Bedingungen und
+Auflagen erteilt werden. Die Zustimmung gilt als erteilt, wenn die Gemeinde nicht
+innerhalb von drei Monaten nach Zugang der vollständigen Planunterlagen ihre
+Zustimmung schriftlich verweigert. Entspricht die Grundstücksentwässerungsanlage
+nicht    den   Bestimmungen      dieser   Satzung,    setzt   die   Gemeinde    dem
+Grundstückseigentümer unter Angabe der Mängel eine angemessene Frist zur
+Berichtigung und erneuten Einreichung der geänderten Unterlagen bei der
+Gemeinde; Satz 3 gilt entsprechend.
+
+
+(3) Mit der Herstellung oder Änderung der Grundstücksentwässerungsanlage darf
+erst begonnen werden, wenn die Zustimmung nach Abs. 2 erteilt worden ist oder als
+erteilt gilt. Eine Genehmigungspflicht nach sonstigen, insbesondere nach straßen-,
+bau- und wasserrechtlichen Bestimmungen bleibt durch die Zustimmung unberührt.
+
+
+(4) Von den Bestimmungen der Abs. 1 bis 3 kann die Gemeinde Ausnahmen
+zulassen.
+                                            § 11
+        Herstellung und Prüfung der Grundstücksentwässerungsanlage
+
+
+(1) Der Grundstückseigentümer hat der Gemeinde den Beginn des Herstellens, des
+Änderns, des Ausführens größerer Unterhaltungsarbeiten oder des Beseitigens
+spätestens drei Tage vorher schriftlich anzuzeigen und gleichzeitig den Unternehmer
+zu benennen. Muss wegen Gefahr im Verzug mit den Arbeiten sofort begonnen
+werden, ist der Beginn innerhalb von 24 Stunden schriftlich anzuzeigen.
+
+
+
+
+(2)   Die    Gemeinde    ist     berechtigt,    die       Arbeiten   zu   überprüfen.    Der
+Grundstückseigentümer hat zu allen Überprüfungen Arbeitskräfte, Geräte und
+Werkstoffe bereitzustellen.
+
+
+(3) Der Grundstückseigentümer hat die Grundstücksentwässerungsanlage vor
+Verdeckung der Leitungen auf              satzungsgemäße Errichtung und vor ihrer
+Inbetriebnahme auf Mängelfreiheit durch einen fachlich geeigneten Unternehmer
+prüfen und das Ergebnis durch diesen bestätigen zu lassen. Dies gilt nicht, soweit
+die Gemeinde die Prüfungen selbst vornimmt; sie hat dies vorher anzukündigen. Abs.
+2 Satz 2 gilt entsprechend. Werden die Leitungen vor Durchführung der Prüfung auf
+satzungsgemäße Errichtung der Grundstücksentwässerungsanlage verdeckt, sind
+sie auf Anordnung der Gemeinde freizulegen.
+
+
+(4) Soweit die Gemeinde die Prüfungen nicht selbst vornimmt, hat der
+Grundstückseigentümer der Gemeinde die                Bestätigungen nach        Abs. 3   vor
+Verdeckung        der         Leitungen        und         vor       Inbetriebnahme      der
+Grundstücksentwässerungsanlage unaufgefordert vorzulegen. Die Gemeinde kann
+die    Verdeckung       der       Leitungen        oder       die     Inbetriebnahme     der
+Grundstücksentwässerungsanlage innerhalb eines Monats nach Vorlage der
+Bestätigungen oder unverzüglich nach Prüfung durch die Gemeinde schriftlich
+untersagen. In diesem Fall setzt die Gemeinde dem Grundstückseigentümer unter
+Angabe der Gründe für die Untersagung eine angemessene Nachfrist für die
+Beseitigung der Mängel; Sätze 1 und 2 sowie Abs. 3 gelten entsprechend.
+(5) Die Zustimmung nach § 10 Abs. 2, die Bestätigungen des fachlich geeigneten
+Unternehmers       oder      die   Prüfung      durch       die    Gemeinde         befreien   den
+Grundstückseigentümer, den ausführenden oder prüfenden Unternehmer sowie den
+Planfertiger nicht von der Verantwortung für die vorschriftsmäßige und fehlerfreie
+Planung und Ausführung der Anlage.
+
+
+(6) Liegt im Fall des § 9 Abs. 1 Satz 2 die Bestätigung eines privaten
+Sachverständigen der Wasserwirtschaft über die ordnungsgemäße Errichtung der
+Abwasserbehandlungsanlage          gemäß        den     Richtlinien      für   Zuwendungen     für
+Kleinkläranlagen vor, ersetzt diese in ihrem Umfange die Prüfung und Bestätigung
+nach Abs. 3 und Abs. 4.
+
+
+
+
+                                               § 12
+                                        Überwachung
+
+
+(1)   Der      Grundstückseigentümer         hat      die   von     ihm        zu   unterhaltenden
+Grundstücksanschlüsse, Messschächte und Grundstücksentwässerungsanlagen, die
+an Misch- oder Schmutzwasserkanäle angeschlossen sind, in Abständen von jeweils
+20 Jahren ab Inbetriebnahme auf eigene Kosten durch einen fachlich geeigneten
+Unternehmer auf Mängelfreiheit prüfen und das Ergebnis durch diesen bestätigen zu
+lassen; für Anlagen in Wasserschutzgebieten bleiben die Festlegungen in der
+jeweiligen Schutzgebietsverordnung unberührt.
+Festgestellte Mängel hat der Grundstückseigentümer unverzüglich beseitigen zu
+lassen. Bei erheblichen Mängeln ist innerhalb von zwei Monaten nach Ausstellung
+der Bestätigung eine Nachprüfung durchzuführen. Die Frist für die Nachprüfung kann
+auf   Antrag    verlängert    werden.    Die       Gemeinde       kann    verlangen,    dass die
+Bestätigungen über die Mängelfreiheit und über die Nachprüfung bei festgestellten
+Mängeln vorgelegt werden.
+
+
+(2) Für nach § 9 Abs. 1 Satz 2 erforderliche Abwasserbehandlungsanlagen gelten die
+einschlägigen wasserrechtlichen Bestimmungen, insbesondere Art. 60 Abs. 1 und 2
+BayWG für Kleinkläranlagen.
+(3)   Der    Grundstückseigentümer       hat       Störungen       und    Schäden      an    den
+Grundstücksanschlüssen,      Messschächten,               Grundstücksentwässerungsanlagen,
+Überwachungseinrichtungen und Abwasserbehandlungsanlagen unverzüglich der
+Gemeinde anzuzeigen.
+
+
+(4) Wird Gewerbe- oder Industrieabwasser oder Abwasser, das in seiner
+Beschaffenheit       erheblich         vom          Hausabwasser            abweicht,        der
+Entwässerungseinrichtung zugeführt, kann die Gemeinde den Einbau und den
+Betrieb von Überwachungseinrichtungen verlangen. Hierauf wird in der Regel
+verzichtet, soweit für die Einleitung eine wasserrechtliche Genehmigung der
+Kreisverwaltungsbehörde     vorliegt     und       die     Ergebnisse     der   wasserrechtlich
+vorgeschriebenen Eigen- oder Selbstüberwachung der Gemeinde vorgelegt werden.
+
+
+(5)   Unbeschadet     der    Abs. 1      bis 4       ist     die    Gemeinde       befugt,   die
+Grundstücksentwässerungsanlagen jederzeit zu überprüfen, Abwasserproben zu
+entnehmen sowie Messungen und Untersuchungen durchzuführen. Dasselbe gilt für
+die Grundstücksanschlüsse und Messschächte, wenn sie die Gemeinde nicht selbst
+unterhält.   Die    Gemeinde      kann       jederzeit       verlangen,     dass     die     vom
+Grundstückseigentümer zu unterhaltenden Anlagen in einen Zustand gebracht
+werden,      der    Störungen     anderer           Einleiter,      Beeinträchtigungen       der
+Entwässerungseinrichtung und Gewässerverunreinigungen ausschließt. Führt die
+Gemeinde       aufgrund     der    Sätze 1           oder 2        eine    Überprüfung       der
+Grundstücksentwässerungsanlagen,             der         Messschächte      oder     der      vom
+Grundstückseigentümer       zu     unterhaltenden             Grundstücksanschlüsse          auf
+Mängelfreiheit durch, beginnt die Frist nach Abs. 1 Satz 1 mit Abschluss der Prüfung
+durch die Gemeinde neu zu laufen.
+
+
+(6) Die Verpflichtungen nach den Abs. 1 bis 5 gelten auch für den Benutzer des
+Grundstücks.
+                                           § 13
+           Stilllegung von Entwässerungsanlagen auf dem Grundstück
+
+
+Sobald ein Grundstück an die Entwässerungseinrichtung angeschlossen ist, sind
+nicht      der        Ableitung      zur      Entwässerungseinrichtung      dienende
+Grundstücksentwässerungsanlagen                      sowie               dazugehörige
+Abwasserbehandlungsanlagen in dem Umfang außer Betrieb zu setzen, in dem das
+Grundstück über die Entwässerungseinrichtung entsorgt wird. § 9 Abs. 1 Satz 2
+bleibt unberührt.
+
+
+
+
+                                           § 14
+                                  Einleiten in die Kanäle
+
+
+(1) In Schmutzwasserkanäle darf nur Schmutzwasser, in Regenwasserkanäle nur
+Niederschlagswasser eingeleitet werden. In Mischwasserkanäle darf sowohl
+Schmutz- als auch Niederschlagswasser eingeleitet werden.
+
+
+(2) Den Zeitpunkt, von dem ab in die Kanäle eingeleitet werden darf, bestimmt die
+Gemeinde.
+
+
+
+
+                                           § 15
+                    Verbot des Einleitens, Einleitungsbedingungen
+
+
+(1) In die Entwässerungseinrichtung dürfen Stoffe nicht eingeleitet oder eingebracht
+werden, die
+
+–       die dort beschäftigten Personen gefährden oder deren Gesundheit
+        beeinträchtigen,
+
+–       die Entwässerungseinrichtung oder die angeschlossenen Grundstücke
+        gefährden oder beschädigen,
+
+–       den Betrieb der Entwässerungseinrichtung erschweren, behindern oder
+        beeinträchtigen,
+–     die landwirtschaftliche oder gärtnerische Verwertung des Klärschlamms
+      erschweren oder verhindern oder
+
+–     sich sonst schädlich auf die Umwelt, insbesondere die Gewässer, auswirken.
+
+
+(2) Dieses Verbot gilt insbesondere für
+
+
+1.    feuergefährliche oder zerknallfähige Stoffe wie Benzin oder Öl,
+
+
+2.    infektiöse Stoffe, Medikamente,
+
+
+3.    radioaktive Stoffe,
+
+
+4.    Farbstoffe, soweit sie zu einer deutlichen Verfärbung des Abwassers in der
+      Sammelkläranlage oder des Gewässers führen, Lösemittel,
+
+
+5.    Abwasser oder andere Stoffe, die schädliche Ausdünstungen, Gase oder
+      Dämpfe verbreiten können,
+
+
+6.    Grund- und Quellwasser,
+
+
+7.    feste Stoffe, auch in zerkleinerter Form, wie Schutt, Asche, Sand, Kies,
+      Faserstoffe, Zement, Kunstharze, Teer, Pappe, Dung, Küchenabfälle,
+      Schlachtabfälle, Treber, Hefe, flüssige Stoffe, die erhärten,
+
+
+8.    Räumgut aus Leichtstoff- und Fettabscheidern, Jauche, Gülle, Abwasser aus
+      Dunggruben und Tierhaltungen, Silagegärsaft, Blut aus Schlächtereien, Molke,
+
+
+9.    Absetzgut,       Räumgut,      Schlämme         oder       Suspensionen      aus
+      Abwasserbehandlungsanlagen und Abortgruben unbeschadet gemeindlicher
+      Regelungen zur Beseitigung der Fäkalschlämme,
+
+
+10.   Stoffe oder Stoffgruppen, die wegen der Besorgnis einer Giftigkeit,
+      Langlebigkeit,    Anreicherungsfähigkeit     oder      einer    krebserzeugenden,
+      fruchtschädigenden oder erbgutverändernden Wirkung als gefährlich zu
+      bewerten sind wie Schwermetalle, Cyanide, halogenierte Kohlenwasserstoffe,
+      Polycyclische Aromaten, Phenole.
+
+      Ausgenommen sind
+
+      –   unvermeidbare Spuren solcher Stoffe im Abwasser in der Art und in der
+          Menge, wie sie auch im Abwasser aus Haushaltungen üblicherweise
+          anzutreffen sind;
+
+      –   Stoffe, die nicht vermieden oder in einer Vorbehandlungsanlage
+          zurückgehalten werden können und deren Einleitung die Gemeinde in den
+          Einleitungsbedingungen nach Abs. 3 oder 4 zugelassen hat;
+
+      –   Stoffe,    die   aufgrund    einer   Genehmigung      nach   § 58   des
+          Wasserhaushaltsgesetzes eingeleitet werden dürfen.
+
+
+11.   Abwasser aus Industrie- und Gewerbebetrieben,
+
+      –   von dem zu erwarten ist, dass es auch nach der Behandlung in der
+          Sammelkläranlage nicht den Mindestanforderungen nach § 57 des
+          Wasserhaushaltsgesetzes entsprechen wird,
+
+      –   das wärmer als +35 °C ist,
+
+      –   das einen pH-Wert von unter 6,5 oder über 9,5 aufweist,
+
+      –   das aufschwimmende Öle und Fette enthält,
+
+      –   das als Kühlwasser benutzt worden ist,
+
+      –   das für nachfolgende Stoffe die Grenzwerte überschreitet:
+
+          o Aluminium                  max. 3 mg/l
+
+          o Nitrit-Stickstoff          max. 10 mg/l
+
+          o Kohlenwasserstoffe         max. 10 mg/l.
+       Dabei gilt ein festgesetzter Wert auch als eingehalten, wenn die Ergebnisse
+       der letzten fünf durchgeführten Überprüfungen in vier Fällen diesen Wert nicht
+       überschreiten und kein Ergebnis den Wert um mehr als 100 v. H. übersteigt.
+
+       Überprüfungen die länger als drei Jahre zurückliegen bleiben unberücksichtigt.
+
+
+12.    nicht neutralisiertes Kondensat aus ölbefeuerten Brennwert-Heizkesseln,
+
+
+13.    nicht neutralisiertes Kondensat aus gasbefeuerten Brennwert-Heizkesseln mit
+       einer Nennwertleistung über 200 kW.
+
+
+(3) Die Einleitungsbedingungen nach Abs. 2 Nr. 10 Satz 2 zweiter Spiegelstrich
+werden gegenüber den einzelnen Anschlusspflichtigen oder im Rahmen einer
+Sondervereinbarung festgelegt.
+
+
+(4) Über Abs. 3 hinaus kann die Gemeinde in Einleitungsbedingungen auch die
+Einleitung von Abwasser besonderer Art und Menge ausschließen oder von
+besonderen Voraussetzungen abhängig machen, soweit dies zum Schutz des
+Betriebspersonals, der Entwässerungseinrichtung oder zur Erfüllung der für den
+Betrieb der Entwässerungseinrichtung geltenden Vorschriften, insbesondere der
+Bedingungen     und   Auflagen   des der Gemeinde        erteilten   wasserrechtlichen
+Bescheids, erforderlich ist.
+
+
+(5) Die Gemeinde kann die Einleitungsbedingungen nach Abs. 3 und 4 neu
+festlegen, wenn die Einleitung von Abwasser in die Entwässerungseinrichtung nicht
+nur vorübergehend nach Art oder Menge wesentlich geändert wird oder wenn sich
+die für den Betrieb der Entwässerungseinrichtung geltenden Gesetze oder
+Bescheide ändern. Die Gemeinde kann Fristen festlegen, innerhalb derer die zur
+Erfüllung der geänderten Anforderungen notwendigen Maßnahmen durchgeführt
+werden müssen.
+
+
+(6) Die Gemeinde kann die Einleitung von Stoffen im Sinn der Abs. 1 und 2 zulassen,
+wenn der Verpflichtete Vorkehrungen trifft, durch die die Stoffe ihre gefährdende oder
+schädigende Wirkung verlieren oder der Betrieb der Entwässerungseinrichtung nicht
+erschwert wird. In diesem Fall hat er der Gemeinde eine Beschreibung mit Plänen in
+doppelter Fertigung vorzulegen.
+
+
+(7) Leitet der Grundstückseigentümer Kondensat aus ölbefeuerten Brennwert-
+Heizkesseln   oder    aus     gasbefeuerten       Brennwert-Heizkesseln       mit        einer
+Nennwertleistung über 200 kW in die Entwässerungseinrichtung ein, ist er
+verpflichtet, das Kondensat zu neutralisieren und der Gemeinde über die
+Funktionsfähigkeit der Neutralisationsanlage jährlich eine Bescheinigung eines
+Betriebes nach § 2 Abs. 1 Satz 2 Schornsteinfeger-Handwerksgesetz oder eines
+geeigneten Fachbetriebs vorzulegen.
+
+
+(8) Besondere Vereinbarungen zwischen der Gemeinde und einem Verpflichteten,
+die das Einleiten von Stoffen im Sinn des Abs. 1 durch entsprechende Vorkehrungen
+an der Entwässerungseinrichtung ermöglichen, bleiben vorbehalten.
+
+
+(9) Wenn Stoffe im Sinn des Abs. 1 in eine Grundstücksentwässerungsanlage oder in
+die Entwässerungseinrichtung gelangen, ist dies der Gemeinde sofort anzuzeigen.
+
+
+                                        § 16
+                                     Abscheider
+
+
+Sofern mit dem Abwasser Leichtflüssigkeiten (z. B. Benzin, Öle oder Fette)
+mitabgeschwemmt      werden       können,   ist    das   Abwasser      über         in    die
+Grundstücksentwässerungsanlage          eingebaute        Leichtflüssigkeits-            bzw.
+Fettabscheider abzuleiten. Die Abscheider sind nach den allgemein anerkannten
+Regeln der Technik zu errichten, zu betreiben und regelmäßig zu warten. Die
+Gemeinde kann den Nachweis der ordnungsgemäßen Eigenkontrolle, Wartung,
+Entleerung und Generalinspektion verlangen. Das Abscheidegut ist schadlos zu
+entsorgen.
+                                         § 17
+                           Untersuchung des Abwassers
+
+
+(1) Die Gemeinde kann über die Art und Menge des eingeleiteten oder
+einzuleitenden    Abwassers    Aufschluss    verlangen.   Bevor   erstmals   Abwasser
+eingeleitet oder wenn Art oder Menge des eingeleiteten Abwassers geändert werden,
+ist der Gemeinde auf Verlangen nachzuweisen, dass das Abwasser keine Stoffe
+enthält, die unter das Verbot des § 15 fallen.
+
+
+(2) Die Gemeinde kann eingeleitetes Abwasser jederzeit, auch periodisch,
+untersuchen lassen. Auf die Überwachung wird in der Regel verzichtet, soweit für die
+Einleitung in die Sammelkanalisation eine wasserrechtliche Genehmigung der
+Kreisverwaltungsbehörde vorliegt, die dafür vorgeschriebenen Untersuchungen aus
+der Eigen- oder Selbstüberwachung ordnungsgemäß durchgeführt und die
+Ergebnisse der Gemeinde vorgelegt werden. Die Gemeinde kann verlangen, dass
+die nach § 12 Abs. 4 eingebauten Überwachungseinrichtungen ordnungsgemäß
+betrieben und die Messergebnisse vorgelegt werden.
+
+
+
+
+                                         § 18
+                                       Haftung
+
+
+(1) Die Gemeinde haftet unbeschadet Abs. 2 nicht für Schäden, die auf solchen
+Betriebsstörungen beruhen, die        sich   auch   bei ordnungsgemäßer Planung,
+Ausführung und Unterhaltung der Entwässerungseinrichtung nicht vermeiden lassen.
+Satz 1 gilt insbesondere auch für Schäden, die durch Rückstau hervorgerufen
+werden.
+
+
+(2) Die Gemeinde haftet für Schäden, die sich aus der Benutzung der
+Entwässerungseinrichtung ergeben, nur dann, wenn einer Person, deren sich die
+Gemeinde zur Erfüllung ihrer Verpflichtungen bedient, Vorsatz oder Fahrlässigkeit
+zur Last fällt.
+(3) Der Grundstückseigentümer und der Benutzer haben für die ordnungsgemäße
+Benutzung         der       Entwässerungseinrichtung              einschließlich        des
+Grundstücksanschlusses zu sorgen.
+
+
+(4) Wer     den   Vorschriften    dieser   Satzung      oder   einer Sondervereinbarung
+zuwiderhandelt, haftet der Gemeinde für alle ihr dadurch entstehenden Schäden und
+Nachteile. Dasselbe gilt für Schäden und Nachteile, die durch den mangelhaften
+Zustand der Grundstücksentwässerungsanlage oder des Grundstücksanschlusses
+verursacht werden, soweit dieser nach § 8 vom Grundstückseigentümer herzustellen,
+zu verbessern, zu erneuern, zu ändern und zu unterhalten sowie stillzulegen und zu
+beseitigen ist. Mehrere Verpflichtete haften als Gesamtschuldner.
+
+
+
+
+                                           § 19
+                                 Grundstücksbenutzung
+
+
+(1) Der Grundstückseigentümer hat das Anbringen und Verlegen von Leitungen
+einschließlich Zubehör zur Ableitung von Abwasser über sein im Einrichtungsgebiet
+liegendes Grundstück sowie sonstige Schutzmaßnahmen unentgeltlich zuzulassen,
+wenn und soweit diese Maßnahmen für die örtliche Abwasserbeseitigung erforderlich
+sind. Diese Pflicht betrifft nur Grundstücke, die an die Entwässerungseinrichtung
+angeschlossen oder anzuschließen sind, die vom Eigentümer im wirtschaftlichen
+Zusammenhang mit einem angeschlossenen oder zum Anschluss vorgesehenen
+Grundstück    genutzt   werden      oder   für    die   die    Möglichkeit   der   örtlichen
+Abwasserbeseitigung sonst wirtschaftlich vorteilhaft ist. Die Verpflichtung entfällt,
+soweit die Inanspruchnahme der Grundstücke den Eigentümer in unzumutbarer
+Weise belasten würde.
+
+
+(2) Der Grundstückseigentümer ist rechtzeitig über Art und Umfang der
+beabsichtigten Inanspruchnahme seines Grundstücks zu benachrichtigen.
+
+
+(3) Der Grundstückseigentümer kann die Verlegung der Anlagen verlangen, wenn sie
+an der bisherigen Stelle für ihn nicht mehr zumutbar sind. Die Kosten der Verlegung
+hat die Gemeinde zu tragen, soweit die Einrichtung nicht ausschließlich der
+Entsorgung des Grundstücks dient.
+
+
+(4) Die Abs. 1 bis 3 gelten nicht für öffentliche Verkehrswege und Verkehrsflächen
+sowie für Grundstücke, die durch Planfeststellung für den Bau von öffentlichen
+Verkehrswegen und Verkehrsflächen bestimmt sind.
+
+
+
+
+                                        § 20
+                                 Betretungsrecht
+
+
+(1) Der Grundstückseigentümer und der Benutzer des Grundstücks haben zu dulden,
+dass zur Überwachung ihrer satzungsmäßigen und gesetzlichen Pflichten die mit
+dem Vollzug dieser Satzung beauftragten Personen der Gemeinde zu angemessener
+Tageszeit Grundstücke, Gebäude, Anlagen, Einrichtungen, Wohnungen und
+Wohnräume im erforderlichen Umfang betreten; auf Verlangen haben sich diese
+Personen auszuweisen. Ihnen ist ungehindert Zugang zu allen Anlagenteilen zu
+gewähren     und    sind   die   notwendigen     Auskünfte    zu   erteilen.   Der
+Grundstückseigentümer und der Benutzer des Grundstücks werden nach Möglichkeit
+vorher verständigt; das gilt nicht für Probenahmen und Abwassermessungen.
+
+
+(2)   Nach     anderen     Rechtsvorschriften   bestehende     Betretungs-     und
+Überwachungsrechte bleiben unberührt.
+
+
+
+
+                                        § 21
+                              Ordnungswidrigkeiten
+
+
+(1) Nach Art. 24 Abs. 2 Satz 2 der Gemeindeordnung kann mit Geldbuße belegt
+werden, wer vorsätzlich
+
+
+      1.   eine der in § 10 Abs. 1, § 11 Abs. 1, Abs. 4 Sätze 1 und 3, § 12 Abs. 1
+             Satz 2 und Abs. 3, § 15 Abs. 9, § 17 Abs. 1 Satz 2 und Abs. 2 Sätze 2
+             und 3 sowie § 20 Abs. 1 Satz 2 festgelegten oder hierauf gestützten
+             Anzeige-, Auskunfts-, Nachweis- oder Vorlagepflichten verletzt,
+
+
+      2.   entgegen § 10 Abs. 3 Satz 1 vor Zustimmung der Gemeinde mit der
+             Herstellung oder Änderung der Grundstücksentwässerungsanlage
+             beginnt,
+
+
+      3.   entgegen § 11 Abs. 3 Satz 1, § 12 Abs. 1 Satz 1 eine unrichtige
+             Bestätigung ausstellt oder entgegen § 11 Abs. 4 Satz 1, § 12 Abs. 1
+             Satz 2 vorlegt,
+
+
+      4.   entgegen     § 11   Abs. 3,   Abs. 4   Sätze 1   und 3   vor   Prüfung   der
+             Grundstücksentwässerungsanlage durch einen fachlich geeigneten
+             Unternehmer oder vor Vorlage von dessen Bestätigung oder vor
+             Prüfung durch die Gemeinde die Leitungen verdeckt oder einer
+             Untersagung der Gemeinde nach § 11 Abs. 4 Satz 2 zuwiderhandelt,
+
+
+      5.   entgegen § 12 Abs. 1 Satz 1 die Grundstücksentwässerungsanlagen nicht
+             innerhalb der vorgegebenen Fristen überprüfen lässt,
+
+
+      6.   entgegen den Vorschriften der §§ 14 und 15 Abwasser oder sonstige
+             Stoffe in die Entwässerungseinrichtung einleitet oder einbringt,
+
+
+      7.   entgegen § 20 Abs. 1 Satz 2 den mit dem Vollzug dieser Satzung
+             beauftragten Personen der Gemeinde nicht ungehindert Zugang zu
+             allen Anlagenteilen gewährt.
+
+
+(2) Nach anderen Rechtsvorschriften bestehende Ordnungswidrigkeitentatbestände
+bleiben unberührt.
+                                         § 22
+                   Anordnungen für den Einzelfall; Zwangsmittel
+
+
+(1) Die Gemeinde kann zur Erfüllung der nach dieser Satzung bestehenden
+Verpflichtungen Anordnungen für den Einzelfall erlassen.
+
+
+(2) Für die Erzwingung der in dieser Satzung vorgeschriebenen Handlungen, eines
+Duldens    oder    Unterlassens     gelten   die   Vorschriften   des   Bayerischen
+Verwaltungszustellungs- und Vollstreckungsgesetzes.
+
+
+
+
+                                         § 23
+                         Inkrafttreten; Übergangsregelung
+
+
+(1) Diese Satzung tritt am 01.02.2013 in Kraft.
+(2) Gleichzeitig tritt die Satzung vom 11.04.2008 außer Kraft.
+
+
+Aldersbach, 24.01.2013
+
+
+
+
+Schwarz
+1. Bürgermeister
+

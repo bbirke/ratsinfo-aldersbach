@@ -1,0 +1,15 @@
+# Raw downloads: large, and every PDF the site links to is already copied into archive/files/
+sources/
+
+# Vendored Python packages, scratch scripts, caches
+pylibs/
+tmp/
+__pycache__/
+*.pyc
+
+# Local editor / agent settings
+.claude/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

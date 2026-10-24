@@ -1,0 +1,2171 @@
+{
+ "issue": "klosterkurier-2026-02",
+ "items": [
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 12,
+   "meeting_date": "25.03.2026",
+   "top": "01",
+   "lines": [
+    "Die örtliche Prüfung der Jahresrechnung der Gemeinde",
+    "Aldersbach für das Haushaltsjahr 2025 ergab keine Bean-",
+    "standungen. Die Belegführung erfolgte ordnungsgemäß",
+    "und die Haushaltsführung entsprach den gesetzlichen",
+    "Vorgaben. Zudem konnte auch im Haushaltsjahr 2025",
+    "eine Zuführung zum Vermögenshaushalt erzielt werden.",
+    "Der Gemeinderat stellte die Jahresrechnung 2025 darauf-",
+    "hin offiziell fest."
+   ],
+   "line_refs": [
+    {
+     "page": 12,
+     "y0": 150.3452,
+     "x0": 25.5118,
+     "x1": 283.4614,
+     "y1": 165.8972
+    },
+    {
+     "page": 12,
+     "y0": 163.3412,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 178.8932
+    },
+    {
+     "page": 12,
+     "y0": 176.3372,
+     "x0": 25.5118,
+     "x1": 283.4686,
+     "y1": 191.8892
+    },
+    {
+     "page": 12,
+     "y0": 189.3332,
+     "x0": 25.5118,
+     "x1": 283.4566,
+     "y1": 204.8852
+    },
+    {
+     "page": 12,
+     "y0": 202.3292,
+     "x0": 25.5118,
+     "x1": 283.4566,
+     "y1": 217.8812
+    },
+    {
+     "page": 12,
+     "y0": 215.3252,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 230.8772
+    },
+    {
+     "page": 12,
+     "y0": 228.3212,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 243.8732
+    },
+    {
+     "page": 12,
+     "y0": 241.3172,
+     "x0": 25.5118,
+     "x1": 96.6082,
+     "y1": 256.8692
+    }
+   ],
+   "pages": [
+    12
+   ],
+   "bboxes": [
+    {
+     "page": 12,
+     "x0": 21.51,
+     "y0": 146.35,
+     "x1": 287.47,
+     "y1": 260.87
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 12,
+   "meeting_date": "25.03.2026",
+   "top": "02",
+   "lines": [
+    "Zur Jahresrechnung der Gemeinde Aldersbach für das",
+    "Haushaltsjahr 2025 wurde mit dem festgestellten Ergebnis",
+    "vom Gremium die Entlastung erteilt."
+   ],
+   "line_refs": [
+    {
+     "page": 12,
+     "y0": 280.3172,
+     "x0": 25.5118,
+     "x1": 283.4566,
+     "y1": 295.8692
+    },
+    {
+     "page": 12,
+     "y0": 293.3132,
+     "x0": 25.5118,
+     "x1": 283.4722,
+     "y1": 308.8652
+    },
+    {
+     "page": 12,
+     "y0": 306.3092,
+     "x0": 25.5118,
+     "x1": 190.5382,
+     "y1": 321.8612
+    }
+   ],
+   "pages": [
+    12
+   ],
+   "bboxes": [
+    {
+     "page": 12,
+     "x0": 21.51,
+     "y0": 276.32,
+     "x1": 287.47,
+     "y1": 325.86
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 12,
+   "meeting_date": "25.03.2026",
+   "top": "03",
+   "lines": [
+    "Im Zuge der weiteren Planungen ergaben sich neue fach-",
+    "liche Erkenntnisse, insbesondere bei der Muldenversi-",
+    "ckerung. Durch einen Fachplaner wurden die Planungen",
+    "aufgrund der Erstellung eines geänderten Erschließungs-",
+    "planes nochmals angepasst. Die finale Erschließungspla-",
+    "nung wurde bereits mit dem Wasserwirtschaftsamt abge-",
+    "stimmt und seitens der Behörde befürwortet. Dem neuen",
+    "Entwurf vom 25.03.2026 wurde vom Gemeinderat zuge-",
+    "stimmt und die Gemeindeverwaltung für die öffentliche",
+    "Auslegung und Beteiligung der Träger öffentlicher Belan-",
+    "ge beauftragt."
+   ],
+   "line_refs": [
+    {
+     "page": 12,
+     "y0": 150.3452,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 165.8972
+    },
+    {
+     "page": 12,
+     "y0": 163.3412,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 178.8932
+    },
+    {
+     "page": 12,
+     "y0": 176.3372,
+     "x0": 311.811,
+     "x1": 569.7474,
+     "y1": 191.8892
+    },
+    {
+     "page": 12,
+     "y0": 189.3332,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 204.8852
+    },
+    {
+     "page": 12,
+     "y0": 202.3292,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 217.8812
+    },
+    {
+     "page": 12,
+     "y0": 215.3252,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 230.8772
+    },
+    {
+     "page": 12,
+     "y0": 228.3212,
+     "x0": 311.811,
+     "x1": 569.7642,
+     "y1": 243.8732
+    },
+    {
+     "page": 12,
+     "y0": 241.3172,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 256.8692
+    },
+    {
+     "page": 12,
+     "y0": 254.3132,
+     "x0": 311.811,
+     "x1": 569.7558,
+     "y1": 269.8652
+    },
+    {
+     "page": 12,
+     "y0": 267.3092,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 282.8612
+    },
+    {
+     "page": 12,
+     "y0": 280.3052,
+     "x0": 311.811,
+     "x1": 372.8226,
+     "y1": 295.8572
+    }
+   ],
+   "pages": [
+    12
+   ],
+   "bboxes": [
+    {
+     "page": 12,
+     "x0": 307.81,
+     "y0": 146.35,
+     "x1": 573.76,
+     "y1": 299.86
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 12,
+   "meeting_date": "25.03.2026",
+   "top": "04",
+   "lines": [
+    "Der Bauantrag von Otto Einwang für den Anbau an eine",
+    "Scheune und den Abbruch eines Nebengebäudes in Al-",
+    "dersbach wurde vom Gemeinderat befürwortet."
+   ],
+   "line_refs": [
+    {
+     "page": 12,
+     "y0": 319.3052,
+     "x0": 311.811,
+     "x1": 569.7642,
+     "y1": 334.8572
+    },
+    {
+     "page": 12,
+     "y0": 332.3012,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 347.8532
+    },
+    {
+     "page": 12,
+     "y0": 345.2972,
+     "x0": 311.811,
+     "x1": 524.565,
+     "y1": 360.8492
+    }
+   ],
+   "pages": [
+    12
+   ],
+   "bboxes": [
+    {
+     "page": 12,
+     "x0": 307.81,
+     "y0": 315.31,
+     "x1": 573.76,
+     "y1": 364.85
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 12,
+   "meeting_date": "25.03.2026",
+   "top": "05",
+   "lines": [
+    "Weiter wurde der Bauantrag von Martin Göttl für den An-",
+    "bau (Verlängerung) einer Maschinenhalle sowie den An-",
+    "bau einer Überdachung an eine Scheune in Pörndorf vom",
+    "Gremium befürwortet."
+   ],
+   "line_refs": [
+    {
+     "page": 12,
+     "y0": 384.2972,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 399.8492
+    },
+    {
+     "page": 12,
+     "y0": 397.2932,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 412.8452
+    },
+    {
+     "page": 12,
+     "y0": 410.2892,
+     "x0": 311.811,
+     "x1": 569.7486,
+     "y1": 425.8412
+    },
+    {
+     "page": 12,
+     "y0": 423.2852,
+     "x0": 311.811,
+     "x1": 414.3246,
+     "y1": 438.8372
+    }
+   ],
+   "pages": [
+    12
+   ],
+   "bboxes": [
+    {
+     "page": 12,
+     "x0": 307.81,
+     "y0": 380.3,
+     "x1": 573.76,
+     "y1": 442.84
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 12,
+   "meeting_date": "25.03.2026",
+   "top": "06",
+   "lines": [
+    "Ebenfalls zugestimmt wurde dem Bauantrag von Walter",
+    "Veitweber für den Neubau eines Betriebsleiterwohnhauses",
+    "mit Doppelgarage in Gumperting."
+   ],
+   "line_refs": [
+    {
+     "page": 12,
+     "y0": 462.2852,
+     "x0": 311.811,
+     "x1": 569.7582,
+     "y1": 477.8372
+    },
+    {
+     "page": 12,
+     "y0": 475.2812,
+     "x0": 311.811,
+     "x1": 569.769,
+     "y1": 490.8332
+    },
+    {
+     "page": 12,
+     "y0": 488.2772,
+     "x0": 311.811,
+     "x1": 464.2122,
+     "y1": 503.8292
+    }
+   ],
+   "pages": [
+    12
+   ],
+   "bboxes": [
+    {
+     "page": 12,
+     "x0": 307.81,
+     "y0": 458.29,
+     "x1": 573.77,
+     "y1": 507.83
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 13,
+   "meeting_date": "29.04.2026",
+   "top": "01",
+   "lines": [
+    "Anfangs erfolgte die Erläuterung zur Neugestaltung des",
+    "östlichen Ortseingangs BA III Baulos einer Gehwegver-",
+    "bindung zum Ärztehaus mittels eines Stegbauwerks an",
+    "die Ritter-Tuschl-Straße. Nach Prüfung der Angebote",
+    "empfahl das Ingenieurbüro Schönbuchner die Verga-",
+    "be des Straßenbaus an die Firma Neulinger Bau GmbH .",
+    "Die Maßnahme wird im Rahmen der Städtebauförderung",
+    "durch die Regierung von Niederbayern gefördert."
+   ],
+   "line_refs": [
+    {
+     "page": 13,
+     "y0": 150.3452,
+     "x0": 25.5118,
+     "x1": 283.4674,
+     "y1": 165.8972
+    },
+    {
+     "page": 13,
+     "y0": 163.3412,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 178.8932
+    },
+    {
+     "page": 13,
+     "y0": 176.3372,
+     "x0": 25.5118,
+     "x1": 283.4722,
+     "y1": 191.8892
+    },
+    {
+     "page": 13,
+     "y0": 189.3332,
+     "x0": 25.5118,
+     "x1": 283.4674,
+     "y1": 204.8852
+    },
+    {
+     "page": 13,
+     "y0": 202.3292,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 217.8812
+    },
+    {
+     "page": 13,
+     "y0": 215.3252,
+     "x0": 25.5118,
+     "x1": 283.4818,
+     "y1": 230.8772
+    },
+    {
+     "page": 13,
+     "y0": 228.3212,
+     "x0": 25.5118,
+     "x1": 283.4878,
+     "y1": 243.8732
+    },
+    {
+     "page": 13,
+     "y0": 241.3172,
+     "x0": 25.5118,
+     "x1": 245.5162,
+     "y1": 256.8692
+    }
+   ],
+   "pages": [
+    13
+   ],
+   "bboxes": [
+    {
+     "page": 13,
+     "x0": 21.51,
+     "y0": 146.35,
+     "x1": 287.49,
+     "y1": 260.87
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 13,
+   "meeting_date": "29.04.2026",
+   "top": "02",
+   "lines": [
+    "Im selben Zug vergab der Gemeinderat nach Empfehlung",
+    "des Ingenieurbüros Schönbuchner den Stahlbau an die",
+    "Firma Pichler GmbH. Die Maßnahme wird ebenfalls im",
+    "Rahmen der Städtebauförderung durch die Regierung von",
+    "Niederbayern gefördert.",
+    "Der Baubeginn erfolgte am 18.05.2026, der Bauabschluss",
+    "ist für Oktober 2026 vorgesehen."
+   ],
+   "line_refs": [
+    {
+     "page": 13,
+     "y0": 280.3172,
+     "x0": 25.5118,
+     "x1": 283.459,
+     "y1": 295.8692
+    },
+    {
+     "page": 13,
+     "y0": 293.3132,
+     "x0": 25.5118,
+     "x1": 283.465,
+     "y1": 308.8652
+    },
+    {
+     "page": 13,
+     "y0": 306.3092,
+     "x0": 25.5118,
+     "x1": 283.4458,
+     "y1": 321.8612
+    },
+    {
+     "page": 13,
+     "y0": 319.3052,
+     "x0": 25.5118,
+     "x1": 283.4662,
+     "y1": 334.8572
+    },
+    {
+     "page": 13,
+     "y0": 332.3012,
+     "x0": 25.5118,
+     "x1": 132.5386,
+     "y1": 347.8532
+    },
+    {
+     "page": 13,
+     "y0": 345.2972,
+     "x0": 25.5118,
+     "x1": 283.4758,
+     "y1": 360.8492
+    },
+    {
+     "page": 13,
+     "y0": 358.2932,
+     "x0": 25.5118,
+     "x1": 170.9698,
+     "y1": 373.8452
+    }
+   ],
+   "pages": [
+    13
+   ],
+   "bboxes": [
+    {
+     "page": 13,
+     "x0": 21.51,
+     "y0": 276.32,
+     "x1": 287.48,
+     "y1": 377.85
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 13,
+   "meeting_date": "29.04.2026",
+   "top": "03",
+   "lines": [
+    "Im Rahmen des Bewerbungsverfahrens für Freiflä-",
+    "chenphotovoltaikanlagen gingen zwei Varianten eines",
+    "PV-Projektes ein. Da die geplante Freiflächenanlage vom",
+    "Antragssteller zurückgezogen wurde, befasste sich der",
+    "Gemeinderat daher nur noch mit der Agri-PV-Zaunanla-",
+    "ge. Nach Prüfung durch die Landschaftsarchitektin Frau",
+    "Jocham vom Landschaftsarchitekturbüro “Jocham Kess-",
+    "ler Kellhuber“, wurde aufgrund der Nichteinhaltung des",
+    "Mindestabstandes zur bestehenden Wohnbebauung und",
+    "zur Bebauung bei einer möglichen Siedlungserweiterung",
+    "sowie der Beeinträchtigung des Ortsbilds als ungeeignet",
+    "bewertet und schließlich abgelehnt."
+   ],
+   "line_refs": [
+    {
+     "page": 13,
+     "y0": 397.2932,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 412.8452
+    },
+    {
+     "page": 13,
+     "y0": 410.2892,
+     "x0": 25.5118,
+     "x1": 283.4566,
+     "y1": 425.8412
+    },
+    {
+     "page": 13,
+     "y0": 423.2852,
+     "x0": 25.5118,
+     "x1": 283.4494,
+     "y1": 438.8372
+    },
+    {
+     "page": 13,
+     "y0": 436.2812,
+     "x0": 25.5118,
+     "x1": 283.4662,
+     "y1": 451.8332
+    },
+    {
+     "page": 13,
+     "y0": 449.2772,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 464.8292
+    },
+    {
+     "page": 13,
+     "y0": 462.2732,
+     "x0": 25.5118,
+     "x1": 283.441,
+     "y1": 477.8252
+    },
+    {
+     "page": 13,
+     "y0": 475.2692,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 490.8212
+    },
+    {
+     "page": 13,
+     "y0": 488.2652,
+     "x0": 25.5118,
+     "x1": 283.4746,
+     "y1": 503.8172
+    },
+    {
+     "page": 13,
+     "y0": 501.2612,
+     "x0": 25.5118,
+     "x1": 283.4542,
+     "y1": 516.8132
+    },
+    {
+     "page": 13,
+     "y0": 514.2572,
+     "x0": 25.5118,
+     "x1": 283.465,
+     "y1": 529.8092
+    },
+    {
+     "page": 13,
+     "y0": 527.2532,
+     "x0": 25.5118,
+     "x1": 283.4626,
+     "y1": 542.8052
+    },
+    {
+     "page": 13,
+     "y0": 540.2492,
+     "x0": 25.5118,
+     "x1": 183.2674,
+     "y1": 555.8012
+    }
+   ],
+   "pages": [
+    13
+   ],
+   "bboxes": [
+    {
+     "page": 13,
+     "x0": 21.51,
+     "y0": 393.29,
+     "x1": 287.47,
+     "y1": 559.8
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 13,
+   "meeting_date": "29.04.2026",
+   "top": "04",
+   "lines": [
+    "Weiter erfolgte die Beratung und Beschlussfassung über",
+    "den Haushaltsplan 2026 und die Haushaltssatzung 2026",
+    "durch das Gremium. Die Beschlussfassung erfolgte ein-",
+    "stimmig (siehe Seite 6 und 7)."
+   ],
+   "line_refs": [
+    {
+     "page": 13,
+     "y0": 579.2492,
+     "x0": 25.5118,
+     "x1": 283.4686,
+     "y1": 594.8012
+    },
+    {
+     "page": 13,
+     "y0": 592.2452,
+     "x0": 25.5118,
+     "x1": 283.4746,
+     "y1": 607.7972
+    },
+    {
+     "page": 13,
+     "y0": 605.2412,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 620.7932
+    },
+    {
+     "page": 13,
+     "y0": 618.2372,
+     "x0": 25.5118,
+     "x1": 156.067,
+     "y1": 633.7892
+    }
+   ],
+   "pages": [
+    13
+   ],
+   "bboxes": [
+    {
+     "page": 13,
+     "x0": 21.51,
+     "y0": 575.25,
+     "x1": 287.47,
+     "y1": 637.79
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 13,
+   "meeting_date": "29.04.2026",
+   "top": "05",
+   "lines": [
+    "Ebenfalls wurde die Beratung und Beschlussfassung über",
+    "den Finanzplan und Investitionsplan 2025-2029 durch",
+    "den Gemeinderat vorgenommen."
+   ],
+   "line_refs": [
+    {
+     "page": 13,
+     "y0": 150.3452,
+     "x0": 311.811,
+     "x1": 569.757,
+     "y1": 165.8972
+    },
+    {
+     "page": 13,
+     "y0": 163.3412,
+     "x0": 311.811,
+     "x1": 569.7834,
+     "y1": 178.8932
+    },
+    {
+     "page": 13,
+     "y0": 176.3372,
+     "x0": 311.811,
+     "x1": 459.2838,
+     "y1": 191.8892
+    }
+   ],
+   "pages": [
+    13
+   ],
+   "bboxes": [
+    {
+     "page": 13,
+     "x0": 307.81,
+     "y0": 146.35,
+     "x1": 573.78,
+     "y1": 195.89
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 13,
+   "meeting_date": "29.04.2026",
+   "top": "06",
+   "lines": [
+    "Das Gremium stimmte den Antrag der Freiwillige Feuer-",
+    "wehr Pörndorf für die Anschaffung eines Schlamm- und",
+    "Nasssaugers zu."
+   ],
+   "line_refs": [
+    {
+     "page": 13,
+     "y0": 215.3372,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 230.8892
+    },
+    {
+     "page": 13,
+     "y0": 228.3332,
+     "x0": 311.811,
+     "x1": 569.7414,
+     "y1": 243.8852
+    },
+    {
+     "page": 13,
+     "y0": 241.3292,
+     "x0": 311.811,
+     "x1": 381.8718,
+     "y1": 256.8812
+    }
+   ],
+   "pages": [
+    13
+   ],
+   "bboxes": [
+    {
+     "page": 13,
+     "x0": 307.81,
+     "y0": 211.34,
+     "x1": 573.76,
+     "y1": 260.88
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 13,
+   "meeting_date": "29.04.2026",
+   "top": "07",
+   "lines": [
+    "Der Gemeinderat beschloss die Neufassung der Zuschuss­",
+    "richtlinien für Vereine sowie Glückwunschregelungen für",
+    "Bürger, da die bisherige Berechnungsgrundlagen nicht",
+    "mehr zeitgemäß waren. Zudem wurden die Förderricht-",
+    "linien „Familienfreundliche Gemeinde“ angepasst, ins-",
+    "besondere wegen des Wegfalls des bayerischen Krippen-",
+    "geldes. (Aktuelle Richtlinien sind auf der Homepage der",
+    "Gemeinde Aldersbach einzusehen)"
+   ],
+   "line_refs": [
+    {
+     "page": 13,
+     "y0": 280.3292,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 295.8812
+    },
+    {
+     "page": 13,
+     "y0": 293.3252,
+     "x0": 311.811,
+     "x1": 569.7462,
+     "y1": 308.8772
+    },
+    {
+     "page": 13,
+     "y0": 306.3212,
+     "x0": 311.811,
+     "x1": 569.7462,
+     "y1": 321.8732
+    },
+    {
+     "page": 13,
+     "y0": 319.3172,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 334.8692
+    },
+    {
+     "page": 13,
+     "y0": 332.3132,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 347.8652
+    },
+    {
+     "page": 13,
+     "y0": 345.3092,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 360.8612
+    },
+    {
+     "page": 13,
+     "y0": 358.3052,
+     "x0": 311.811,
+     "x1": 569.7642,
+     "y1": 373.8572
+    },
+    {
+     "page": 13,
+     "y0": 371.3012,
+     "x0": 311.811,
+     "x1": 467.1558,
+     "y1": 386.8532
+    }
+   ],
+   "pages": [
+    13
+   ],
+   "bboxes": [
+    {
+     "page": 13,
+     "x0": 307.81,
+     "y0": 276.33,
+     "x1": 573.76,
+     "y1": 390.85
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 13,
+   "meeting_date": "29.04.2026",
+   "top": "08",
+   "lines": [
+    "Der DJK Pörndorf e. V. stellte einen Antrag auf Zuschuss",
+    "für die Anschaffung von neuen Tischtennisplatten. Der",
+    "Gemeinderat beschloss aufgrund der aktuellen Förder-",
+    "richtlinien einen Zuschuss zu gewähren."
+   ],
+   "line_refs": [
+    {
+     "page": 13,
+     "y0": 410.3012,
+     "x0": 311.811,
+     "x1": 569.7606,
+     "y1": 425.8532
+    },
+    {
+     "page": 13,
+     "y0": 423.2972,
+     "x0": 311.811,
+     "x1": 569.7474,
+     "y1": 438.8492
+    },
+    {
+     "page": 13,
+     "y0": 436.2932,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 451.8452
+    },
+    {
+     "page": 13,
+     "y0": 449.2892,
+     "x0": 311.811,
+     "x1": 491.9346,
+     "y1": 464.8412
+    }
+   ],
+   "pages": [
+    13
+   ],
+   "bboxes": [
+    {
+     "page": 13,
+     "x0": 307.81,
+     "y0": 406.3,
+     "x1": 573.76,
+     "y1": 468.84
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 13,
+   "meeting_date": "29.04.2026",
+   "top": "09-10",
+   "lines": [
+    "Folgenden Anträgen auf Vorbescheid wurde zugestimmt:",
+    "• Gemeinde Aldersbach, Neubau eines Feuerwehrhauses",
+    "in Uttigkofen für die Feuerwehr Uttigkofen-Haidenburg",
+    "• Christine Schönhofer, Neubau einer Lagerhalle",
+    "in Uttigkofen"
+   ],
+   "line_refs": [
+    {
+     "page": 13,
+     "y0": 488.2892,
+     "x0": 311.811,
+     "x1": 566.2098,
+     "y1": 503.8412
+    },
+    {
+     "page": 13,
+     "y0": 501.2852,
+     "x0": 311.811,
+     "x1": 564.8694,
+     "y1": 516.8372
+    },
+    {
+     "page": 13,
+     "y0": 514.2812,
+     "x0": 320.811,
+     "x1": 565.5942,
+     "y1": 529.8332
+    },
+    {
+     "page": 13,
+     "y0": 527.2772,
+     "x0": 311.811,
+     "x1": 529.7862,
+     "y1": 542.8292
+    },
+    {
+     "page": 13,
+     "y0": 540.2732,
+     "x0": 320.811,
+     "x1": 380.9562,
+     "y1": 555.8252
+    }
+   ],
+   "pages": [
+    13
+   ],
+   "bboxes": [
+    {
+     "page": 13,
+     "x0": 307.81,
+     "y0": 484.29,
+     "x1": 570.21,
+     "y1": 559.83
+    }
+   ],
+   "open_end": true
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 13,
+   "meeting_date": "29.04.2026",
+   "top": "11",
+   "lines": [
+    "Der Gemeinderat befasste sich erneut mit dem Antrag zur",
+    "Aufstellung und zum Betrieb eines Containers für eine",
+    "Konfiskatkühlung bei der Kläranlage beziehungsweise",
+    "auf dem Gelände der Klärschlammtrocknung. Nach einer",
+    "Ortsbesichtigung durch den Bauausschuss wurden Aspek-",
+    "te und Gründe festgestellt, die gegen den vorgeschlagenen",
+    "Standort sprechen. Der Antrag wurde somit abgelehnt."
+   ],
+   "line_refs": [
+    {
+     "page": 13,
+     "y0": 579.2732,
+     "x0": 311.811,
+     "x1": 569.7666,
+     "y1": 594.8252
+    },
+    {
+     "page": 13,
+     "y0": 592.2692,
+     "x0": 311.811,
+     "x1": 569.7714,
+     "y1": 607.8212
+    },
+    {
+     "page": 13,
+     "y0": 605.2652,
+     "x0": 311.811,
+     "x1": 569.7654,
+     "y1": 620.8172
+    },
+    {
+     "page": 13,
+     "y0": 618.2612,
+     "x0": 311.811,
+     "x1": 569.7426,
+     "y1": 633.8132
+    },
+    {
+     "page": 13,
+     "y0": 631.2572,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 646.8092
+    },
+    {
+     "page": 13,
+     "y0": 644.2532,
+     "x0": 311.811,
+     "x1": 569.7642,
+     "y1": 659.8052
+    },
+    {
+     "page": 13,
+     "y0": 657.2492,
+     "x0": 311.811,
+     "x1": 555.7614,
+     "y1": 672.8012
+    }
+   ],
+   "pages": [
+    13
+   ],
+   "bboxes": [
+    {
+     "page": 13,
+     "x0": 307.81,
+     "y0": 575.27,
+     "x1": 573.77,
+     "y1": 676.8
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 14,
+   "meeting_date": "21.05.2026",
+   "top": "01",
+   "lines": [
+    "Die Gemeinde Aldersbach ist seit deren Gründung an den",
+    "Regionalwerken Passsauer Land beteiligt. Zweck dieses",
+    "gemeinsamen Kommunalunternehmens ist, Projekte aus",
+    "dem Bereich der Energieerzeugung, -speicherung und",
+    "-vermarktung aus regionalen und regenerativen Energie-",
+    "quellen zu entwickeln. Für die einzelnen Projekte werden",
+    "vor Ort Projektgesellschaften gegründet, an denen sich die",
+    "am Regionalwerk beteiligten Kommunen wiederum be-",
+    "teiligen können.",
+    "In diesem Zusammenhang wurde auf die bereits geneh-",
+    "migte Bauleitplanung der Freiflächen-PV-Anlage in Edels-",
+    "brunn verwiesen. Die bisherigen Projektrechte der Firma",
+    "E.ON aus Essen wurden aufgehoben und werden künftig",
+    "auf eine Projektgesellschaft der Regionalwerke Passauer",
+    "Land übertragen.",
+    "Es erfolgte die Bekanntgabe über die Zustimmung zur Be-",
+    "teiligung an der von den Regionalwerken Passauer Land",
+    "gegründeten Projektgesellschaft zur Errichtung einer",
+    "Freiflächen PV-Anlage in Edelsbrunn zur Strom-Direkt-",
+    "lieferung an die Knorr-Bremse mit einer Beteiligungs-",
+    "summe von maximal 300.000,00 €."
+   ],
+   "line_refs": [
+    {
+     "page": 14,
+     "y0": 150.3452,
+     "x0": 25.5118,
+     "x1": 283.4542,
+     "y1": 165.8972
+    },
+    {
+     "page": 14,
+     "y0": 163.3412,
+     "x0": 25.5118,
+     "x1": 283.465,
+     "y1": 178.8932
+    },
+    {
+     "page": 14,
+     "y0": 176.3372,
+     "x0": 25.5118,
+     "x1": 283.4542,
+     "y1": 191.8892
+    },
+    {
+     "page": 14,
+     "y0": 189.3332,
+     "x0": 25.5118,
+     "x1": 283.4626,
+     "y1": 204.8852
+    },
+    {
+     "page": 14,
+     "y0": 202.3292,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 217.8812
+    },
+    {
+     "page": 14,
+     "y0": 215.3252,
+     "x0": 25.5118,
+     "x1": 283.4662,
+     "y1": 230.8772
+    },
+    {
+     "page": 14,
+     "y0": 228.3212,
+     "x0": 25.5118,
+     "x1": 283.4674,
+     "y1": 243.8732
+    },
+    {
+     "page": 14,
+     "y0": 241.3172,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 256.8692
+    },
+    {
+     "page": 14,
+     "y0": 254.3132,
+     "x0": 25.5118,
+     "x1": 97.5634,
+     "y1": 269.8652
+    },
+    {
+     "page": 14,
+     "y0": 267.3092,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 282.8612
+    },
+    {
+     "page": 14,
+     "y0": 280.3052,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 295.8572
+    },
+    {
+     "page": 14,
+     "y0": 293.3012,
+     "x0": 25.5118,
+     "x1": 283.4782,
+     "y1": 308.8532
+    },
+    {
+     "page": 14,
+     "y0": 306.2972,
+     "x0": 25.5118,
+     "x1": 283.4818,
+     "y1": 321.8492
+    },
+    {
+     "page": 14,
+     "y0": 319.2932,
+     "x0": 25.5118,
+     "x1": 283.4614,
+     "y1": 334.8452
+    },
+    {
+     "page": 14,
+     "y0": 332.2892,
+     "x0": 25.5118,
+     "x1": 102.8494,
+     "y1": 347.8412
+    },
+    {
+     "page": 14,
+     "y0": 345.2852,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 360.8372
+    },
+    {
+     "page": 14,
+     "y0": 358.2812,
+     "x0": 25.5118,
+     "x1": 283.4614,
+     "y1": 373.8332
+    },
+    {
+     "page": 14,
+     "y0": 371.2772,
+     "x0": 25.5118,
+     "x1": 283.459,
+     "y1": 386.8292
+    },
+    {
+     "page": 14,
+     "y0": 384.2732,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 399.8252
+    },
+    {
+     "page": 14,
+     "y0": 397.2692,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 412.8212
+    },
+    {
+     "page": 14,
+     "y0": 410.2652,
+     "x0": 25.5118,
+     "x1": 182.4514,
+     "y1": 425.8172
+    }
+   ],
+   "pages": [
+    14
+   ],
+   "bboxes": [
+    {
+     "page": 14,
+     "x0": 21.51,
+     "y0": 146.35,
+     "x1": 287.48,
+     "y1": 429.82
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 14,
+   "meeting_date": "21.05.2026",
+   "top": "02",
+   "lines": [
+    "Aufgrund des Wechsels des Vorhabenträgers des Photo-",
+    "voltaikparks Edelsbrunn war der Abschluss eines neuen",
+    "Durchführungsvertrages und Gestattungsvertrages erfor-",
+    "derlich. Es erfolgte die Bekanntgabe über die Zustimmung",
+    "des Gemeinderats zu dem vorgelegten Gestattungsvertrag",
+    "und dem Durchführungsvertrag zwischen der Gemeinde",
+    "Aldersbach und der, durch die Regionalwerke Passauer",
+    "Land gKU noch zu gründende, Projektgesellschaft."
+   ],
+   "line_refs": [
+    {
+     "page": 14,
+     "y0": 150.3451,
+     "x0": 311.811,
+     "x1": 569.7546,
+     "y1": 165.8971
+    },
+    {
+     "page": 14,
+     "y0": 163.3411,
+     "x0": 311.811,
+     "x1": 569.7846,
+     "y1": 178.8931
+    },
+    {
+     "page": 14,
+     "y0": 176.3371,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 191.8891
+    },
+    {
+     "page": 14,
+     "y0": 189.3331,
+     "x0": 311.811,
+     "x1": 569.7474,
+     "y1": 204.8851
+    },
+    {
+     "page": 14,
+     "y0": 202.3291,
+     "x0": 311.811,
+     "x1": 569.7618,
+     "y1": 217.8811
+    },
+    {
+     "page": 14,
+     "y0": 215.3251,
+     "x0": 311.811,
+     "x1": 569.7666,
+     "y1": 230.8771
+    },
+    {
+     "page": 14,
+     "y0": 228.3211,
+     "x0": 311.811,
+     "x1": 569.7714,
+     "y1": 243.8731
+    },
+    {
+     "page": 14,
+     "y0": 241.3171,
+     "x0": 311.811,
+     "x1": 539.0238,
+     "y1": 256.8691
+    }
+   ],
+   "pages": [
+    14
+   ],
+   "bboxes": [
+    {
+     "page": 14,
+     "x0": 307.81,
+     "y0": 146.35,
+     "x1": 573.78,
+     "y1": 260.87
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 14,
+   "meeting_date": "21.05.2026",
+   "top": "03",
+   "lines": [
+    "Die Maßnahme der Erneuerung des Regenwasserkanals in",
+    "der St.-Othmar-Str. in Kriestorf wurde inzwischen wie ver-",
+    "einbart durchgeführt. Zusätzlich wurde in der Lagerhalle",
+    "des angrenzenden Grundstücks (altes Feuerwehrhaus)",
+    "eine neue Bodenplatte erstellt, da der Bestand beschädigt",
+    "wurde. Die ortsansässige Firma Maierhofer erklärte sich",
+    "bereit, die Maßnahmen gemeinsam mit dem Bauhof um-",
+    "zusetzen, um die Kosten möglichst gering zu halten. Der",
+    "Gemeinderat stimmte der Vorgehensweise und der Verga-",
+    "be an die Fa. Maierhofer für beide Maßnahmen zu."
+   ],
+   "line_refs": [
+    {
+     "page": 14,
+     "y0": 280.3171,
+     "x0": 311.811,
+     "x1": 569.7702,
+     "y1": 295.8691
+    },
+    {
+     "page": 14,
+     "y0": 293.3131,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 308.8651
+    },
+    {
+     "page": 14,
+     "y0": 306.3091,
+     "x0": 311.811,
+     "x1": 569.7726,
+     "y1": 321.8611
+    },
+    {
+     "page": 14,
+     "y0": 319.3051,
+     "x0": 311.811,
+     "x1": 569.7558,
+     "y1": 334.8571
+    },
+    {
+     "page": 14,
+     "y0": 332.3011,
+     "x0": 311.811,
+     "x1": 569.745,
+     "y1": 347.8531
+    },
+    {
+     "page": 14,
+     "y0": 345.2971,
+     "x0": 311.811,
+     "x1": 569.7642,
+     "y1": 360.8491
+    },
+    {
+     "page": 14,
+     "y0": 358.2931,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 373.8451
+    },
+    {
+     "page": 14,
+     "y0": 371.2891,
+     "x0": 311.811,
+     "x1": 569.7534,
+     "y1": 386.8411
+    },
+    {
+     "page": 14,
+     "y0": 384.2851,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 399.8371
+    },
+    {
+     "page": 14,
+     "y0": 397.2811,
+     "x0": 311.811,
+     "x1": 538.6842,
+     "y1": 412.8331
+    }
+   ],
+   "pages": [
+    14
+   ],
+   "bboxes": [
+    {
+     "page": 14,
+     "x0": 307.81,
+     "y0": 276.32,
+     "x1": 573.77,
+     "y1": 416.83
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 14,
+   "meeting_date": "21.05.2026",
+   "top": "04",
+   "lines": [
+    "Zur Erneuerung des defekten Regenwasserkanals in Häus-",
+    "ling stimmte der Gemeinderat der Vergabe der Planungs-",
+    "leistungen und Vorbereitung der Ausschreibung der Maß-",
+    "nahme an das Ingenieurbüro Schönbuchner zu."
+   ],
+   "line_refs": [
+    {
+     "page": 14,
+     "y0": 436.2811,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 451.8331
+    },
+    {
+     "page": 14,
+     "y0": 449.2771,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 464.8291
+    },
+    {
+     "page": 14,
+     "y0": 462.2731,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 477.8251
+    },
+    {
+     "page": 14,
+     "y0": 475.2691,
+     "x0": 311.811,
+     "x1": 523.9746,
+     "y1": 490.8211
+    }
+   ],
+   "pages": [
+    14
+   ],
+   "bboxes": [
+    {
+     "page": 14,
+     "x0": 307.81,
+     "y0": 432.28,
+     "x1": 573.76,
+     "y1": 494.82
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 14,
+   "meeting_date": "21.05.2026",
+   "top": "05",
+   "lines": [
+    "Aufgrund statischer Mängel soll der Abbruch des alten",
+    "Kamins am neuen Sudhaus der Brauerei Aldersbach erfol-",
+    "gen. Gemeinsam mit dem Statikbüro Maidl, und dem In-",
+    "genieurbüro Straubinger wurden bereits Alternativen zum",
+    "Abbruch ausgeschlossen, da eine Sanierung aus techni-",
+    "scher Sicht schwierig und aus wirtschaftlicher Sicht nicht",
+    "durchführbar ist. Es erfolgte die Vergabe der Abbruchar-",
+    "beiten an die Firma Brandhuber Transporte aus Arnstorf."
+   ],
+   "line_refs": [
+    {
+     "page": 14,
+     "y0": 514.2691,
+     "x0": 311.811,
+     "x1": 569.7702,
+     "y1": 529.8211
+    },
+    {
+     "page": 14,
+     "y0": 527.2651,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 542.8171
+    },
+    {
+     "page": 14,
+     "y0": 540.2611,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 555.8131
+    },
+    {
+     "page": 14,
+     "y0": 553.2571,
+     "x0": 311.811,
+     "x1": 569.7618,
+     "y1": 568.8091
+    },
+    {
+     "page": 14,
+     "y0": 566.2531,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 581.8051
+    },
+    {
+     "page": 14,
+     "y0": 579.2491,
+     "x0": 311.811,
+     "x1": 569.7618,
+     "y1": 594.8011
+    },
+    {
+     "page": 14,
+     "y0": 592.2451,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 607.7971
+    },
+    {
+     "page": 14,
+     "y0": 605.2411,
+     "x0": 311.811,
+     "x1": 567.8406,
+     "y1": 620.7931
+    }
+   ],
+   "pages": [
+    14
+   ],
+   "bboxes": [
+    {
+     "page": 14,
+     "x0": 307.81,
+     "y0": 510.27,
+     "x1": 573.77,
+     "y1": 624.79
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 15,
+   "meeting_date": "21.05.2026",
+   "top": "06",
+   "lines": [
+    "Der Gemeinderat genehmigte die Anschaffung eines VW",
+    "e-Transporters mit Doppelkabine und Pritsche als Ersatz-",
+    "beschaffung für den alten VW-Kombi bei der Firma Erich",
+    "Röhr GmbH & Co. KG aus Passau."
+   ],
+   "line_refs": [
+    {
+     "page": 15,
+     "y0": 150.3451,
+     "x0": 25.5118,
+     "x1": 283.4746,
+     "y1": 165.8971
+    },
+    {
+     "page": 15,
+     "y0": 163.3411,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 178.8931
+    },
+    {
+     "page": 15,
+     "y0": 176.3371,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 191.8891
+    },
+    {
+     "page": 15,
+     "y0": 189.3331,
+     "x0": 25.5118,
+     "x1": 179.3398,
+     "y1": 204.8851
+    }
+   ],
+   "pages": [
+    15
+   ],
+   "bboxes": [
+    {
+     "page": 15,
+     "x0": 21.51,
+     "y0": 146.35,
+     "x1": 287.47,
+     "y1": 208.89
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 15,
+   "meeting_date": "21.05.2026",
+   "top": "07",
+   "lines": [
+    "Im Rahmen der Städtebauförderung wird das Ärztehaus",
+    "über ein Stegbauwerk im Bereich der Robert-Daiser-Stra-",
+    "ße an die Staatsstraße angebunden. Zur Gewährleistung",
+    "der Sicherheit für den Fußgängerverkehr soll eine Be-",
+    "leuchtung des Stegbauwerkes erfolgen. Der Gemeinderat",
+    "stimmte der Vergabe der Erweiterung der Straßenbeleuch-",
+    "tung an die Firma Bayernwerk Netz GmbH zu."
+   ],
+   "line_refs": [
+    {
+     "page": 15,
+     "y0": 228.3331,
+     "x0": 25.5118,
+     "x1": 283.4614,
+     "y1": 243.8851
+    },
+    {
+     "page": 15,
+     "y0": 241.3291,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 256.8811
+    },
+    {
+     "page": 15,
+     "y0": 254.3251,
+     "x0": 25.5118,
+     "x1": 283.459,
+     "y1": 269.8771
+    },
+    {
+     "page": 15,
+     "y0": 267.3211,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 282.8731
+    },
+    {
+     "page": 15,
+     "y0": 280.3171,
+     "x0": 25.5118,
+     "x1": 283.4662,
+     "y1": 295.8691
+    },
+    {
+     "page": 15,
+     "y0": 293.3131,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 308.8651
+    },
+    {
+     "page": 15,
+     "y0": 306.3091,
+     "x0": 25.5118,
+     "x1": 233.719,
+     "y1": 321.8611
+    }
+   ],
+   "pages": [
+    15
+   ],
+   "bboxes": [
+    {
+     "page": 15,
+     "x0": 21.51,
+     "y0": 224.33,
+     "x1": 287.47,
+     "y1": 325.86
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 15,
+   "meeting_date": "21.05.2026",
+   "top": "08",
+   "lines": [
+    "Da die vorhandenen Urnengräber im Friedhof St. Peter in",
+    "Aldersbach nahezu vollständig belegt sind und die Nach-",
+    "frage nach Urnenbestattungen weiter zunimmt, soll eine",
+    "Erweiterung durch Errichtung neuer Urnenwände geplant",
+    "werden. Der Gemeinderat vergab hierfür die Planungsleis-",
+    "tungen an das Ingenieurbüro Straubinger."
+   ],
+   "line_refs": [
+    {
+     "page": 15,
+     "y0": 345.3091,
+     "x0": 25.5118,
+     "x1": 283.4674,
+     "y1": 360.8611
+    },
+    {
+     "page": 15,
+     "y0": 358.3051,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 373.8571
+    },
+    {
+     "page": 15,
+     "y0": 371.3011,
+     "x0": 25.5118,
+     "x1": 283.465,
+     "y1": 386.8531
+    },
+    {
+     "page": 15,
+     "y0": 384.2971,
+     "x0": 25.5118,
+     "x1": 283.4734,
+     "y1": 399.8491
+    },
+    {
+     "page": 15,
+     "y0": 397.2931,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 412.8451
+    },
+    {
+     "page": 15,
+     "y0": 410.2891,
+     "x0": 25.5118,
+     "x1": 212.0998,
+     "y1": 425.8411
+    }
+   ],
+   "pages": [
+    15
+   ],
+   "bboxes": [
+    {
+     "page": 15,
+     "x0": 21.51,
+     "y0": 341.31,
+     "x1": 287.47,
+     "y1": 429.84
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 15,
+   "meeting_date": "21.05.2026",
+   "top": "09",
+   "lines": [
+    "Der Gemeinderat stimmte dem Antrag der Gesellschaft",
+    "für Grenzenlose Kultur und Geschichte für Bayern, Böh-",
+    "men, Österreich e. V. auf einen Zuschuss zu den Produk-",
+    "tionskosten für einen Dokumentarfilm über die Bier- und",
+    "Wirtshauskultur zu und gewährt eine finanzielle Unter-",
+    "stützung in Höhe von 1.000,00 €. Als Gegenleistung erhält",
+    "die Gemeinde die Filmrechte zur Veröffentlichung auf der",
+    "Homepage oder im Bräuseum."
+   ],
+   "line_refs": [
+    {
+     "page": 15,
+     "y0": 449.2891,
+     "x0": 25.5118,
+     "x1": 283.4866,
+     "y1": 464.8411
+    },
+    {
+     "page": 15,
+     "y0": 462.2851,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 477.8371
+    },
+    {
+     "page": 15,
+     "y0": 475.2811,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 490.8331
+    },
+    {
+     "page": 15,
+     "y0": 488.2771,
+     "x0": 25.5118,
+     "x1": 283.459,
+     "y1": 503.8291
+    },
+    {
+     "page": 15,
+     "y0": 501.2731,
+     "x0": 25.5118,
+     "x1": 283.4638,
+     "y1": 516.8251
+    },
+    {
+     "page": 15,
+     "y0": 514.2691,
+     "x0": 25.5118,
+     "x1": 283.453,
+     "y1": 529.8211
+    },
+    {
+     "page": 15,
+     "y0": 527.2651,
+     "x0": 25.5118,
+     "x1": 283.477,
+     "y1": 542.8171
+    },
+    {
+     "page": 15,
+     "y0": 540.2611,
+     "x0": 25.5118,
+     "x1": 161.557,
+     "y1": 555.8131
+    }
+   ],
+   "pages": [
+    15
+   ],
+   "bboxes": [
+    {
+     "page": 15,
+     "x0": 21.51,
+     "y0": 445.29,
+     "x1": 287.49,
+     "y1": 559.81
+    }
+   ],
+   "open_end": false
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 15,
+   "meeting_date": "21.05.2026",
+   "top": "10-11",
+   "lines": [
+    "Folgenden Bauanträgen wurde zugestimmt:",
+    "• Walter Veitweber; Umbau und Anbau eines Außen-",
+    "klimastalles für Schweine zur Tierwohlverbesserung",
+    "ohne Bestandserhöhung in Gumperting",
+    "• Walter Veitweber; Anbau einer Lagerhalle für Stroh in",
+    "Gumperting"
+   ],
+   "line_refs": [
+    {
+     "page": 15,
+     "y0": 150.3452,
+     "x0": 311.811,
+     "x1": 506.6406,
+     "y1": 165.8972
+    },
+    {
+     "page": 15,
+     "y0": 163.3412,
+     "x0": 311.811,
+     "x1": 552.1902,
+     "y1": 178.8932
+    },
+    {
+     "page": 15,
+     "y0": 176.3372,
+     "x0": 321.807,
+     "x1": 555.8538,
+     "y1": 191.8892
+    },
+    {
+     "page": 15,
+     "y0": 189.3332,
+     "x0": 321.807,
+     "x1": 499.8354,
+     "y1": 204.8852
+    },
+    {
+     "page": 15,
+     "y0": 202.3292,
+     "x0": 311.811,
+     "x1": 562.9974,
+     "y1": 217.8812
+    },
+    {
+     "page": 15,
+     "y0": 215.3252,
+     "x0": 321.807,
+     "x1": 377.6886,
+     "y1": 230.8772
+    }
+   ],
+   "pages": [
+    15
+   ],
+   "bboxes": [
+    {
+     "page": 15,
+     "x0": 307.81,
+     "y0": 146.35,
+     "x1": 567.0,
+     "y1": 234.88
+    }
+   ],
+   "open_end": true
+  },
+  {
+   "issue": "klosterkurier-2026-02",
+   "page_start": 15,
+   "meeting_date": "21.05.2026",
+   "top": "12",
+   "lines": [
+    "Anfangs wurde über die aktuellen Entwicklungen beim",
+    "Glasfaserausbau im Ortsteil Walchsing informiert. Das",
+    "dort im Jahr 2022 durch die Firma Leonet errichtete Glas-",
+    "fasernetz wird künftig vom Netzbetreiber „Unsere Grüne",
+    "Glasfaser“ (UGG) betrieben, während bestehende Verträ-",
+    "ge mit Leonet weiterhin gültig bleiben.",
+    "UGG bietet nun letztmalig die Möglichkeit eines kosten-",
+    "freien Hausanschlusses für bislang nicht angeschlossene",
+    "Haushalte an. Voraussetzung hierfür ist der Abschluss",
+    "eines Vertrags bis spätestens 30.06.2026. Da Walchsing",
+    "im Rahmen der Bundesförderung bereits als ausgebaut",
+    "gilt und beim künftigen geförderten Ausbau weitgehend",
+    "nicht mehr berücksichtigt wird, empfiehlt die Gemeinde",
+    "den Bürgerinnen und Bürgern, die Möglichkeit eines An-",
+    "schlusses für die zukünftige Versorgung zu nutzen.",
+    "Die Gemeinde Aldersbach ist bestrebt, dass der neue An-",
+    "bieter UGG für die Bürgerinnen und Bürger des Ortsteils",
+    "Walchsing eine Infoveranstaltung abhält."
+   ],
+   "line_refs": [
+    {
+     "page": 15,
+     "y0": 254.3252,
+     "x0": 311.811,
+     "x1": 569.7642,
+     "y1": 269.8772
+    },
+    {
+     "page": 15,
+     "y0": 267.3212,
+     "x0": 311.811,
+     "x1": 569.7606,
+     "y1": 282.8732
+    },
+    {
+     "page": 15,
+     "y0": 280.3172,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 295.8692
+    },
+    {
+     "page": 15,
+     "y0": 293.3132,
+     "x0": 311.811,
+     "x1": 569.7534,
+     "y1": 308.8652
+    },
+    {
+     "page": 15,
+     "y0": 306.3092,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 321.8612
+    },
+    {
+     "page": 15,
+     "y0": 319.3052,
+     "x0": 311.811,
+     "x1": 483.339,
+     "y1": 334.8572
+    },
+    {
+     "page": 15,
+     "y0": 332.3012,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 347.8532
+    },
+    {
+     "page": 15,
+     "y0": 345.2972,
+     "x0": 311.811,
+     "x1": 569.7654,
+     "y1": 360.8492
+    },
+    {
+     "page": 15,
+     "y0": 358.2932,
+     "x0": 311.811,
+     "x1": 569.7606,
+     "y1": 373.8452
+    },
+    {
+     "page": 15,
+     "y0": 371.2892,
+     "x0": 311.811,
+     "x1": 569.7498,
+     "y1": 386.8412
+    },
+    {
+     "page": 15,
+     "y0": 384.2852,
+     "x0": 311.811,
+     "x1": 569.7606,
+     "y1": 399.8372
+    },
+    {
+     "page": 15,
+     "y0": 397.2812,
+     "x0": 311.811,
+     "x1": 569.7594,
+     "y1": 412.8332
+    },
+    {
+     "page": 15,
+     "y0": 410.2772,
+     "x0": 311.811,
+     "x1": 569.7474,
+     "y1": 425.8292
+    },
+    {
+     "page": 15,
+     "y0": 423.2732,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 438.8252
+    },
+    {
+     "page": 15,
+     "y0": 436.2692,
+     "x0": 311.811,
+     "x1": 539.7306,
+     "y1": 451.8212
+    },
+    {
+     "page": 15,
+     "y0": 449.2652,
+     "x0": 311.811,
+     "x1": 569.763,
+     "y1": 464.8172
+    },
+    {
+     "page": 15,
+     "y0": 462.2612,
+     "x0": 311.811,
+     "x1": 569.775,
+     "y1": 477.8132
+    },
+    {
+     "page": 15,
+     "y0": 475.2572,
+     "x0": 311.811,
+     "x1": 495.4638,
+     "y1": 490.8092
+    }
+   ],
+   "pages": [
+    15
+   ],
+   "bboxes": [
+    {
+     "page": 15,
+     "x0": 307.81,
+     "y0": 250.33,
+     "x1": 573.77,
+     "y1": 494.81
+    }
+   ],
+   "open_end": false
+  }
+ ],
+ "warnings": []
+}

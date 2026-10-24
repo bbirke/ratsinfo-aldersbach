@@ -1,0 +1,40 @@
+{
+ "items": 215,
+ "line_fail": [],
+ "quote_fail": [],
+ "fact_fail": [],
+ "topic_fail": [],
+ "empty_field": [],
+ "open_end": [
+  "sources/klosterkurier/klosterkurier-2025-01.pdf#29.01.2025#TOP11-12",
+  "sources/klosterkurier/klosterkurier-2025-01.pdf#29.01.2025#TOP16",
+  "sources/klosterkurier/klosterkurier-2025-01.pdf#19.02.2025#TOP09",
+  "sources/klosterkurier/klosterkurier-2025-01.pdf#19.02.2025#TOP10",
+  "sources/klosterkurier/klosterkurier-2025-02.pdf#17.03.2025#TOP03-04",
+  "sources/klosterkurier/klosterkurier-2025-02.pdf#16.04.2025#TOP02",
+  "sources/klosterkurier/klosterkurier-2025-02.pdf#16.04.2025#TOP09-10",
+  "sources/klosterkurier/klosterkurier-2025-02.pdf#16.04.2025#TOP13-14",
+  "sources/klosterkurier/klosterkurier-2025-02.pdf#19.05.2025#TOP07",
+  "sources/klosterkurier/klosterkurier-2025-03.pdf#25.06.2025#TOP12-16",
+  "sources/klosterkurier/klosterkurier-2025-03.pdf#30.07.2025#TOP03-06",
+  "sources/klosterkurier/klosterkurier-2025-04.pdf#12.11.2025#TOP08-10",
+  "sources/klosterkurier/klosterkurier-2026-01.pdf#28.01.2026#TOP05-07",
+  "sources/klosterkurier/klosterkurier-2026-01.pdf#28.01.2026#TOP09",
+  "sources/klosterkurier/klosterkurier-2026-01.pdf#25.02.2026#TOP3",
+  "sources/klosterkurier/klosterkurier-2026-01.pdf#25.02.2026#TOP13-14",
+  "sources/klosterkurier/klosterkurier-2026-02.pdf#29.04.2026#TOP09-10",
+  "sources/klosterkurier/klosterkurier-2026-02.pdf#21.05.2026#TOP10-11",
+  "sources/klosterkurier/klosterkurier-2026-03.pdf#24.06.2026#TOP10-11",
+  "sources/klosterkurier/klosterkurier-2026-03.pdf#24.06.2026#TOP14",
+  "sources/klosterkurier/klosterkurier-2026-03.pdf#29.07.2026#TOP07-08"
+ ],
+ "summary": {
+  "items": 215,
+  "all_lines_verbatim": 215,
+  "quotes_ok": 215,
+  "facts_ok": 215,
+  "topics_ok": 215,
+  "fully_ok": 215,
+  "open_end": 21
+ }
+}

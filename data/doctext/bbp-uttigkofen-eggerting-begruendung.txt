@@ -1,0 +1,731 @@
+                      Vorentwurf vom 29.01.2025
+                                 zum
+
+
+        Bebauungsplan und Grünordnungsplan
+
+
+
+          GE Uttigkofen-Eggerting
+                      in 94501 Aldersbach
+
+
+
+
+Gemeinde Aldersbach
+
+Landkreis Passau
+
+Reg. Bezirk Niederbayern
+
+
+
+
+                                 Aufgestellt: Aldersbach, 29.01.2025
+
+                                              Ingenieurbüro Straubinger
+
+                                      IB S
+                                              für allg. Bauwesen
+                                              Urbanstraße 7
+                                              94501 Aldersbach
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+Inhaltsverzeichnis
+
+1.    Planungsanlass………………..…………………………………………………….………………………………………………. 3
+     1.1 Anlass der Aufstellung………………………………………........................................................................ 3
+     1.2 Planungsablauf...…………………………………………………………………………………………………………………….3
+     1.3 Planungsziele...……………………………………………………………………………………………………………………….3
+
+2.    Planungsgebiet………………………………………………………………………………………………………………………. 4
+     2.1 Räumliche Übersicht…………………………….……………………………………………………………………………….. 4
+     2.2 Lage.……………………………………..………………………………………………………………………………………………..4
+     2.3 Flächennutzungsplan…………………………………………………………………………...................................... 5
+     2.4 Geltungsbereich…………………………………………………………………………………………………………………….. 8
+     2.4.1 Derzeitige Nutzung…………………….………………………….................................................................8
+     2.4.2 Umgebende Bebauung…………………….………………………….........................................................10
+     2.4.3 Topographie……………………………………………………………………………………………………………………… 10
+     2.4.4 Denkmaldaten………………………………….................................................................................... 11
+
+3.    Überörtliche Planung………...………………………………………………………………………………………………… 12
+     3.1 Landesentwicklungsprogramm Bayern………………………….......................................................... 12
+     3.2 Regionalplan……………..………………………………………………………………………………………………..………. 13
+     3.3 Überschwemmungsgebiete………..……………………………………………………………………………………….. 15
+
+4.    Städtebauliche Nutzung………………………………...…………………………………….……………………………... 16
+     4.1 Art der baulichen Nutzung……….………………………...................................................................... 16
+     4.2 Maß der baulichen Nutzung…..………………………………………….………………………………………………… 16
+     4.3 Bauweise...………………………………………………………………………………………………………………………….. 16
+     4.4 Baugrenze……………………………………………………………………………………………………………………………. 16
+
+5. Erschließung……………………………………………………………………………….…………………………………………. 17
+   5.1 Überörtliche Linien…………….…………………………………………………................................................. 16
+   5.2 Örtliche Erschließung………………………………………………………………………………….……………………….. 17
+   5.2.1 Straße……………………………………………………………………………………………………………………………….. 17
+   5.2.2 Trink-, Brauch- und Löschwasser…………….………………………………………………………………………... 17
+   5.2.3 Entwässerung…………….……………………………………………………………………………………..……………... 17
+   5.2.3.1 Niederschlagswasserbeseitigung…………….…………………………………………………………………..... 17
+   5.2.3.2 Schmutzwasserbeseitigung…………….……………………………………………………………………………... 18
+   5.2.4 Energieversorgung………………………………………………………………………………………………….………… 18
+   5.2.5 Telekommunikation……………………………………………………………………………………………………..…… 18
+
+6.    Grünordnerische Festsetzungen…………………………………...……………………………….………………….…. 19
+     6.1 Erfassen und Bewerten von Natur und Landschaft.…….…………………………………………................19
+     6.1.1 Schutzgut Mensch………………………………………………………………………………..…………………………… 19
+     6.1.2 Schutzgut Arten und Lebensräume………………………………………..……………………………………….… 19
+                                                                                                                         1
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+    6.1.3 Schutzgut Boden…………………………………………………………………………..……………………………..…… 20
+    6.1.4 Schutzgut Wasser……………………………………………………………………..………………………………….…… 20
+    6.1.5 Schutzgut Klima und Luft……………………………………………..…………………………………………………… 20
+    6.1.6 Schutzgut Landschaft………………………………………………………..…………………………………………….… 21
+    6.1.7 Schutzgut Kulturgüter………………………………………………………………………..…………………………..… 21
+
+
+
+
+Abbildungsverzeichnis
+
+Abbildung 1: Übersichtskarte – ohne Maßstab (Quelle: Bayernatlas)..…….………………………..…………….… 4
+Abbildung 2: Luftbild – ohne Maßstab (Quelle: Bayernatlas)……………………………………………………..…….… 5
+Abbildung 3: Auszug aus derzeit rechtskräftigem FNP Aldersbach – ohne Maßstab
+            (Quelle: Gemeinde Aldersbach)…………………………………………………………………………………..….6
+Abbildung 4: Vorentwurf Deckblatt 37 FNP Aldersbach – ohne Maßstab
+            (Quelle: Gemeinde Aldersbach)………...……..…………………….…………………………………………….. 7
+Abbildung 5: Foto 1 – Ansicht Geltungsbereich von Osten (Quelle: IB Straubinger)…………...……………... 8
+Abbildung 6: Foto 2 – Ansicht Geltungsbereich von Süden (Quelle: IB Straubinger)….……………………….. 9
+Abbildung 7: Foto 3 – Ansicht Geltungsbereich von Norden (Quelle: IB Straubinger)………………………….9
+Abbildung 8: 3-D Ansicht Geltungsbereich (Quelle: Bayernatlas)….………………………………………….......... 10
+Abbildung 9: Luftbild mit Darstellung der Bau- und Bodendenkmäler – ohne Maßstab
+            (Quelle: Bayernatlas)……………………………………………………………………………………………..….... 11
+Abbildung 10: LEP Bayern Auszug aus Anhang 2 Strukturkarte – ohne Maßstab
+            (Quelle: Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung
+            und Energie, Stand 15.11.2022)….………………………………………………….……………………….…... 12
+Abbildung 11: Regionalplan Region Donau-Wald (12) Auszug aus Karte Raumstruktur – ohne
+            Maßstab (Quelle: Regionaler Planungsverband Donau-Wald).………………….…………….…... 13
+Abbildung 12: Flurkarte mit Darstellung des festgesetzten Überschwemmungsgebietes –
+            ohne Maßstab (Quelle: Bayernatlas)……………………………………………………………………………. 15
+Abbildung 13: Luftbild mit Darstellung der Biokartierung – ohne Maßstab (Quelle: Bayernatlas)……. 19
+Abbildung 14: Luftbild mit Übersichtsbodenkarte – ohne Maßstab (Quelle: UmweltAtlas Bayern)….. 20
+
+
+
+
+                                                                                                 2
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+1. Planungsanlass
+
+1.1 Anlass der Aufstellung
+
+Zur Sicherstellung einer geordneten städtebaulichen Entwicklung auf der vorbelasteten
+Fläche im Ortsteil Uttigkofen ist die Aufstellung eines Bebauungs- und Grünordnungsplanes
+durch die Gemeinde Aldersbach auf gegenständlicher Fläche beabsichtigt.
+
+Der Geltungsbereich umfasst eine Teilfläche des Flurstückes 1250 der Gemarkung
+Haidenburg und ist ca. 11.884 m² groß.
+
+
+1.2 Planungsablauf
+
+Der Gemeinderat hat in der Sitzung vom 29.01.2025 die Aufstellung der notwendigen
+Bauleitpläne beschlossen.
+
+Ziel der Bauleitplanung ist eine geordnete städtebauliche Entwicklung gem. § 1 Abs. 3
+BauGB.
+
+
+1.3 Planungsziele
+
+Die vorgeprägte Fläche entlang des Sulzbachs wird seit ca. 1900 gewerblich genutzt. Seit den
+Vorkriegsjahren ist das Gelände mit einem Holzsäge- und Hobelwerk bebaut und wird
+seither als Gewerbefläche genutzt.
+
+Nun soll durch die Aufstellung des Bebauungs- und Grünordnungsplanes „GE Uttigkofen-
+Eggerting“ die Bebaubarkeit und Nutzung des Grundstückes gesichert und eine geordnete
+Weiterentwicklung ermöglicht werden.
+
+Da die gegenständliche Fläche bereits seit langer Zeit gewerblich genutzt wird, kann auf
+einen Bedarfsnachweis verzichtet werden.
+
+
+
+
+                                                                                            3
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+2. Planungsgebiet
+
+2.1 Räumliche Übersicht
+
+
+
+
+Abbildung 1: Übersichtskarte - ohne Maßstab (Quelle: Bayernatlas)
+
+
+
+2.2 Lage
+
+Der Geltungsbereich des Bebauungs- und Grünordnungsplanes „GE Uttigkofen-Eggerting”
+befindet sich ca. 5,0 km westlich vom Hauptort Aldersbach und ca. 1,1 km süd-westlich vom
+Zentrum des Ortsteiles Uttigkofen.
+
+Die Fläche liegt zwischen der Staatsstraße St2108, die im Süd-Osten am Geltungsbereich
+vorbeiführt und dem Sulzbach im Nord-Westen.
+Im Süd-Westen grenzt eine vorhandene Bebauung an das Baugrundstück. Im Nord-Osten
+befindet sich die Bebauung des Ortsteiles Uttigkofen, dass durch eine landwirtschaftliche
+Nutzfläche, auf der eine Bebauung zugelassen ist, getrennt wird.
+
+Der Geltungsbereich umfasst eine Teilfläche des Flurstückes 1250 der Gemarkung
+Haidenburg und ist ca. 11.884 m² groß.
+
+
+
+
+                                                                                            4
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+
+Abbildung 2: Luftbild - ohne Maßstab (Quelle: Bayernatlas)
+
+
+
+2.3 Flächennutzungsplan
+
+Der Geltungsbereich ist im derzeit rechtskräftigen Flächennutzungs- und Landschaftsplan
+überwiegend als allgemeine Grünfläche bestimmt. Der Nord-Östliche Randbereich ist
+Bestandteil eines Sondergebietes Golf.
+
+Im Parallelverfahren wird die Änderung des Flächennutzungs- und Landschaftsplanes der
+Gemeinde Aldersbach durch Deckblatt Nr. 37 angestrebt.
+
+Hier wird die Fläche als Gewerbegebiet mit Eingrünung ausgewiesen.
+
+
+
+
+                                                                                          5
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+
+Abbildung 3: Auszug aus derzeit rechtskräftigem FNP Aldersbach – ohne Maßstab
+(Quelle: Gemeinde Aldersbach)
+
+
+
+
+                                                                                6
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+
+Abbildung 4: Vorentwurf Deckblatt 37 FNP Aldersbach – ohne Maßstab
+(Quelle: Gemeinde Aldersbach)
+
+
+
+
+                                                                     7
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+2.4 Geltungsbereich
+
+Für den gegenständlichen Bebauungsplan sind folgende Grundstücke im Geltungsbereich:
+
+        Teilfläche Flur-Nr. 1250, Gemarkung Haidenburg
+
+
+
+Flächenübersicht:
+
+        Geltungsbereich ca. 11.884 m²
+
+
+2.4.1 Derzeitige Nutzung
+
+Das Gesamtgrundstück wird derzeit als Betriebsfläche für einen holzverarbeitenden Betrieb
+genutzt.
+
+Entlang des Sulzbaches, außerhalb des Geltungsbereiches befindet sich ein Säge- und
+Hobelwerk. In diesem Gebäudekomplex ist außerdem ein Wasserkraftwerk installiert.
+
+Die vorhandenen Gebäude im Geltungsbereich dienen zur Unterbringung von Werkstatt-
+und Lagerflächen.
+
+Außerdem liegt im Norden des Grundstückes ein Betriebsleiterwohnhaus mit Büroräumen.
+
+Im Außenbereich sind darüber hinaus Lagerflächen für die Erzeugnisse vorhanden.
+
+
+
+
+Abbildung 5: Foto 1 – Ansicht Geltungsbereich von Osten (Quelle: IB Straubinger)
+
+                                                                                            8
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+
+Abbildung 6: Foto 2 – Ansicht Geltungsbereich von Süden (Quelle: IB Straubinger)
+
+
+
+
+Abbildung 7: Foto 3 – Ansicht Geltungsbereich von Norden (Quelle: IB Straubinger)
+
+
+
+
+                                                                                    9
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+2.4.2 Umgebende Bebauung
+
+Im Norden des Grundstückes befindet sich auf dem Flurstück 1256/3 der Gemarkung
+Haidenburg eine Trafostation.
+
+Auf den Flurstücken 1250/5 und 95/38 jeweils Gemarkung Haidenburg befinden sich, Süd-
+Westlich des Geltungsbereiches, betriebsfremde Lagergebäude.
+
+
+
+
+Abbildung 8: 3-D Ansicht Geltungsbereich (Quelle: Bayernatlas)
+
+
+
+2.4.3 Topographie
+
+Das Planungsgebiet befindet sich an einem nach Nord-Westen geneigten Hang. Der höchste
+Punkt befindet sich im Nord-Osten auf ca. 339,5 m NHN, der tiefste Punkt im Nord-Westen
+auf ca. 334,5 m NHN. Der Höhenunterschied im gesamten Planungsgebiet beträgt somit ca.
+5 m.
+
+Der Geltungsbereich des Bebauungs- und Grünordnungsplanes hat im Süd-Osten eine Breite
+von ca. 140 m, im Süd-Westen von ca. 70 m, im Nord-Westen eine Länge von ca. 150 m und
+im Nord-Osten von ca. 90 m.
+
+Im Planungsgebiet befinden sich weder stehende noch fließende Gewässer.
+
+
+
+
+                                                                                        10
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+2.4.4 Denkmaldaten
+
+
+
+
+Abbildung 9: Luftbild mit Darstellung der Bau- und Bodendenkmäler – ohne Maßstab (Quelle: Bayernatlas)
+
+Auf einem Teilbereich des Geltungsbereiches befindet sich das Bodendenkmal
+Aktennummer D-2-7444-0094.
+
+Aus dem DenkmalAtlas 2.0 des Bayerischen Landesamtes für Denkmalpflege handelt es sich
+hierbei um untertägige, mittelalterliche und frühneuzeitliche Befunde im Bereich des ehem.
+Adelssitzes Eggerting.
+
+
+
+
+                                                                                                         11
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+3. Überörtliche Planung
+
+3.1 Landesentwicklungsprogramm Bayern
+
+
+
+
+Abbildung 10: LEP Bayern Auszug aus Anhang 2 Strukturkarte – ohne Maßstab (Quelle: Bayerisches
+Staatsministerium für Wirtschaft, Landesentwicklung und Energie, Stand 15.11.2022)
+
+
+
+
+                                                                                                 12
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+3.2 Regionalplan
+
+Die Gemeinde Aldersbach befindet sich im Bereich der Region Donau-Wald (12).
+
+
+
+
+Abbildung 11: Regionalplan Region Donau-Wald (12) Auszug aus Karte Raumstruktur – ohne Maßstab
+(Quelle: Regionaler Planungsverband Donau-Wald)
+
+Aldersbach bildet ein Unterzentrum und liegt im ländlichen Teilraum, dessen Entwicklung in
+besonderem Maße gestärkt werden soll.
+
+Folgende Grundsätze und Ziele sieht der Regionalplan für diese Gebiete vor:
+
+2           Regionale Wirtschaftsstruktur / Standortentwicklung
+2.1 (Z)     Im zunehmenden Standortwettbewerb um Fachkräfte, Investitionen und Wissen
+            soll die Region Donau-Wald in allen Teilräumen als attraktiver, leistungsfähiger
+            und innovativer Wirtschaftsraum gestärkt und gesichert werden.
+
+     (G)    Hierzu ist es von besonderer Bedeutung, dass zum Ausgleich des innerregionalen
+            Strukturgefälles, insbesondere im ländlichen Teilraum, dessen Entwicklung in
+            besonderem Maße gestärkt werden soll, qualifizierte und saisonunabhängige
+            Arbeitsplätze gesichert und geschaffen werden.
+
+     (G)    Es ist anzustreben, dass die Stadt- und Umlandbereiche im ländlichen Raum
+            (Deggendorf/Plattling, Passau, Straubing) in ihrer Funktion als wirtschaftliche
+            Impulsgeber für die Region weiter gestärkt und ausgebaut werden.
+
+                                                                                                 13
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+2.2 (Z)     Zur Stabilisierung der wirtschaftlichen Entwicklung und zur Weiterentwicklung
+            des Wirtschaftsstandortes soll in der Region eine möglichst ausgewogene
+            Betriebsgrößen- und Branchenstruktur im Produzierenden Gewerbe und in den
+            Dienstleistungsbereichen angestrebt werden.
+
+     (G)    Dabei hat die Bestandspflege und Neuansiedelung klein- und mittelständischer
+            Betriebe in Industrie, Handwerk, Handel und Dienstleistungsgewerbe besondere
+            Bedeutung.
+
+     (Z)    Noch vorhandene Defizite hinsichtlich der wirtschaftsnahen Infrastruktur, die als
+            Standorthemmnisse wirken können, sollen zügig beseitigt werden.
+
+     (G)    Hierbei ist insbesondere auf den Aufbau einer leistungsfähigen
+            Breitbandinfrastruktur in der Region hinzuwirken.
+
+2.3 (G)     Zur Unterstützung von Existenzgründungen ist darauf hinzuwirken, dass ein Netz
+            von Technologie- und Gründerzentren in der Region aufgebaut und unterhalten
+            wird. In der Region ist ein gründerfreundliches Klima anzustreben.
+
+3           Industrie und Handwerk (Z) (G) (G) (G)
+3.1 (Z)     In der gesamten Region soll die Leistungsfähigkeit von Industrie und Handwerk
+            erhalten und weiterentwickelt werden.
+
+     (G)    Hierzu ist es u. a. von besonderer Bedeutung, dass
+            - die erforderlichen Anpassungen an den Strukturwandel unterstützt,
+            - die wirtschaftsnahe Infrastruktur weiter ausgebaut und
+            - bedarfsorientiert Industrie- und Gewerbegebiete an geeigneten Standorten
+                zur Verfügung gestellt werden.
+
+3.2 (G)     Es ist anzustreben, dass an geeigneten Standorten die günstigen infrastruk-
+            turellen Voraussetzungen der vorhandenen Bandinfrastruktureinrichtungen für
+            industriell-gewerbliche Vorhaben genutzt werden.
+
+
+
+
+                                                                                            14
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+3.3 Überschwemmungsgebiete
+
+
+
+
+Abbildung 12: Flurkarte mit Darstellung des festgesetzten Überschwemmungsgebietes – ohne Maßstab
+(Quelle: Bayernatlas)
+
+Entlang des Sulzbaches wurde ein Überschwemmungsgebiet amtlich festgesetzt.
+
+Dies befindet sich teilweise noch auf dem Flurstück 1250 der Gemarkung Haidenburg, jedoch
+außerhalb des Geltungsbereiches des Bebauungs- und Grünordnungsplanes.
+
+Starkregenereignisse können, vor allem im Hinblick auf die prognostizierte Klimaänderung,
+an Häufigkeit und Intensität zunehmen. Zur Vorsorge wurde durch das Bundesministerium
+für Wohnen, Stadtentwicklung und Bauwesen eine Hochwasserschutzfibel herausgegeben,
+dessen Vorgaben bei der Planung Berücksichtigung finden sollten. Ein entsprechender
+Hinweis wurde im Bebauungs- und Grünordnungsplan aufgeführt.
+
+
+
+
+                                                                                                   15
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+4. Städtebauliche Nutzung
+
+4.1 Art der baulichen Nutzung
+
+Der Geltungsbereich wird als Gewerbegebiet gem. § 8 Abs. 1-2 BauNVO ausgewiesen.
+
+Darüber hinaus werden gem. § 8 Abs. 3 BauNVO Wohnungen für Aufsichts- und
+Bereitschaftspersonal sowie für Betriebsinhaber und Betriebsleiter zugelassen. Diese
+Bebauung muss jedoch dem Gewerbebetrieb zugeordnet und ihm gegenüber in Grundfläche
+und Baumasse untergeordnet sein.
+
+Somit wird der vorhandenen Bebauung Rechnung getragen.
+
+4.2 Maß der baulichen Nutzung
+
+Die Orientierungswerte für die Bestimmung des Maßes der baulichen Nutzung gem. § 17
+BauNVO werden bei der Grundflächenzahl (GRZ) von 0,8 eingehalten, bei der
+Geschossflächenzahl (GFZ) von 2,0 geringfügig unterschritten.
+
+In Anbetracht der Lage des Gewerbegebietes und der vorhandenen Bebauung wird eine
+maximale Wandhöhe von 8,0 m bei maximal 2 Geschossen festgesetzt.
+
+Die Wandhöhe kann durch Dachaufbauten überschritten werden, wenn diese um
+mindestens das Maß ihrer Höhe gegenüber der Gebäudeaußenkante zurückversetzt sind.
+
+Außerdem werden Stützmauern mit einer maximalen Höhe von 1,20 m zum natürlichen
+Geländeverlauf zugelassen.
+
+
+4.3 Bauweise
+
+Es wird eine abweichende Bauweise gem. § 22 Abs. 4 BauNVO festgesetzt, die der offenen
+Bauweise entspricht, jedoch darf die Länge der Hausformen über 50 m betragen.
+
+Die Gebäudelänge von Gewerbebauten erfordert diese Abweichung.
+
+
+4.4 Baugrenze
+
+Zur Festsetzung der überbaubaren Grundstücksfläche wurde die Baugrenze definiert. Gerade
+im Gewerbebau ist eine große Flexibilität bei der Gebäudestellung erfoderlich.
+
+
+
+
+                                                                                         16
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+5. Erschließung
+
+5.1 Überörtliche Linien
+
+Das Plangebiet wird bereits aktuell über die Staatsstraße St 2108 (Emmersdorfer Straße)
+erschlossen. Durch diesen Anschluss ist eine Anbindung an das überörtliche Straßennetz
+gegeben.
+
+
+5.2 Örtliche Erschließung
+
+5.2.1 Straße
+
+Durch die bestehenden Grundstückszufahrten ist der Geltungsbereich bereits jetzt an die
+Staatsstraße St 2108 angebunden. Änderungen bei den Zufahrten sind nicht angedacht.
+
+Die Zufahrt zu den vorhandenen und später geplanten Gebäuden muss über private Straßen
+und Wege im Planungsbereich erfolgen.
+
+
+5.2.2 Trink-, Brauch- und Löschwasser
+
+Die bestehenden Gebäude sind bereits jetzt mit einer Trinkwasserleitung an das öffentliche
+Trinkwassernetz der Gemeinde Aldersbach angeschlossen. Somit ist die ausreichende
+Versorgung sichergestellt.
+
+Löschwasserhydranten werden in Abstimmung mit der örtlichen Feuerwehr angeordnet. Es
+sind hierbei die DVGW-Arbeitsblätter W 405 – Bereitstellung von Löschwasser durch die
+öffentliche Trinkwasserversorgung und W 331 – Auswahl, Einbau und Betrieb von Hydranten
+zu beachten.
+
+
+5.2.3 Entwässerung
+
+Für das gegenständliche Baugebiet ist eine, den allgemein anerkannten Regeln der Technik
+entsprechende, Abwasserentsorgung vorgesehen.
+
+Die Entwässerung des Plangebietes erfolgt im Trennsystem.
+
+
+5.2.3.1 Niederschlagswasserbeseitigung
+
+In den Textlichen Festsetzungen zum Bebauungsplan wird der Umgang mit dem anfallenden
+Niederschlagswasser geregelt.
+
+Die dort aufgeführten Regelungen sind zu beachten.
+
+                                                                                           17
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+5.2.3.2 Schmutzwasserbeseitigung
+
+Im Baubereich ist bereits ein öffentlicher Schmutzwasserkanal vorhanden. Dieser stellt den
+Anschluss an die Kläranlage Aldersbach und somit die geordnete Ableitung des anfallenden
+Schmutzwassers sicher.
+
+
+5.2.4 Energieversorgung
+
+Die Stromversorgung des Gebietes ist durch Anschluss an das bestehende Versorgungsnetz
+der Bayernwerk Netz GmbH sichergestellt.
+
+Bei Baumaßnahmen sind die Leitungstrassen zu berücksichtigen.
+
+
+5.2.5 Telekommunikation
+
+Der Anschluss an die bestehende Telekommunikationsversorgung durch die Telekom
+Deutschland GmbH ist sichergestellt.
+
+Bei Baumaßnahmen sind die Leitungstrassen zu berücksichtigen.
+
+
+
+
+                                                                                         18
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+6. Grünordnerische Festsetzungen
+
+6.1 Erfassen und Bewerten von Natur und Landschaft
+
+6.1.1 Schutzgut Mensch
+
+Der Geltungsbereich des Bebauungs- und Grünordnungsplanes wird aktuell schon als
+Betriebsgelände genutzt. Es ergeben sich hier keine Änderungen.
+
+
+6.1.2 Schutzgut Arten und Lebensräume
+
+Die Flora und Fauna entspricht der eines Gewerbebetriebes.
+
+Im Planungsgebiet befinden sich keine amtlich kartierten Biotope.
+
+
+
+
+Abbildung 13: Luftbild mit Darstellung der Biokartierung – ohne Maßstab (Quelle: Bayernatlas)
+
+Jedoch schließt im Westen in unmittelbarer Nähe das Biotop Nr. 7444-0002-005 an. Hierbei
+handelt es sich um einen Gehölzsaum und Bachaue am Sulzbach von Freundorf-Nord bis
+Eggerting.
+
+Dieses Biotop bleibt von den Planungen unberührt.
+
+                                                                                                19
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+6.1.3 Schutzgut Boden
+
+
+
+
+Abbildung 14: Luftbild mit Übersichtsbodenkarte – ohne Maßstab (Quelle: UmweltAtlas Bayern)
+
+Zeichenerklärung:
+
+ 8a: Fast ausschließlich Braunerde aus Sandlehm bis Schluffton (Molasse, Lösslehm)
+
+ 76b: Bodenkomplex: Gleye und andere grundwasserbeeinflusste Böden aus
+ (skelettführendem) Schluff bis Lehm, selten aus Ton (Talsediment)
+
+Durch die gegenwärtige Nutzung ergeben sich keine Veränderungen zum Bestand.
+
+
+6.1.4 Schutzgut Wasser
+
+Im Planungsgebiet befindet sich kein Gewässer. Der nahe Sulzbach fließt im Westen am
+Geltungsbereich des Bebauungs- und Grünordnungsplanes vorbei.
+
+Es ergeben sich keine Änderungen.
+
+
+6.1.5 Schutzgut Klima und Luft
+
+Das Planungsgebiet liegt in keiner Frischluftschneise.
+
+Durch die Bebauung wird der Luftaustausch nicht beeinträchtigt.
+
+
+
+                                                                                              20
+BEGRÜNDUNG
+Bebauungs- und Grünordnungsplan GE Uttigkofen-Eggerting
+Vorentwurf vom 29.01.2025
+
+
+
+
+6.1.6 Schutzgut Landschaft
+
+Auf Grund der Vornutzung des Planungsgebietes ergeben sich keine Veränderungen auf die
+Landschaft.
+
+
+6.1.7 Schutzgut Kulturgüter
+
+s. hierzu die Ausführungen unter 2.4.4.
+
+
+
+
+                                                                                     21
+

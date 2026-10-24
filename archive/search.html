@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en" data-root="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search - Ratsinfo-Archiv Aldersbach</title>
+<meta name="description" content="Full-text search across all council decisions.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="assets/wappen-aldersbach.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/style.css">
+<script>try{var t=localStorage.getItem("ba-theme");if(t)document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+<script src="assets/app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="wrap bar"><a class="brand" href="index.html" aria-label="Ratsinfo-Archiv Aldersbach, home"><img class="brand-mark" src="assets/wappen-aldersbach.svg" alt="" width="30" height="33"><span class="brand-text"><strong>Ratsinfo-Archiv</strong><span>Gemeinderat Aldersbach</span></span></a><nav class="mainnav" aria-label="Main"><a href="meetings/index.html">Meetings</a><a href="topics/index.html">Topics</a><a href="verlaeufe/index.html">Dossiers</a><a href="decisions/index.html">Decisions</a><a href="documents.html">Documents</a><a href="map.html">Map</a><a href="about.html">About</a></nav><form class="omni" role="search" action="search.html" method="get"><label class="omni-field"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span class="sr-only">Search the archive</span><input id="gq" name="q" type="search" autocomplete="off" spellcheck="false" placeholder="Search the archive" value="" role="combobox" aria-expanded="false" aria-controls="gq-pop" aria-autocomplete="list"><kbd>/</kbd></label><div class="omni-pop" id="gq-pop" role="listbox" hidden></div></form><button class="icon-btn theme-btn" type="button" aria-label="Colour theme"><svg class="" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"/></svg></button></div></header>
+<main id="main" class="wrap">
+
+<div id="search-page" class="search-page">
+<p class="eyebrow">Search</p>
+<h1>Search all decisions</h1>
+<form class="hero-search" role="search" data-local>
+<label class="omni-field"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span class="sr-only">Search terms</span>
+<input id="sq" name="q" type="search" autocomplete="off" spellcheck="false" placeholder="e.g. Walchsing, 447/7, Kindergarten, 30.07.2025"></label>
+<button class="btn primary" type="submit">Search</button></form>
+<div class="filters">
+<select class="select" id="f-topic" aria-label="Topic"><option value="">All topics</option></select>
+<select class="select" id="f-year" aria-label="Year"><option value="">All years</option></select>
+<select class="select" id="f-kind" aria-label="Decision kind"><option value="">All decision kinds</option></select>
+<select class="select" id="f-sort" aria-label="Sort"><option value="date">Newest first</option><option value="relevance">Best match</option></select>
+<span class="count" id="count" aria-live="polite">Loading index...</span></div>
+<div id="results"></div>
+<noscript><div class="card"><p>Search needs JavaScript. Without it, use <a href="all-items.html">all items on one page</a> and your browser's find.</p></div></noscript>
+</div>
+</main>
+<footer class="site-footer"><div class="wrap cols">
+<div><h2>Ratsinfo-Archiv Aldersbach</h2>
+<p>An independent citizen archive of the decisions of the Gemeinderat Aldersbach (Landkreis Passau),
+reconstructed from the municipal newsletter "Aldersbacher Klosterkurier" and documents from aldersbach.de.
+Not an official publication. English summaries; German source text always verbatim.</p>
+<p>215 agenda items from 20 meetings, 12.12.2024 to 02.09.2026 &middot; built 24.10.2026</p></div>
+<div><h2>Browse</h2><ul>
+<li><a href="meetings/index.html">Meetings</a></li><li><a href="topics/index.html">Topics</a></li>
+<li><a href="verlaeufe/index.html">Dossiers</a></li><li><a href="decisions/index.html">All decisions</a></li>
+<li><a href="documents.html">Documents</a></li></ul></div>
+<div><h2>Reference</h2><ul>
+<li><a href="search.html">Search</a></li><li><a href="glossary.html">Glossary</a></li>
+<li><a href="about.html">About &amp; methodology</a></li>
+<li><a href="all-items.html">Everything on one page</a></li></ul></div>
+</div></footer>
+</body>
+</html>

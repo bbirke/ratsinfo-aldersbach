@@ -1,0 +1,1014 @@
+[
+ {
+  "name": "Aldersbach",
+  "count": 80,
+  "items": [
+   "12.12.2024 TOP 03",
+   "12.12.2024 TOP 04",
+   "12.12.2024 TOP 07",
+   "29.01.2025 TOP 02",
+   "29.01.2025 TOP 04-05",
+   "29.01.2025 TOP 09-10"
+  ]
+ },
+ {
+  "name": "Pörndorf",
+  "count": 21,
+  "items": [
+   "19.02.2025 TOP 03-05",
+   "17.03.2025 TOP 03-04",
+   "16.04.2025 TOP 09-10",
+   "16.04.2025 TOP 17",
+   "16.04.2025 TOP 18",
+   "25.06.2025 TOP 07-08"
+  ]
+ },
+ {
+  "name": "Walchsing",
+  "count": 19,
+  "items": [
+   "12.12.2024 TOP 08",
+   "29.01.2025 TOP 17",
+   "19.02.2025 TOP 11-12",
+   "19.02.2025 TOP 15",
+   "16.04.2025 TOP 09-10",
+   "16.04.2025 TOP 13-14"
+  ]
+ },
+ {
+  "name": "Kriestorf",
+  "count": 12,
+  "items": [
+   "29.01.2025 TOP 01",
+   "29.01.2025 TOP 11-12",
+   "10.09.2025 TOP 10",
+   "16.10.2025 TOP 02",
+   "12.11.2025 TOP 01",
+   "12.11.2025 TOP 08-10"
+  ]
+ },
+ {
+  "name": "Haidenburg",
+  "count": 10,
+  "items": [
+   "19.02.2025 TOP 02",
+   "19.05.2025 TOP 08",
+   "10.09.2025 TOP 7",
+   "12.11.2025 TOP 03",
+   "12.11.2025 TOP 06",
+   "12.11.2025 TOP 11"
+  ]
+ },
+ {
+  "name": "Uttigkofen",
+  "count": 9,
+  "items": [
+   "12.12.2024 TOP 02",
+   "29.01.2025 TOP 09-10",
+   "19.02.2025 TOP 02",
+   "19.05.2025 TOP 08",
+   "30.07.2025 TOP 01",
+   "30.07.2025 TOP 03-06"
+  ]
+ },
+ {
+  "name": "Edelsbrunn",
+  "count": 8,
+  "items": [
+   "29.01.2025 TOP 04-05",
+   "16.04.2025 TOP 04-05",
+   "30.07.2025 TOP 09",
+   "30.07.2025 TOP 11",
+   "10.09.2025 TOP 8",
+   "12.11.2025 TOP 04-05"
+  ]
+ },
+ {
+  "name": "Aidenbach",
+  "count": 7,
+  "items": [
+   "16.04.2025 TOP 02",
+   "25.06.2025 TOP 02",
+   "28.01.2026 TOP 02",
+   "24.06.2026 TOP 08",
+   "24.06.2026 TOP 14",
+   "29.07.2026 TOP 07-08"
+  ]
+ },
+ {
+  "name": "Vilshofen",
+  "count": 6,
+  "items": [
+   "12.12.2024 TOP 01",
+   "12.12.2024 TOP 03",
+   "29.01.2025 TOP 13",
+   "30.07.2025 TOP 08",
+   "30.07.2025 TOP 12",
+   "25.02.2026 TOP 10"
+  ]
+ },
+ {
+  "name": "Freundorf",
+  "count": 6,
+  "items": [
+   "12.12.2024 TOP 02",
+   "17.03.2025 TOP 03-04",
+   "16.10.2025 TOP 01",
+   "24.06.2026 TOP 05",
+   "29.07.2026 TOP 09",
+   "02.09.2026 TOP 05"
+  ]
+ },
+ {
+  "name": "Schwaig X",
+  "count": 5,
+  "items": [
+   "29.01.2025 TOP 06",
+   "25.06.2025 TOP 05",
+   "10.09.2025 TOP 9",
+   "24.06.2026 TOP 02",
+   "02.09.2026 TOP 04"
+  ]
+ },
+ {
+  "name": "Pleinting",
+  "count": 4,
+  "items": [
+   "12.12.2024 TOP 05",
+   "17.03.2025 TOP 05",
+   "30.07.2025 TOP 12",
+   "29.07.2026 TOP 12"
+  ]
+ },
+ {
+  "name": "Ortskern Aldersbach",
+  "count": 4,
+  "items": [
+   "29.01.2025 TOP 07",
+   "29.01.2025 TOP 08",
+   "16.10.2025 TOP 10-11",
+   "11.12.2025 TOP 05"
+  ]
+ },
+ {
+  "name": "Pirach",
+  "count": 3,
+  "items": [
+   "12.12.2024 TOP 05",
+   "17.03.2025 TOP 05",
+   "29.07.2026 TOP 12"
+  ]
+ },
+ {
+  "name": "Neustift",
+  "count": 3,
+  "items": [
+   "16.04.2025 TOP 03",
+   "16.04.2025 TOP 13-14",
+   "19.05.2025 TOP 05-06"
+  ]
+ },
+ {
+  "name": "Vilshofen an der Donau",
+  "count": 3,
+  "items": [
+   "19.05.2025 TOP 04",
+   "25.06.2025 TOP 10-11",
+   "16.10.2025 TOP 12"
+  ]
+ },
+ {
+  "name": "Umspannwerk",
+  "count": 3,
+  "items": [
+   "25.06.2025 TOP 07-08",
+   "16.10.2025 TOP 09",
+   "25.02.2026 TOP 15"
+  ]
+ },
+ {
+  "name": "Passau",
+  "count": 3,
+  "items": [
+   "10.09.2025 TOP 5",
+   "21.05.2026 TOP 06",
+   "24.06.2026 TOP 01"
+  ]
+ },
+ {
+  "name": "Gumperting",
+  "count": 3,
+  "items": [
+   "25.03.2026 TOP 06",
+   "21.05.2026 TOP 10-11",
+   "29.07.2026 TOP 07-08"
+  ]
+ },
+ {
+  "name": "Aldersbach Nord",
+  "count": 2,
+  "items": [
+   "29.01.2025 TOP 03",
+   "16.04.2025 TOP 06"
+  ]
+ },
+ {
+  "name": "Kloster Aldersbach",
+  "count": 2,
+  "items": [
+   "29.01.2025 TOP 17",
+   "19.02.2025 TOP 01"
+  ]
+ },
+ {
+  "name": "SO Energie – Batteriespeicheranlage am Umspannwerk",
+  "count": 2,
+  "items": [
+   "19.02.2025 TOP 03-05",
+   "16.10.2025 TOP 07-08"
+  ]
+ },
+ {
+  "name": "Wetzstein",
+  "count": 2,
+  "items": [
+   "19.02.2025 TOP 06-07",
+   "16.04.2025 TOP 03"
+  ]
+ },
+ {
+  "name": "Landkreis Passau",
+  "count": 2,
+  "items": [
+   "19.02.2025 TOP 08",
+   "25.02.2026 TOP 12"
+  ]
+ },
+ {
+  "name": "Roßbach",
+  "count": 2,
+  "items": [
+   "16.04.2025 TOP 02",
+   "19.05.2025 TOP 03"
+  ]
+ },
+ {
+  "name": "Bad Birnbach",
+  "count": 2,
+  "items": [
+   "25.06.2025 TOP 01",
+   "28.01.2026 TOP 03"
+  ]
+ },
+ {
+  "name": "Uttigkofen-Haidenburg",
+  "count": 2,
+  "items": [
+   "30.07.2025 TOP 7",
+   "10.09.2025 TOP 11"
+  ]
+ },
+ {
+  "name": "St. Peter",
+  "count": 2,
+  "items": [
+   "30.07.2025 TOP 12",
+   "10.09.2025 TOP 9"
+  ]
+ },
+ {
+  "name": "Dorfanger",
+  "count": 2,
+  "items": [
+   "10.09.2025 TOP 9",
+   "11.12.2025 TOP 05"
+  ]
+ },
+ {
+  "name": "Gemarkung Haidenburg",
+  "count": 2,
+  "items": [
+   "12.11.2025 TOP 11",
+   "29.07.2026 TOP 11"
+  ]
+ },
+ {
+  "name": "ILE Klosterwinkel",
+  "count": 2,
+  "items": [
+   "28.01.2026 TOP 03",
+   "24.06.2026 TOP 04"
+  ]
+ },
+ {
+  "name": "Gaimersheim",
+  "count": 2,
+  "items": [
+   "25.02.2026 TOP 1",
+   "29.07.2026 TOP 06"
+  ]
+ },
+ {
+  "name": "Robert-Daiser-Straße",
+  "count": 2,
+  "items": [
+   "21.05.2026 TOP 07",
+   "02.09.2026 TOP 02"
+  ]
+ },
+ {
+  "name": "Abt-Zanker-Straße",
+  "count": 2,
+  "items": [
+   "24.06.2026 TOP 02",
+   "02.09.2026 TOP 04"
+  ]
+ },
+ {
+  "name": "Cham",
+  "count": 2,
+  "items": [
+   "24.06.2026 TOP 02",
+   "02.09.2026 TOP 04"
+  ]
+ },
+ {
+  "name": "ST 2108",
+  "count": 1,
+  "items": [
+   "12.12.2024 TOP 02"
+  ]
+ },
+ {
+  "name": "Vilshofen-Alkofen",
+  "count": 1,
+  "items": [
+   "12.12.2024 TOP 02"
+  ]
+ },
+ {
+  "name": "GE Linda",
+  "count": 1,
+  "items": [
+   "12.12.2024 TOP 03"
+  ]
+ },
+ {
+  "name": "Hengersberg",
+  "count": 1,
+  "items": [
+   "29.01.2025 TOP 02"
+  ]
+ },
+ {
+  "name": "Volksfestplatz",
+  "count": 1,
+  "items": [
+   "29.01.2025 TOP 08"
+  ]
+ },
+ {
+  "name": "Eggerting",
+  "count": 1,
+  "items": [
+   "29.01.2025 TOP 09-10"
+  ]
+ },
+ {
+  "name": "SO Solarpark Dorf II",
+  "count": 1,
+  "items": [
+   "29.01.2025 TOP 13"
+  ]
+ },
+ {
+  "name": "Osterhofen",
+  "count": 1,
+  "items": [
+   "29.01.2025 TOP 14"
+  ]
+ },
+ {
+  "name": "SO Photovoltaikpark Wetzstein",
+  "count": 1,
+  "items": [
+   "19.02.2025 TOP 06-07"
+  ]
+ },
+ {
+  "name": "Waldstadion",
+  "count": 1,
+  "items": [
+   "19.02.2025 TOP 14"
+  ]
+ },
+ {
+  "name": "Moos",
+  "count": 1,
+  "items": [
+   "17.03.2025 TOP 05"
+  ]
+ },
+ {
+  "name": "Hofkirchen",
+  "count": 1,
+  "items": [
+   "16.04.2025 TOP 02"
+  ]
+ },
+ {
+  "name": "Iggensbach",
+  "count": 1,
+  "items": [
+   "16.04.2025 TOP 04-05"
+  ]
+ },
+ {
+  "name": "So Photovoltaikpark Edelsbrunn",
+  "count": 1,
+  "items": [
+   "16.04.2025 TOP 04-05"
+  ]
+ },
+ {
+  "name": "Aldersbach-Nord",
+  "count": 1,
+  "items": [
+   "16.04.2025 TOP 08"
+  ]
+ },
+ {
+  "name": "Adenberg",
+  "count": 1,
+  "items": [
+   "16.04.2025 TOP 11"
+  ]
+ },
+ {
+  "name": "Hinteröd",
+  "count": 1,
+  "items": [
+   "16.04.2025 TOP 12"
+  ]
+ },
+ {
+  "name": "Industrie- und Gewerbegebiet Esterndorf",
+  "count": 1,
+  "items": [
+   "19.05.2025 TOP 03"
+  ]
+ },
+ {
+  "name": "Warbachweg",
+  "count": 1,
+  "items": [
+   "19.05.2025 TOP 04"
+  ]
+ },
+ {
+  "name": "Seier",
+  "count": 1,
+  "items": [
+   "19.05.2025 TOP 07"
+  ]
+ },
+ {
+  "name": "Dietmar-von-Ayst-Straße",
+  "count": 1,
+  "items": [
+   "25.06.2025 TOP 03"
+  ]
+ },
+ {
+  "name": "Schaltbau",
+  "count": 1,
+  "items": [
+   "25.06.2025 TOP 03"
+  ]
+ },
+ {
+  "name": "Hiendlöd",
+  "count": 1,
+  "items": [
+   "25.06.2025 TOP 06"
+  ]
+ },
+ {
+  "name": "Unterfeld",
+  "count": 1,
+  "items": [
+   "25.06.2025 TOP 10-11"
+  ]
+ },
+ {
+  "name": "Lindahof III",
+  "count": 1,
+  "items": [
+   "25.06.2025 TOP 10-11"
+  ]
+ },
+ {
+  "name": "Reit",
+  "count": 1,
+  "items": [
+   "25.06.2025 TOP 12-16"
+  ]
+ },
+ {
+  "name": "Wifling",
+  "count": 1,
+  "items": [
+   "25.06.2025 TOP 12-16"
+  ]
+ },
+ {
+  "name": "Schartnergasse",
+  "count": 1,
+  "items": [
+   "30.07.2025 TOP 01"
+  ]
+ },
+ {
+  "name": "Eggersdorfer Straße",
+  "count": 1,
+  "items": [
+   "30.07.2025 TOP 01"
+  ]
+ },
+ {
+  "name": "Sulzbach",
+  "count": 1,
+  "items": [
+   "30.07.2025 TOP 01"
+  ]
+ },
+ {
+  "name": "Vilsfeld",
+  "count": 1,
+  "items": [
+   "30.07.2025 TOP 08"
+  ]
+ },
+ {
+  "name": "SO Photovoltaikpark Edelsbrunn",
+  "count": 1,
+  "items": [
+   "30.07.2025 TOP 09"
+  ]
+ },
+ {
+  "name": "Prienbach",
+  "count": 1,
+  "items": [
+   "30.07.2025 TOP 12"
+  ]
+ },
+ {
+  "name": "Stubenberg",
+  "count": 1,
+  "items": [
+   "30.07.2025 TOP 12"
+  ]
+ },
+ {
+  "name": "Simbach",
+  "count": 1,
+  "items": [
+   "30.07.2025 TOP 12"
+  ]
+ },
+ {
+  "name": "Brauereiparkplatz",
+  "count": 1,
+  "items": [
+   "10.09.2025 TOP 3"
+  ]
+ },
+ {
+  "name": "Kramersepp",
+  "count": 1,
+  "items": [
+   "10.09.2025 TOP 4"
+  ]
+ },
+ {
+  "name": "Weng-Weidfeld",
+  "count": 1,
+  "items": [
+   "10.09.2025 TOP 4"
+  ]
+ },
+ {
+  "name": "Schöfbachstraße",
+  "count": 1,
+  "items": [
+   "10.09.2025 TOP 4"
+  ]
+ },
+ {
+  "name": "Vivilo-/ Urbanstraße",
+  "count": 1,
+  "items": [
+   "10.09.2025 TOP 4"
+  ]
+ },
+ {
+  "name": "Mondseestraße",
+  "count": 1,
+  "items": [
+   "10.09.2025 TOP 4"
+  ]
+ },
+ {
+  "name": "„Waldschule“",
+  "count": 1,
+  "items": [
+   "10.09.2025 TOP 4"
+  ]
+ },
+ {
+  "name": "„St. Peter“",
+  "count": 1,
+  "items": [
+   "10.09.2025 TOP 4"
+  ]
+ },
+ {
+  "name": "„Schwaig“",
+  "count": 1,
+  "items": [
+   "10.09.2025 TOP 4"
+  ]
+ },
+ {
+  "name": "Sagmeistergarten",
+  "count": 1,
+  "items": [
+   "10.09.2025 TOP 9"
+  ]
+ },
+ {
+  "name": "Bahnhofsstraße",
+  "count": 1,
+  "items": [
+   "10.09.2025 TOP 9"
+  ]
+ },
+ {
+  "name": "Witzmannsberg",
+  "count": 1,
+  "items": [
+   "16.10.2025 TOP 01"
+  ]
+ },
+ {
+  "name": "Aldersbach-Kollberg",
+  "count": 1,
+  "items": [
+   "16.10.2025 TOP 02"
+  ]
+ },
+ {
+  "name": "Neuhaus/Inn",
+  "count": 1,
+  "items": [
+   "16.10.2025 TOP 03"
+  ]
+ },
+ {
+  "name": "Deckblatt Nr. 35",
+  "count": 1,
+  "items": [
+   "16.10.2025 TOP 07-08"
+  ]
+ },
+ {
+  "name": "WA am Zeitlarner Berg II",
+  "count": 1,
+  "items": [
+   "16.10.2025 TOP 12"
+  ]
+ },
+ {
+  "name": "Rindellohbachbrücke",
+  "count": 1,
+  "items": [
+   "12.11.2025 TOP 01"
+  ]
+ },
+ {
+  "name": "Apostelbrücke",
+  "count": 1,
+  "items": [
+   "12.11.2025 TOP 01"
+  ]
+ },
+ {
+  "name": "Fürstenzell",
+  "count": 1,
+  "items": [
+   "12.11.2025 TOP 01"
+  ]
+ },
+ {
+  "name": "Uttigkofen-Eggerting",
+  "count": 1,
+  "items": [
+   "12.11.2025 TOP 06"
+  ]
+ },
+ {
+  "name": "Heinrichsdorf",
+  "count": 1,
+  "items": [
+   "12.11.2025 TOP 08-10"
+  ]
+ },
+ {
+  "name": "Zisterzienserstraße",
+  "count": 1,
+  "items": [
+   "12.11.2025 TOP 17"
+  ]
+ },
+ {
+  "name": "Wettmannstätten",
+  "count": 1,
+  "items": [
+   "11.12.2025 TOP 01"
+  ]
+ },
+ {
+  "name": "Sankt Peter",
+  "count": 1,
+  "items": [
+   "11.12.2025 TOP 10"
+  ]
+ },
+ {
+  "name": "Bebauungsplanes „Alter Sportplatz“",
+  "count": 1,
+  "items": [
+   "28.01.2026 TOP 02"
+  ]
+ },
+ {
+  "name": "Deponie Hiendlöd",
+  "count": 1,
+  "items": [
+   "28.01.2026 TOP 08"
+  ]
+ },
+ {
+  "name": "Kläranlage",
+  "count": 1,
+  "items": [
+   "25.02.2026 TOP 7"
+  ]
+ },
+ {
+  "name": "Stocköder Straße",
+  "count": 1,
+  "items": [
+   "25.02.2026 TOP 8"
+  ]
+ },
+ {
+  "name": "Emmersdorfer Straße",
+  "count": 1,
+  "items": [
+   "25.02.2026 TOP 9"
+  ]
+ },
+ {
+  "name": "Mühldorferöd",
+  "count": 1,
+  "items": [
+   "25.02.2026 TOP 10"
+  ]
+ },
+ {
+  "name": "Ritter-Tuschl-Straße",
+  "count": 1,
+  "items": [
+   "29.04.2026 TOP 01"
+  ]
+ },
+ {
+  "name": "Passauer Land",
+  "count": 1,
+  "items": [
+   "21.05.2026 TOP 01"
+  ]
+ },
+ {
+  "name": "St.-Othmar-Str.",
+  "count": 1,
+  "items": [
+   "21.05.2026 TOP 03"
+  ]
+ },
+ {
+  "name": "Häusling",
+  "count": 1,
+  "items": [
+   "21.05.2026 TOP 04"
+  ]
+ },
+ {
+  "name": "Arnstorf",
+  "count": 1,
+  "items": [
+   "21.05.2026 TOP 05"
+  ]
+ },
+ {
+  "name": "Friedhof St. Peter",
+  "count": 1,
+  "items": [
+   "21.05.2026 TOP 08"
+  ]
+ },
+ {
+  "name": "SO Golf",
+  "count": 1,
+  "items": [
+   "24.06.2026 TOP 09"
+  ]
+ },
+ {
+  "name": "Anwesen Vogler",
+  "count": 1,
+  "items": [
+   "24.06.2026 TOP 10-11"
+  ]
+ },
+ {
+  "name": "Gainstorf",
+  "count": 1,
+  "items": [
+   "24.06.2026 TOP 12"
+  ]
+ },
+ {
+  "name": "Drucksteigerungspumpwerk Wifling",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 02"
+  ]
+ },
+ {
+  "name": "Neuhaus am Inn",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 02"
+  ]
+ },
+ {
+  "name": "Amberg",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 03"
+  ]
+ },
+ {
+  "name": "Grundschule Aldersbach",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 04"
+  ]
+ },
+ {
+  "name": "Turnhalle",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 04"
+  ]
+ },
+ {
+  "name": "Verkehrsübungsplatz",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 04"
+  ]
+ },
+ {
+  "name": "Haidenburg/ Häusling",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 11"
+  ]
+ },
+ {
+  "name": "Landratsamt Passau",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 11"
+  ]
+ },
+ {
+  "name": "Meiering",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 12"
+  ]
+ },
+ {
+  "name": "Beiglöd",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 12"
+  ]
+ },
+ {
+  "name": "Harreröd",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 12"
+  ]
+ },
+ {
+  "name": "Hauptplatz",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 14"
+  ]
+ },
+ {
+  "name": "Zisterzienser Straße",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 16"
+  ]
+ },
+ {
+  "name": "Waldspielplatz",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 16"
+  ]
+ },
+ {
+  "name": "Kloster",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 16"
+  ]
+ },
+ {
+  "name": "Klostergarten",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 16"
+  ]
+ },
+ {
+  "name": "Biergarten",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 16"
+  ]
+ },
+ {
+  "name": "Spielplatzes am Hang",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 16"
+  ]
+ },
+ {
+  "name": "Waschhaus",
+  "count": 1,
+  "items": [
+   "29.07.2026 TOP 16"
+  ]
+ },
+ {
+  "name": "Hirschbach",
+  "count": 1,
+  "items": [
+   "02.09.2026 TOP 01"
+  ]
+ },
+ {
+  "name": "Waldschulsiedlung",
+  "count": 1,
+  "items": [
+   "02.09.2026 TOP 02"
+  ]
+ },
+ {
+  "name": "Ritter-Tuschl-Str.",
+  "count": 1,
+  "items": [
+   "02.09.2026 TOP 02"
+  ]
+ },
+ {
+  "name": "St 2083",
+  "count": 1,
+  "items": [
+   "02.09.2026 TOP 02"
+  ]
+ }
+]

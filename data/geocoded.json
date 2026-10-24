@@ -1,0 +1,1214 @@
+{
+ "Pörndorf": {
+  "display": "Pörndorf, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5953227,
+  "lon": 13.0048117,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Pörndorf, Aldersbach"
+ },
+ "Walchsing": {
+  "display": "Walchsing, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.6085518,
+  "lon": 13.0772637,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Walchsing, Aldersbach"
+ },
+ "Kriestorf": {
+  "display": "Kriestorf, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.6095575,
+  "lon": 13.0429782,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Kriestorf, Aldersbach"
+ },
+ "Haidenburg": {
+  "display": "Haidenburg, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5680782,
+  "lon": 13.0257308,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Haidenburg, Aldersbach"
+ },
+ "Uttigkofen": {
+  "display": "Uttigkofen, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5809502,
+  "lon": 13.0315677,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Uttigkofen, Aldersbach"
+ },
+ "Edelsbrunn": {
+  "display": "Edelsbrunn, Wifling, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5843816,
+  "lon": 13.1017388,
+  "class": null,
+  "type": "isolated_dwelling",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Edelsbrunn, Aldersbach"
+ },
+ "Aidenbach": {
+  "display": "Aldersbach, Heft, Aidenbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5720819,
+  "lon": 13.0835906,
+  "class": null,
+  "type": "stream",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Aidenbach, Aldersbach"
+ },
+ "Freundorf": {
+  "display": "Freundorf, Uttigkofen, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5914873,
+  "lon": 13.0384935,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Freundorf, Aldersbach"
+ },
+ "Schwaig X": {
+  "display": "Abt-Zanker-Straße, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5872397,
+  "lon": 13.0795311,
+  "class": null,
+  "type": "unclassified",
+  "in_aldersbach": true,
+  "precision": "approximate — Baugebiet, Erschließung über Abt-Zanker-Straße",
+  "query": "Abt-Zanker-Straße, Aldersbach"
+ },
+ "Pleinting": {
+  "display": "Pleinting, Vilshofen an der Donau, Landkreis Passau, Bayern, 94474, Deutschland",
+  "lat": 48.6604745,
+  "lon": 13.119804,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Pleinting"
+ },
+ "Ortskern Aldersbach": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Ortskern (village centre)",
+  "query": "Aldersbach"
+ },
+ "Neustift": {
+  "display": "Neustift, Walchsing, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.6239373,
+  "lon": 13.0788321,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Neustift, Aldersbach"
+ },
+ "Vilshofen an der Donau": {
+  "display": "Vilshofen an der Donau, Landkreis Passau, Bayern, 94474, Deutschland",
+  "lat": 48.6258041,
+  "lon": 13.1643127,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Vilshofen an der Donau"
+ },
+ "Gumperting": {
+  "display": "Gumperting, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5750807,
+  "lon": 13.0743381,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Gumperting, Aldersbach"
+ },
+ "Aldersbach Nord": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Gewerbegebiet im Norden des Gemeindegebiets",
+  "query": "Aldersbach"
+ },
+ "Kloster Aldersbach": {
+  "display": "Kloster Aldersbach, 1, Freiherr-von-Aretin-Platz, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5875915,
+  "lon": 13.0858482,
+  "class": null,
+  "type": "yes",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Kloster Aldersbach"
+ },
+ "Wetzstein": {
+  "display": "Wetzstein, Kriestorf, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.6215327,
+  "lon": 13.0510422,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Wetzstein, Aldersbach"
+ },
+ "Landkreis Passau": null,
+ "Bad Birnbach": {
+  "display": "Bad Birnbach, Bad Birnbach (VGem), Landkreis Rottal-Inn, Bayern, 84364, Deutschland",
+  "lat": 48.4431424,
+  "lon": 13.0893817,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Bad Birnbach"
+ },
+ "Uttigkofen-Haidenburg": {
+  "display": "Haidenburg, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5680782,
+  "lon": 13.0257308,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "approximate",
+  "query": "Haidenburg, Aldersbach"
+ },
+ "St. Peter": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Ortsbereich „St. Peter“",
+  "query": "Aldersbach"
+ },
+ "Dorfanger": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Ortsmitte/Dorfanger",
+  "query": "Aldersbach"
+ },
+ "Gemarkung Haidenburg": {
+  "display": "Haidenburg, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5680782,
+  "lon": 13.0257308,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Haidenburg, Aldersbach"
+ },
+ "ILE Klosterwinkel": null,
+ "Gaimersheim": {
+  "display": "Gaimersheim, Bahnhofstraße, Angermühle, Mittlere Heide, Gaimersheim, Landkreis Eichstätt, Bayern, 85080, Deutschland",
+  "lat": 48.7986489,
+  "lon": 11.3702263,
+  "class": null,
+  "type": "platform",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Gaimersheim"
+ },
+ "Robert-Daiser-Straße": {
+  "display": "Robert-Daiser-Straße, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.589271,
+  "lon": 13.0906197,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Robert-Daiser-Straße, Aldersbach"
+ },
+ "Abt-Zanker-Straße": {
+  "display": "Abt-Zanker-Straße, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5872397,
+  "lon": 13.0795311,
+  "class": null,
+  "type": "unclassified",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Abt-Zanker-Straße, Aldersbach"
+ },
+ "Cham": {
+  "display": "Cham, Landkreis Cham, Bayern, 93413, Deutschland",
+  "lat": 49.2178194,
+  "lon": 12.6663832,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Cham"
+ },
+ "ST 2108": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Staatsstraße 2108 im Gemeindegebiet",
+  "query": "Aldersbach"
+ },
+ "Vilshofen-Alkofen": {
+  "display": "Alkofen, Vilshofen an der Donau, Landkreis Passau, Bayern, 94474, Deutschland",
+  "lat": 48.6309652,
+  "lon": 13.1339134,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Vilshofen-Alkofen"
+ },
+ "Hengersberg": {
+  "display": "Hengersberg, Landkreis Deggendorf, Bayern, 94491, Deutschland",
+  "lat": 48.7736572,
+  "lon": 13.0515083,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Hengersberg"
+ },
+ "Volksfestplatz": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Volksfestplatz in Aldersbach",
+  "query": "Aldersbach"
+ },
+ "Eggerting": {
+  "display": "Eggerting, Haidenburg, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.576129,
+  "lon": 13.0219578,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Eggerting, Aldersbach"
+ },
+ "Osterhofen": {
+  "display": "Osterhofen, Landkreis Deggendorf, Bayern, 94486, Deutschland",
+  "lat": 48.7019635,
+  "lon": 13.0201434,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Osterhofen"
+ },
+ "SO Photovoltaikpark Wetzstein": {
+  "display": "Wetzstein, Kriestorf, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.6215327,
+  "lon": 13.0510422,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "approximate",
+  "query": "Wetzstein, Aldersbach"
+ },
+ "Moos": {
+  "display": "Moos, Pörndorf, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5905021,
+  "lon": 13.0073261,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Moos, Aldersbach"
+ },
+ "Hofkirchen": {
+  "display": "Hofkirchen, Landkreis Passau, Bayern, 94544, Deutschland",
+  "lat": 48.6779936,
+  "lon": 13.118189,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Hofkirchen"
+ },
+ "Iggensbach": {
+  "display": "Iggensbach, Landkreis Deggendorf, Bayern, 94547, Deutschland",
+  "lat": 48.730933,
+  "lon": 13.141065,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Iggensbach"
+ },
+ "Aldersbach-Nord": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Gewerbegebiet im Norden des Gemeindegebiets",
+  "query": "Aldersbach"
+ },
+ "Adenberg": {
+  "display": "Adenberg, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5856655,
+  "lon": 13.1212993,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Adenberg, Aldersbach"
+ },
+ "Hinteröd": {
+  "display": "Hinteröd, Haidenburg, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5562383,
+  "lon": 13.019549,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Hinteröd, Aldersbach"
+ },
+ "Warbachweg": {
+  "display": "Warbachweg, Wimhof, Vilshofen an der Donau, Landkreis Passau, Bayern, 94474, Deutschland",
+  "lat": 48.6366128,
+  "lon": 13.178067,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Warbachweg"
+ },
+ "Dietmar-von-Ayst-Straße": {
+  "display": "Dietmar-von-Ayst-Straße, Schaltbau GmbH, Sankt Peter, Walchsing, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5917119,
+  "lon": 13.0873504,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Dietmar-von-Ayst-Straße, Aldersbach"
+ },
+ "Schaltbau": {
+  "display": "Schaltbau GmbH, 10, Sankt Peter, Walchsing, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5931046,
+  "lon": 13.0891799,
+  "class": null,
+  "type": "industrial",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Schaltbau, Aldersbach"
+ },
+ "Hiendlöd": {
+  "display": "Hiendlöd, Walchsing, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.619467,
+  "lon": 13.0815063,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Hiendlöd, Aldersbach"
+ },
+ "Reit": {
+  "display": "Reit, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5875327,
+  "lon": 12.9943356,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Reit"
+ },
+ "Wifling": {
+  "display": "Wifling, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5877415,
+  "lon": 13.0990639,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Wifling, Aldersbach"
+ },
+ "Eggersdorfer Straße": {
+  "display": "Eggersdorfer Straße, Eggerting, Uttigkofen, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5803638,
+  "lon": 13.0300237,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Eggersdorfer Straße, Aldersbach"
+ },
+ "Sulzbach": {
+  "display": "Sulzbach, Uttigkofen, Aldersbach, Landkreis Passau, Bayern, Deutschland",
+  "lat": 48.579817,
+  "lon": 13.025651,
+  "class": null,
+  "type": "river",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Sulzbach, Aldersbach"
+ },
+ "Vilsfeld": {
+  "display": "Vilsfeld, Hördt, Vilshofen an der Donau, Landkreis Passau, Bayern, 94474, Deutschland",
+  "lat": 48.6267246,
+  "lon": 13.1850684,
+  "class": null,
+  "type": "neighbourhood",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Vilsfeld"
+ },
+ "Prienbach": {
+  "display": "Prienbach, Stubenberg, Ering (VGem), Landkreis Rottal-Inn, Bayern, 94166, Deutschland",
+  "lat": 48.2901785,
+  "lon": 13.0753642,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Prienbach"
+ },
+ "Stubenberg": {
+  "display": "Stubenberg, Ering (VGem), Landkreis Rottal-Inn, Bayern, 94166, Deutschland",
+  "lat": 48.3099545,
+  "lon": 13.0724399,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Stubenberg"
+ },
+ "Simbach": {
+  "display": "Simbach, Landkreis Rottal-Inn, Bayern, 84359, Deutschland",
+  "lat": 48.2663113,
+  "lon": 13.0279972,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Simbach"
+ },
+ "Brauereiparkplatz": null,
+ "Weng-Weidfeld": null,
+ "Vivilo-/ Urbanstraße": {
+  "display": "Urbanstraße, Schmidbauer, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5883578,
+  "lon": 13.0712681,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": true,
+  "precision": "approximate — Kreuzungsbereich Vivilo-/Urbanstraße",
+  "query": "Urbanstraße, Aldersbach"
+ },
+ "Mondseestraße": {
+  "display": "Mondseestraße, Schmidbauer, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5863279,
+  "lon": 13.0723407,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Mondseestraße, Aldersbach"
+ },
+ "„St. Peter“": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Ortsbereich „St. Peter“",
+  "query": "Aldersbach"
+ },
+ "„Schwaig“": {
+  "display": "Schwaig, Hundsblasel, Aldersbach, Landkreis Passau, Bayern, Deutschland",
+  "lat": 48.5876867,
+  "lon": 13.0660826,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Schwaig, Aldersbach"
+ },
+ "Sagmeistergarten": {
+  "display": "Sagmeistergarten, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5891518,
+  "lon": 13.0875152,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Sagmeistergarten, Aldersbach"
+ },
+ "Witzmannsberg": {
+  "display": "Witzmannsberg, Tittling (VGem), Landkreis Passau, Bayern, Deutschland",
+  "lat": 48.7272401,
+  "lon": 13.4238023,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Witzmannsberg"
+ },
+ "Neuhaus/Inn": {
+  "display": "Neuhaus am Inn, Landkreis Passau, Bayern, 94152, Deutschland",
+  "lat": 48.461631,
+  "lon": 13.4199648,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Neuhaus/Inn"
+ },
+ "Deckblatt Nr. 35": null,
+ "Rindellohbachbrücke": {
+  "display": "Kriestorf, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.6095575,
+  "lon": 13.0429782,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "approximate — Rindellohbachbrücke in Kriestorf",
+  "query": "Kriestorf, Aldersbach"
+ },
+ "Apostelbrücke": {
+  "display": "Walchsing, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.6085518,
+  "lon": 13.0772637,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "approximate — Apostelbrücke in Walchsing",
+  "query": "Walchsing, Aldersbach"
+ },
+ "Fürstenzell": {
+  "display": "Fürstenzell, Landkreis Passau, Bayern, 94081, Deutschland",
+  "lat": 48.5229974,
+  "lon": 13.3147436,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Fürstenzell"
+ },
+ "Heinrichsdorf": {
+  "display": "Heinrichsdorf, Uttigkofen, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5904321,
+  "lon": 13.0304398,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Heinrichsdorf, Aldersbach"
+ },
+ "Zisterzienserstraße": {
+  "display": "Zisterzienser-Straße, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.58725,
+  "lon": 13.0868086,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Zisterzienserstraße, Aldersbach"
+ },
+ "Sankt Peter": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Ortsbereich „St. Peter“",
+  "query": "Aldersbach"
+ },
+ "Bebauungsplanes „Alter Sportplatz“": null,
+ "Deponie Hiendlöd": {
+  "display": "Hiendlöd, Walchsing, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.619467,
+  "lon": 13.0815063,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Hiendlöd, Aldersbach"
+ },
+ "Stocköder Straße": {
+  "display": "Stocköder Straße, Karglöd, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5819166,
+  "lon": 13.11026,
+  "class": null,
+  "type": "service",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Stocköder Straße, Aldersbach"
+ },
+ "Mühldorferöd": {
+  "display": "Mühldorferöd, Alkofen, Vilshofen an der Donau, Landkreis Passau, Bayern, 94474, Deutschland",
+  "lat": 48.6411967,
+  "lon": 13.1486606,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Mühldorferöd"
+ },
+ "Ritter-Tuschl-Straße": {
+  "display": "Ritter-Tuschl-Straße, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5898741,
+  "lon": 13.0860528,
+  "class": null,
+  "type": "secondary",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Ritter-Tuschl-Straße, Aldersbach"
+ },
+ "Passauer Land": null,
+ "St.-Othmar-Str.": {
+  "display": "St.-Othmar-Straße, Am Käserberg, Kriestorf, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.6080983,
+  "lon": 13.0431984,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "St.-Othmar-Str., Aldersbach"
+ },
+ "Arnstorf": {
+  "display": "Arnstorf, Landkreis Rottal-Inn, Bayern, 94424, Deutschland",
+  "lat": 48.5545444,
+  "lon": 12.82067,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Arnstorf"
+ },
+ "SO Golf": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Gemeindegebiet",
+  "query": "Aldersbach"
+ },
+ "Gainstorf": {
+  "display": "Gainstorf, Kriestorf, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.6088841,
+  "lon": 13.0276507,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Gainstorf, Aldersbach"
+ },
+ "Drucksteigerungspumpwerk Wifling": {
+  "display": "Wifling, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5877415,
+  "lon": 13.0990639,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "approximate",
+  "query": "Wifling, Aldersbach"
+ },
+ "Neuhaus am Inn": {
+  "display": "Neuhaus am Inn, Landkreis Passau, Bayern, 94152, Deutschland",
+  "lat": 48.461631,
+  "lon": 13.4199648,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Neuhaus am Inn"
+ },
+ "Amberg": {
+  "display": "Amberg, Bayern, 92224, Deutschland",
+  "lat": 49.4543662,
+  "lon": 11.8474021,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Amberg"
+ },
+ "Grundschule Aldersbach": {
+  "display": "Wolfgang-Marius-Grundschule, Schulstraße, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5874362,
+  "lon": 13.0900529,
+  "class": null,
+  "type": "school",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Grundschule Aldersbach"
+ },
+ "Turnhalle": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Turnhalle in Aldersbach",
+  "query": "Aldersbach"
+ },
+ "Verkehrsübungsplatz": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate",
+  "query": "Aldersbach"
+ },
+ "Landratsamt Passau": {
+  "display": "Landratsamt Passau, Steinweg, Altstadt, Ries, Passau, Bayern, 94032, Deutschland",
+  "lat": 48.5749897,
+  "lon": 13.464779,
+  "class": null,
+  "type": "government",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Landratsamt Passau"
+ },
+ "Meiering": {
+  "display": "Meiering, Walchsing, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.6191996,
+  "lon": 13.0947963,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Meiering, Aldersbach"
+ },
+ "Beiglöd": {
+  "display": "Beiglöd, Walchsing, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.622709,
+  "lon": 13.0988086,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Beiglöd, Aldersbach"
+ },
+ "Harreröd": {
+  "display": "Harreröd, Walchsing, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.6256874,
+  "lon": 13.0971354,
+  "class": null,
+  "type": "hamlet",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Harreröd, Aldersbach"
+ },
+ "Hauptplatz": {
+  "display": "Pörndorf, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5953227,
+  "lon": 13.0048117,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "approximate — Hauptplatz Pörndorf",
+  "query": "Pörndorf, Aldersbach"
+ },
+ "Zisterzienser Straße": {
+  "display": "Zisterzienser-Straße, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.58725,
+  "lon": 13.0868086,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Zisterzienser Straße, Aldersbach"
+ },
+ "Waldspielplatz": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Waldspielplatz",
+  "query": "Aldersbach"
+ },
+ "Kloster": {
+  "display": "Kloster Aldersbach, 1, Freiherr-von-Aretin-Platz, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5875915,
+  "lon": 13.0858482,
+  "class": null,
+  "type": "yes",
+  "in_aldersbach": true,
+  "precision": "approximate",
+  "query": "Kloster Aldersbach"
+ },
+ "Klostergarten": {
+  "display": "Kloster Aldersbach, 1, Freiherr-von-Aretin-Platz, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5875915,
+  "lon": 13.0858482,
+  "class": null,
+  "type": "yes",
+  "in_aldersbach": true,
+  "precision": "approximate",
+  "query": "Kloster Aldersbach"
+ },
+ "Biergarten": {
+  "display": "Kloster Aldersbach, 1, Freiherr-von-Aretin-Platz, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5875915,
+  "lon": 13.0858482,
+  "class": null,
+  "type": "yes",
+  "in_aldersbach": true,
+  "precision": "approximate — Biergarten am Klosterareal",
+  "query": "Kloster Aldersbach"
+ },
+ "Spielplatzes am Hang": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Spielplatz am Hang (Zisterzienserstraße)",
+  "query": "Aldersbach"
+ },
+ "Waschhaus": {
+  "display": "Kloster Aldersbach, 1, Freiherr-von-Aretin-Platz, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5875915,
+  "lon": 13.0858482,
+  "class": null,
+  "type": "yes",
+  "in_aldersbach": true,
+  "precision": "approximate — ehemaliges Waschhaus im Klosterareal",
+  "query": "Kloster Aldersbach"
+ },
+ "Waldschulsiedlung": {
+  "display": "Robert-Daiser-Straße, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.589271,
+  "lon": 13.0906197,
+  "class": null,
+  "type": "residential",
+  "in_aldersbach": true,
+  "precision": "approximate — Waldschulsiedlung",
+  "query": "Robert-Daiser-Straße, Aldersbach"
+ },
+ "Ritter-Tuschl-Str.": {
+  "display": "Ritter-Tuschl-Straße, Sankt Peter, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5898741,
+  "lon": 13.0860528,
+  "class": null,
+  "type": "secondary",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Ritter-Tuschl-Str., Aldersbach"
+ },
+ "St 2083": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Staatsstraße 2083 im Gemeindegebiet",
+  "query": "Aldersbach"
+ },
+ "Aldersbach": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Aldersbach"
+ },
+ "Passau": {
+  "display": "Passau, Bayern, Deutschland",
+  "lat": 48.5748229,
+  "lon": 13.4609744,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Passau"
+ },
+ "Vilshofen": {
+  "display": "Vilshofen an der Donau, Landkreis Passau, Bayern, 94474, Deutschland",
+  "lat": 48.6258041,
+  "lon": 13.1643127,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Vilshofen an der Donau"
+ },
+ "Pirach": null,
+ "Roßbach": null,
+ "GE Linda": {
+  "display": "Linda, Aidenbacher Straße, Lindach, Waizenbach, Vilshofen an der Donau, Landkreis Passau, Bayern, 94474, Deutschland",
+  "lat": 48.615364,
+  "lon": 13.1782777,
+  "class": null,
+  "type": "bus_stop",
+  "in_aldersbach": false,
+  "precision": "approximate — GE „Linda“ der Stadt Vilshofen",
+  "query": "Linda, Vilshofen an der Donau"
+ },
+ "SO Solarpark Dorf II": {
+  "display": "Vilshofen an der Donau, Landkreis Passau, Bayern, 94474, Deutschland",
+  "lat": 48.6258041,
+  "lon": 13.1643127,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "approximate — B-Plan „SO Solarpark Dorf II“ der Stadt Vilshofen",
+  "query": "Vilshofen an der Donau"
+ },
+ "Waldstadion": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Waldstadion (FC Aldersbach)",
+  "query": "Aldersbach"
+ },
+ "Industrie- und Gewerbegebiet Esterndorf": null,
+ "Seier": {
+  "display": "Seier Aldersbach",
+  "lat": 48.62611147317264,
+  "lon": 13.113089328874587,
+  "class": "location",
+  "type": "Adresse/Flur (BayernAtlas)",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Seier Aldersbach"
+ },
+ "Unterfeld": {
+  "display": "Vilshofen an der Donau, Landkreis Passau, Bayern, 94474, Deutschland",
+  "lat": 48.6258041,
+  "lon": 13.1643127,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "approximate — B-Plan „Unterfeld“ der Stadt Vilshofen",
+  "query": "Vilshofen an der Donau"
+ },
+ "Lindahof III": {
+  "display": "Linda, Aidenbacher Straße, Lindach, Waizenbach, Vilshofen an der Donau, Landkreis Passau, Bayern, 94474, Deutschland",
+  "lat": 48.615364,
+  "lon": 13.1782777,
+  "class": null,
+  "type": "bus_stop",
+  "in_aldersbach": false,
+  "precision": "approximate — Lindahof-Pläne der Stadt Vilshofen",
+  "query": "Linda, Vilshofen an der Donau"
+ },
+ "Schartnergasse": {
+  "display": "Schartnergasse 94501 Aldersbach, Uttigkofen",
+  "lat": 48.579359499361985,
+  "lon": 13.029833269922394,
+  "class": "location",
+  "type": "Adresse/Flur (BayernAtlas)",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Schartnergasse Aldersbach"
+ },
+ "Kramersepp": {
+  "display": "Kramersepp 94501 Aldersbach, Walchsing",
+  "lat": 48.61804627324312,
+  "lon": 13.062939982113601,
+  "class": "location",
+  "type": "Adresse/Flur (BayernAtlas)",
+  "in_aldersbach": true,
+  "precision": "exact — Gemeindeverbindungsstraße Kramersepp",
+  "query": "Kramersepp Aldersbach"
+ },
+ "Schöfbachstraße": {
+  "display": "Schöfbachstraße 94501 Aldersbach, Uttigkofen",
+  "lat": 48.58125852931363,
+  "lon": 13.034938702719781,
+  "class": "location",
+  "type": "Adresse/Flur (BayernAtlas)",
+  "in_aldersbach": true,
+  "precision": "exact",
+  "query": "Schöfbachstraße Aldersbach"
+ },
+ "„Waldschule“": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Ortsbereich „Waldschule“",
+  "query": "Aldersbach"
+ },
+ "Bahnhofsstraße": {
+  "display": "Aldersbach (096268), 447/7 - Gde Aldersbach, Passau",
+  "lat": 48.590367372662186,
+  "lon": 13.092160048652177,
+  "class": "landparcel",
+  "type": "Flurstück (BayernAtlas/ALKIS)",
+  "in_aldersbach": true,
+  "precision": "exact — Flurstück 447/7, Gemarkung Aldersbach (freie Fläche)",
+  "query": "Aldersbach 447 7"
+ },
+ "Aldersbach-Kollberg": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Ortsteil Kollberg",
+  "query": "Aldersbach"
+ },
+ "WA am Zeitlarner Berg II": null,
+ "Wettmannstätten": {
+  "display": "Wettmannstätten, Bezirk Deutschlandsberg, Steiermark, 8521, Österreich",
+  "lat": 46.8307285,
+  "lon": 15.3843566,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": false,
+  "precision": "exact",
+  "query": "Wettmannstätten"
+ },
+ "Kläranlage": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Kläranlage im Gemeindegebiet",
+  "query": "Aldersbach"
+ },
+ "Emmersdorfer Straße": {
+  "display": "Emmersdorfer Straße (Landkreis Passau)",
+  "lat": 48.577805158691135,
+  "lon": 13.026619287132572,
+  "class": "location",
+  "type": "Adresse/Flur (BayernAtlas)",
+  "in_aldersbach": true,
+  "precision": "exact — Emmersdorfer Straße, Gemarkung Haidenburg",
+  "query": "Emmersdorfer Straße"
+ },
+ "Häusling": {
+  "display": "Haidenburg, Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5680782,
+  "lon": 13.0257308,
+  "class": null,
+  "type": "village",
+  "in_aldersbach": true,
+  "precision": "approximate — Ortsteil Häusling (bei Haidenburg)",
+  "query": "Haidenburg, Aldersbach"
+ },
+ "Friedhof St. Peter": {
+  "display": "Aldersbach, Landkreis Passau, Bayern, 94501, Deutschland",
+  "lat": 48.5881793,
+  "lon": 13.0846579,
+  "class": null,
+  "type": "administrative",
+  "in_aldersbach": true,
+  "precision": "approximate — Friedhof St. Peter",
+  "query": "Aldersbach"
+ },
+ "Anwesen Vogler": {
+  "display": "Vogler 94501 Aldersbach, Walchsing",
+  "lat": 48.61195586427795,
+  "lon": 13.101174462763211,
+  "class": "location",
+  "type": "Adresse/Flur (BayernAtlas)",
+  "in_aldersbach": true,
+  "precision": "approximate — Anwesen Vogler",
+  "query": "Anwesen Vogler Aldersbach"
+ },
+ "Hirschbach": null,
+ "Umspannwerk": {
+  "display": "Pörndorf (096267), 507 - Gde Aldersbach, Passau",
+  "lat": 48.594799819220405,
+  "lon": 12.989409578644716,
+  "class": "landparcel",
+  "type": "Flurstück (BayernAtlas/ALKIS)",
+  "in_aldersbach": true,
+  "precision": "approximate — Flurstück 507, Gemarkung Pörndorf (Plan ist eine Teilfläche)",
+  "query": "Pörndorf 507"
+ },
+ "SO Energie – Batteriespeicheranlage am Umspannwerk": {
+  "display": "Pörndorf (096267), 507 - Gde Aldersbach, Passau",
+  "lat": 48.594799819220405,
+  "lon": 12.989409578644716,
+  "class": "landparcel",
+  "type": "Flurstück (BayernAtlas/ALKIS)",
+  "in_aldersbach": true,
+  "precision": "approximate — Flurstück 507, Gemarkung Pörndorf (Plan ist eine Teilfläche)",
+  "query": "Pörndorf 507"
+ },
+ "So Photovoltaikpark Edelsbrunn": {
+  "display": "Aldersbach (096268), 611 - Gde Aldersbach, Passau",
+  "lat": 48.59036392641903,
+  "lon": 13.107471832669995,
+  "class": "landparcel",
+  "type": "Flurstück (BayernAtlas/ALKIS)",
+  "in_aldersbach": true,
+  "precision": "exact — Flurstück 611, Gemarkung Aldersbach",
+  "query": "Aldersbach 611"
+ },
+ "SO Photovoltaikpark Edelsbrunn": {
+  "display": "Aldersbach (096268), 611 - Gde Aldersbach, Passau",
+  "lat": 48.59036392641903,
+  "lon": 13.107471832669995,
+  "class": "landparcel",
+  "type": "Flurstück (BayernAtlas/ALKIS)",
+  "in_aldersbach": true,
+  "precision": "exact — Flurstück 611, Gemarkung Aldersbach",
+  "query": "Aldersbach 611"
+ },
+ "Uttigkofen-Eggerting": {
+  "display": "Haidenburg (096269), 1250 - Gde Aldersbach, Passau",
+  "lat": 48.57548561159165,
+  "lon": 13.021554174119423,
+  "class": "landparcel",
+  "type": "Flurstück (BayernAtlas/ALKIS)",
+  "in_aldersbach": true,
+  "precision": "exact — Flurstück 1250, Gemarkung Haidenburg",
+  "query": "Haidenburg 1250"
+ },
+ "Haidenburg/ Häusling": {
+  "display": "Haidenburg (096269), 23/17 - Gde Aldersbach, Passau",
+  "lat": 48.56609607353711,
+  "lon": 13.030455310775176,
+  "class": "landparcel",
+  "type": "Flurstück (BayernAtlas/ALKIS)",
+  "in_aldersbach": true,
+  "precision": "approximate — B-Plan umfasst die Flurstücke 23/17, 23/7 und 25/1",
+  "query": "Haidenburg 23 17"
+ }
+}
